@@ -1,0 +1,23 @@
+[
+  {
+    "pokemonId": 25,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 23,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Route 23"
+  },
+  {
+    "pokemonId": 37,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion"
+  }
+]

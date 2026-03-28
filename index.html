@@ -22,16 +22,88 @@
       <input type="text" id="search" placeholder="Search pokemon..." />
       <div class="app-container">
         <div class="filters-panel">
-          <button id="clear-filters">Clear Filters</button> <br />
-          <br />
-          <label for="filter">Filter:</label>
-          <select id="filter">
-            <option value="all">All</option>
-            <option value="caught">Caught</option>
-            <option value="not-caught">Not Caught</option>
-            <option value="shiny">Shiny</option>
-          </select>
           <div class="region-filter">
+            <h2>Owned</h2>
+
+            <div class="filter-group">
+              <p>Consoles</p>
+
+              <label class="filter-option">
+                <input type="checkbox" class="owned-console" value="Game Boy" />
+                Game Boy
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-console"
+                  value="Game Boy Advance"
+                />
+                Game Boy Advance
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-console"
+                  value="Nintendo DS"
+                />
+                Nintendo DS
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-console"
+                  value="Nintendo Switch"
+                />
+                Nintendo Switch
+              </label>
+            </div>
+
+            <div class="filter-group">
+              <p>Games</p>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon FireRed"
+                />
+                Pokemon FireRed
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon HeartGold"
+                />
+                Pokemon HeartGold
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Scarlet"
+                />
+                Pokemon Scarlet
+              </label>
+            </div>
+
+            <h2>Filters</h2>
+
+            <button id="clear-filters">Clear Filters</button> <br />
+            <br />
+            <label for="filter">Filter:</label>
+            <select id="filter">
+              <option value="all">All</option>
+              <option value="caught">Caught</option>
+              <option value="not-caught">Not Caught</option>
+              <option value="shiny">Shiny</option>
+            </select>
+
             <p>Region</p>
             <label class="filter-option"
               ><input type="checkbox" class="region-checkbox" value="kanto" />

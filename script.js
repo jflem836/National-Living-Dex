@@ -1,28 +1,77 @@
-async function loadDefaultPokemon() {
-    const response = await fetch("pokemon.json");
-    const data = await response.json();
-    return data;
+async function loadJSON(filename) {
+  const response = await fetch(filename);
+
+  if (!response.ok) {
+    throw new Error(`Failed to load ${filename}`);
+  }
+
+  return await response.json();
+}
+
+function buildEncounterMap(encounters) {
+  const map = new Map();
+
+  for (const encounter of encounters) {
+    if (!map.has(encounter.pokemonId)) {
+      map.set(encounter.pokemonId, []);
+    }
+
+    map.get(encounter.pokemonId).push({
+      name: encounter.game,
+      console: encounter.console,
+      location: encounter.location,
+      method: encounter.method || "Unknown"
+    });
+  }
+
+  return map;
+}
+
+function getPokemonGames(pokemonId) {
+  return encounterMap.get(pokemonId) || [];
+}
+
+function getSpriteUrl(pokemonId) {
+  return `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemonId}.png`;
 }
 
 let pokemonData = [];
 let selectedPokemonId = null;
+let encounterMap = new Map();
+
+async function loadAllEncounters() {
+  const files = await loadJSON("encounters/index.json");
+  const encounterArrays = await Promise.all(
+    files.map((file) => loadJSON(`encounters/${file}`))
+  );
+  return encounterArrays.flat();
+}
 
 async function init() {
-  const defaultData = await loadDefaultPokemon();
+  const pokemon = await loadJSON("pokemon.json");
+  const encounters = await loadAllEncounters();
+
+  encounterMap = buildEncounterMap(encounters);
 
   const savedData = localStorage.getItem("pokemonData");
 
   if (savedData) {
     pokemonData = JSON.parse(savedData);
   } else {
-    pokemonData = defaultData;
+    pokemonData = pokemon.map((p) => ({
+      ...p,
+      caught: false,
+      shiny: false
+    }));
   }
 
-  console.log(pokemonData);
+  loadOwnedSelections();
   applyFilters();
 }
 
-//localStorage.removeItem("pokemonData");
+localStorage.removeItem("pokemonData");
+localStorage.removeItem("ownedGames");
+localStorage.removeItem("ownedConsoles");
 init();
 
 const pokemonList = document.getElementById("pokemon-list");
@@ -30,6 +79,8 @@ const completionText = document.getElementById("completion");
 const progressText = document.getElementById("progress-text");
 const progressFill = document.getElementById("progress-fill");
 const searchInput = document.getElementById("search");
+const ownedConsoleCheckboxes = document.querySelectorAll(".owned-console");
+const ownedGameCheckboxes = document.querySelectorAll(".owned-game");
 const filterSelect = document.getElementById("filter");
 const clearFiltersBtn = document.getElementById("clear-filters");
 const regionCheckboxes = document.querySelectorAll('.region-checkbox');
@@ -66,6 +117,32 @@ function updateObtainableProgress(obtainablePokemon) {
   obtainableProgressFill.style.width = `${percent}%`;
 }
 
+function saveOwnedSelections() {
+  const ownedGames = Array.from(ownedGameCheckboxes)
+    .filter(cb => cb.checked)
+    .map(cb => cb.value);
+
+  const ownedConsoles = Array.from(ownedConsoleCheckboxes)
+    .filter(cb => cb.checked)
+    .map(cb => cb.value);
+
+  localStorage.setItem("ownedGames", JSON.stringify(ownedGames));
+  localStorage.setItem("ownedConsoles", JSON.stringify(ownedConsoles));
+}
+
+function loadOwnedSelections() {
+  const savedGames = JSON.parse(localStorage.getItem("ownedGames")) || [];
+  const savedConsoles = JSON.parse(localStorage.getItem("ownedConsoles")) || [];
+
+  ownedGameCheckboxes.forEach((checkbox) => {
+    checkbox.checked = savedGames.includes(checkbox.value);
+  });
+
+  ownedConsoleCheckboxes.forEach((checkbox) => {
+    checkbox.checked = savedConsoles.includes(checkbox.value);
+  });
+}
+
 function renderPokemon(pokemonArray, container) {
   container.innerHTML = "";
 
@@ -84,7 +161,7 @@ function renderPokemon(pokemonArray, container) {
         ${pokemon.shiny ? "✨" : "☆"}
       </button>
       <div class="sprite-container">
-        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png" alt="${pokemon.name}">
+        <img src="${getSpriteUrl(pokemon.id)}" alt="${pokemon.name}">
       </div>
       <div class="pokemon-name">${pokemon.name}</div>
 
@@ -112,16 +189,18 @@ function renderPokemonDetails() {
     return;
   }
 
+  const games = getPokemonGames(pokemon.id);
   let gamesHTML = "";
 
-  if (pokemon.games && pokemon.games.length > 0) {
-    for (let i = 0; i < pokemon.games.length; i++) {
-      const game = pokemon.games[i];
+  if (games.length > 0) {
+    for (let i = 0; i < games.length; i++) {
+      const game = games[i];
       gamesHTML += `
         <li class="game-entry">
           <strong>${game.name}</strong><br>
           <span class="game-console">${game.console}</span><br>
-          <span class="game-location">${game.location}</span>
+          <span class="game-location">${game.location || "Unknown location"}</span><br>
+          <span class="game-method">${game.method}</span>
         </li>
       `;
     }
@@ -133,7 +212,7 @@ function renderPokemonDetails() {
     <div class="details-header">
       <img 
         class="details-sprite"
-        src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png" 
+        src="${getSpriteUrl(pokemon.id)}"
         alt="${pokemon.name}"
       >
       <div>
@@ -204,7 +283,6 @@ clearFiltersBtn.addEventListener("click", () => {
 
   regionCheckboxes.forEach(cb => cb.checked = false);
   typeCheckboxes.forEach(cb => cb.checked = false);
-  gameCheckboxes.forEach(cb => cb.checked = false);
 
   applyFilters();
 });
@@ -245,15 +323,23 @@ function applyFilters() {
     .filter((cb) => cb.checked)
     .map((cb) => cb.value);
 
+  const ownedGames = Array.from(ownedGameCheckboxes)
+    .filter((cb) => cb.checked)
+    .map((cb) => cb.value);
+
+  const ownedConsoles = Array.from(ownedConsoleCheckboxes)
+    .filter((cb) => cb.checked)
+    .map((cb) => cb.value);
+
   const obtainablePokemon = pokemonData.filter((pokemon) =>
-    isObtainable(pokemon, selectedGames, selectedConsoles)
-  );
+    isObtainable(pokemon, ownedGames, ownedConsoles)
+    );
 
   const unavailablePokemon = pokemonData
-  .filter((pokemon) => !isObtainable(pokemon, selectedGames, selectedConsoles))
-  .map((pokemon) => ({
-    ...pokemon,
-    unavailableReasons: getUnavailabilityReasons(pokemon, selectedGames, selectedConsoles)
+    .filter((pokemon) => !isObtainable(pokemon, ownedGames, ownedConsoles))
+    .map((pokemon) => ({
+        ...pokemon,
+        unavailableReasons: getUnavailabilityReasons(pokemon, ownedGames, ownedConsoles)
   }));
 
   const visibleObtainable = obtainablePokemon.filter((pokemon) =>
@@ -276,6 +362,9 @@ function applyFilters() {
     )
   );
 
+  console.log("applyFilters running");
+  console.log("pokemonData:", pokemonData);
+
   renderPokemon(visibleObtainable, pokemonList);
   renderPokemon(visibleUnavailable, unavailablePokemonList);
 
@@ -293,17 +382,19 @@ function updateAvailabilitySummary(obtainablePokemon, unavailablePokemon) {
 }
 
 function isObtainable(pokemon, selectedGames, selectedConsoles) {
+  const games = getPokemonGames(pokemon.id);
+
   if (selectedGames.length === 0 && selectedConsoles.length === 0) {
     return true;
   }
 
   const matchesGame =
     selectedGames.length === 0 ||
-    (pokemon.games && pokemon.games.some((game) => selectedGames.includes(game.name)));
+    games.some((game) => selectedGames.includes(game.name));
 
   const matchesConsole =
     selectedConsoles.length === 0 ||
-    (pokemon.games && pokemon.games.some((game) => selectedConsoles.includes(game.console)));
+    games.some((game) => selectedConsoles.includes(game.console));
 
   return matchesGame && matchesConsole;
 }
@@ -341,14 +432,15 @@ function matchesViewFilters(pokemon, searchText, selectedFilter, selectedRegions
 
 function getUnavailabilityReasons(pokemon, selectedGames, selectedConsoles) {
   const reasons = [];
+  const games = getPokemonGames(pokemon.id);
 
   const matchesGame =
     selectedGames.length === 0 ||
-    (pokemon.games && pokemon.games.some((game) => selectedGames.includes(game.name)));
+    games.some((game) => selectedGames.includes(game.name));
 
   const matchesConsole =
     selectedConsoles.length === 0 ||
-    (pokemon.games && pokemon.games.some((game) => selectedConsoles.includes(game.console)));
+    games.some((game) => selectedConsoles.includes(game.console));
 
   if (selectedGames.length > 0 && !matchesGame) {
     reasons.push("Not in selected game(s)");
@@ -373,10 +465,16 @@ typeCheckboxes.forEach((checkbox) => {
   checkbox.addEventListener("change", applyFilters);
 });
 
-gameCheckboxes.forEach((checkbox) => {
-  checkbox.addEventListener("change", applyFilters);
+ownedConsoleCheckboxes.forEach((checkbox) => {
+  checkbox.addEventListener("change", () => {
+    saveOwnedSelections();
+    applyFilters();
+  });
 });
 
-consoleCheckboxes.forEach((checkbox) => {
-  checkbox.addEventListener("change", applyFilters);
+ownedGameCheckboxes.forEach((checkbox) => {
+  checkbox.addEventListener("change", () => {
+    saveOwnedSelections();
+    applyFilters();
+  });
 });

@@ -1,0 +1,23 @@
+[
+  {
+    "pokemonId": 25,
+    "game": "Pokemon FireRed",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 23,
+    "game": "Pokemon FireRed",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Route 23"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokemon FireRed",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Route 4"
+  }
+]
