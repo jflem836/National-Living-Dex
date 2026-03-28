@@ -76,6 +76,7 @@ function addEventListeners() {
 
   shinyButton.forEach((button) => {
     button.addEventListener("click", function () {
+      event.stopPropagation();
       const pokemonID = Number(this.dataset.id);
       const pokemon = pokemonData.find(p => p.id === pokemonID);
       pokemon.shiny = !pokemon.shiny;
