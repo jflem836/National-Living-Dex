@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#completion {
+  font-size: 18px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#search {
+  font-size: 18px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.pokemon-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 12px;
+}
+
+.pokemon-name {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+label {
+  margin-right: 20px;
+}

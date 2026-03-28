@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pokemon Living Dex Tracker</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Pokemon National Living Dex Tracker</h1>
+      <p id="completion">Caught: 0/0 | Shiny: 0/0</p>
+      <input type="text" id="search" placeholder="Search pokemon..." />
+      <label for="filter">Filter:</label>
+      <select id="filter">
+        <option value="all">All</option>
+        <option value="caught">Caught</option>
+        <option value="shiny">Shiny</option>
+      </select>
+      <label for="region-filter">Region:</label>
+      <select id="region-filter">
+        <option value="all">All</option>
+        <option value="kanto">Kanto</option>
+        <option value="johto">Johto</option>
+      </select>
+      <label for="type-filter">Type:</label>
+      <select id="type-filter">
+        <option value="all">All</option>
+        <option value="grass">Grass</option>
+        <option value="fire">Fire</option>
+        <option value="water">Water</option>
+        <option value="poison">Poison</option>
+        <option value="electric">Electric</option>
+        <option value="normal">Normal</option>
+      </select>
+      <div id="pokemon-list"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

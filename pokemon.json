@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Bulbasaur", "region": "kanto", "types": ["grass", "poison"], "caught": false, "shiny": false },
+  { "id": 4, "name": "Charmander", "region": "kanto", "types": ["fire"], "caught": false, "shiny": false },
+  { "id": 7, "name": "Squirtle", "region": "kanto", "types": ["water"], "caught": false, "shiny": false },
+  { "id": 152, "name": "Chikorita", "region": "johto", "types": ["grass"], "caught": false, "shiny": false },
+  { "id": 155, "name": "Cyndaquil", "region": "johto", "types": ["fire"], "caught": false, "shiny": false },
+  { "id": 158, "name": "Totodile", "region": "johto", "types": ["water"], "caught": false, "shiny": false }
+]
