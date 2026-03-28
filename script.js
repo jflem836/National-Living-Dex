@@ -16,6 +16,223 @@ async function loadAllEncounters() {
   return encounterArrays.flat();
 }
 
+const PROFILES_KEY = "ldex_profiles";
+const ACTIVE_USER_KEY = "ldex_active_user";
+
+function loadProfiles() {
+  const raw = localStorage.getItem(PROFILES_KEY);
+  if (!raw) {
+    return { users: {} };
+  }
+  return JSON.parse(raw);
+}
+
+function saveProfiles(profiles) {
+  localStorage.setItem(PROFILES_KEY, JSON.stringify(profiles));
+}
+
+function getActiveUserId() {
+  return localStorage.getItem(ACTIVE_USER_KEY);
+}
+
+function setActiveUserId(userId) {
+  localStorage.setItem(ACTIVE_USER_KEY, userId);
+}
+
+function getActiveUser() {
+  const profiles = loadProfiles();
+  const activeUserId = getActiveUserId();
+
+  if (!activeUserId || !profiles.users[activeUserId]) {
+    return null;
+  }
+
+  return profiles.users[activeUserId];
+}
+
+function createUser(name) {
+  const profiles = loadProfiles();
+  const id = crypto.randomUUID();
+
+  profiles.users[id] = {
+    id,
+    name,
+    createdAt: new Date().toISOString(),
+    updatedAt: new Date().toISOString(),
+    caughtPokemon: {},
+    shinyPokemon: {},
+    ownedGames: [],
+    ownedConsoles: []
+  };
+
+  saveProfiles(profiles);
+  setActiveUserId(id);
+
+  return profiles.users[id];
+}
+
+function ensureDefaultProfile() {
+  const profiles = loadProfiles();
+  const activeUserId = getActiveUserId();
+
+  if (Object.keys(profiles.users).length === 0) {
+    return createUser("Player 1");
+  }
+
+  if (!activeUserId || !profiles.users[activeUserId]) {
+    const firstUserId = Object.keys(profiles.users)[0];
+    setActiveUserId(firstUserId);
+  }
+
+  return getActiveUser();
+}
+
+function updateActiveUser(updater) {
+  const profiles = loadProfiles();
+  const activeUserId = getActiveUserId();
+
+  if (!activeUserId || !profiles.users[activeUserId]) return;
+
+  updater(profiles.users[activeUserId]);
+  profiles.users[activeUserId].updatedAt = new Date().toISOString();
+
+  saveProfiles(profiles);
+}
+
+function getAllProfiles() {
+  const profiles = loadProfiles();
+  return Object.values(profiles.users);
+}
+
+function populateProfileSelect() {
+  if (!profileSelect) return;
+
+  const profiles = getAllProfiles();
+  const activeUserId = getActiveUserId();
+
+  profileSelect.innerHTML = "";
+
+  profiles.forEach((user) => {
+    const option = document.createElement("option");
+    option.value = user.id;
+    option.textContent = user.name;
+    option.selected = user.id === activeUserId;
+    profileSelect.appendChild(option);
+  });
+}
+
+function switchProfile(userId) {
+  setActiveUserId(userId);
+  selectedPokemonId = null;
+  init();
+}
+
+function setupProfileUI() {
+  if (profileSelect) {
+    profileSelect.addEventListener("change", (event) => {
+      switchProfile(event.target.value);
+    });
+  }
+
+  if (newProfileBtn) {
+    newProfileBtn.addEventListener("click", () => {
+      const name = prompt("Enter a name for the new profile:");
+      if (!name || !name.trim()) return;
+
+      createUser(name.trim());
+      populateProfileSelect();
+      selectedPokemonId = null;
+      init();
+    });
+  }
+
+  if (renameProfileBtn) {
+    renameProfileBtn.addEventListener("click", () => {
+      const activeUser = getActiveUser();
+      if (!activeUser) return;
+
+      const newName = prompt("Enter a new profile name:", activeUser.name);
+      if (!newName || !newName.trim()) return;
+
+      renameActiveProfile(newName.trim());
+      populateProfileSelect();
+    });
+  }
+
+  if (deleteProfileBtn) {
+    deleteProfileBtn.addEventListener("click", () => {
+      const activeUser = getActiveUser();
+      if (!activeUser) return;
+
+      const confirmed = confirm(`Delete profile "${activeUser.name}"?`);
+      if (!confirmed) return;
+
+      const deleted = deleteProfile(activeUser.id);
+      if (deleted) {
+        selectedPokemonId = null;
+        populateProfileSelect();
+        init();
+      }
+    });
+  }
+
+  populateProfileSelect();
+}
+
+function applyUserDataToPokemon(basePokemonData, user) {
+  return basePokemonData.map((pokemon) => ({
+    ...pokemon,
+    caught: !!user?.caughtPokemon?.[pokemon.id],
+    shiny: !!user?.shinyPokemon?.[pokemon.id]
+  }));
+}
+
+function getOwnedGames() {
+  const user = getActiveUser();
+  return user?.ownedGames || [];
+}
+
+function getOwnedConsoles() {
+  const user = getActiveUser();
+  return user?.ownedConsoles || [];
+}
+
+function saveOwnedGames(games) {
+  updateActiveUser((user) => {
+    user.ownedGames = games;
+  });
+}
+
+function saveOwnedConsoles(consoles) {
+  updateActiveUser((user) => {
+    user.ownedConsoles = consoles;
+  });
+}
+
+function renameActiveProfile(newName) {
+  updateActiveUser((user) => {
+    user.name = newName;
+  });
+}
+
+function deleteProfile(userId) {
+  const profiles = loadProfiles();
+  const userIds = Object.keys(profiles.users);
+
+  if (userIds.length <= 1) {
+    alert("You must keep at least one profile.");
+    return false;
+  }
+
+  delete profiles.users[userId];
+  saveProfiles(profiles);
+
+  const remainingIds = Object.keys(profiles.users);
+  setActiveUserId(remainingIds[0]);
+
+  return true;
+}
+
 const GAME_ORDER = [
   "Pokemon Red",
   "Pokemon Blue",
@@ -165,35 +382,27 @@ let selectedPokemonId = null;
 let encounterMap = new Map();
 
 async function init() {
-  try {
-    const pokemon = await loadJSON("pokemon.json");
-    const encounters = await loadAllEncounters();
+  const pokemon = await loadJSON("pokemon.json");
+  const allEncounters = await loadAllEncounters();
 
-    encounterMap = buildEncounterMap(encounters);
+  encounterMap = buildEncounterMap(allEncounters);
 
-    const savedData = localStorage.getItem("pokemonData");
+  const activeUser = ensureDefaultProfile();
 
-    if (savedData) {
-      pokemonData = JSON.parse(savedData).map((p) => ({
-        ...p,
-        region: p.region ? p.region.toLowerCase() : "",
-        types: normalizeTypes(p.types)
-      }));
-    } else {
-      pokemonData = pokemon.map((p) => ({
-        ...p,
-        region: p.region ? p.region.toLowerCase() : "",
-        types: normalizeTypes(p.types),
-        caught: false,
-        shiny: false
-      }));
-    }
+  const basePokemonData = pokemon.map((p) => ({
+    ...p,
+    types: normalizeTypes(p.types),
+    caught: false,
+    shiny: false,
+    games: getPokemonGames(p.id)
+  }));
 
-    loadOwnedSelections();
-    applyFilters();
-  } catch (error) {
-    console.error("Init failed:", error);
-  }
+  pokemonData = applyUserDataToPokemon(basePokemonData, activeUser);
+
+  loadOwnedSelections();
+  populateProfileSelect();
+  applyFilters();
+  renderPokemonDetails();
 }
 
 //localStorage.removeItem("pokemonData");
@@ -220,6 +429,10 @@ let totalCount;
 let unavailablePokemonList;
 let obtainableProgressText;
 let obtainableProgressFill;
+let profileSelect;
+let newProfileBtn;
+let renameProfileBtn;
+let deleteProfileBtn;
 
 function setupDOMReferences() {
   pokemonList = document.getElementById("pokemon-list");
@@ -241,6 +454,10 @@ function setupDOMReferences() {
   unavailablePokemonList = document.getElementById("unavailable-pokemon-list");
   obtainableProgressText = document.getElementById("obtainable-progress-text");
   obtainableProgressFill = document.getElementById("obtainable-progress-fill");
+  profileSelect = document.getElementById("profileSelect");
+  newProfileBtn = document.getElementById("newProfileBtn");
+  renameProfileBtn = document.getElementById("renameProfileBtn");
+  deleteProfileBtn = document.getElementById("deleteProfileBtn");
 
   console.log("pokemonList =", pokemonList);
   console.log("unavailablePokemonList =", unavailablePokemonList);
@@ -286,10 +503,6 @@ function formatType(type) {
   return value.charAt(0).toUpperCase() + value.slice(1);
 }
 
-function savePokemonData() {
-  localStorage.setItem("pokemonData", JSON.stringify(pokemonData));
-}
-
 function updateOverallProgress() {
   const caughtCount = pokemonData.filter((pokemon) => pokemon.caught).length;
   const totalCount = pokemonData.length;
@@ -318,20 +531,20 @@ function saveOwnedSelections() {
     .filter(cb => cb.checked)
     .map(cb => cb.value);
 
-  localStorage.setItem("ownedGames", JSON.stringify(ownedGames));
-  localStorage.setItem("ownedConsoles", JSON.stringify(ownedConsoles));
+  saveOwnedGames(ownedGames);
+  saveOwnedConsoles(ownedConsoles);
 }
 
 function loadOwnedSelections() {
-  const savedGames = JSON.parse(localStorage.getItem("ownedGames")) || [];
-  const savedConsoles = JSON.parse(localStorage.getItem("ownedConsoles")) || [];
+  const ownedGames = getOwnedGames();
+  const ownedConsoles = getOwnedConsoles();
 
   ownedGameCheckboxes.forEach((checkbox) => {
-    checkbox.checked = savedGames.includes(checkbox.value);
+    checkbox.checked = ownedGames.includes(checkbox.value);
   });
 
   ownedConsoleCheckboxes.forEach((checkbox) => {
-    checkbox.checked = savedConsoles.includes(checkbox.value);
+    checkbox.checked = ownedConsoles.includes(checkbox.value);
   });
 }
 
@@ -447,42 +660,53 @@ function renderPokemonDetails() {
 
 function addEventListeners() {
   const pokemonCards = document.querySelectorAll(".pokemon-card");
-  const shinyButton = document.querySelectorAll(".shiny-button");
+  const shinyButtons = document.querySelectorAll(".shiny-button");
   const infoButtons = document.querySelectorAll(".info-button");
 
   pokemonCards.forEach((card) => {
     card.addEventListener("click", function () {
       const pokemonID = Number(this.dataset.id);
-      const pokemon = pokemonData.find(p => p.id === pokemonID);
+      const pokemon = pokemonData.find((p) => p.id === pokemonID);
+      if (!pokemon) return;
+
       pokemon.caught = !pokemon.caught;
-      savePokemonData();
+
+      updateActiveUser((user) => {
+        user.caughtPokemon[pokemonID] = pokemon.caught;
+      });
+
       applyFilters();
       renderPokemonDetails();
     });
   });
 
-  shinyButton.forEach((button) => {
+  shinyButtons.forEach((button) => {
     button.addEventListener("click", function (event) {
       event.stopPropagation();
+
       const pokemonID = Number(this.dataset.id);
-      const pokemon = pokemonData.find(p => p.id === pokemonID);
+      const pokemon = pokemonData.find((p) => p.id === pokemonID);
+      if (!pokemon) return;
+
       pokemon.shiny = !pokemon.shiny;
-      savePokemonData();
+
+      updateActiveUser((user) => {
+        user.shinyPokemon[pokemonID] = pokemon.shiny;
+      });
+
       applyFilters();
       renderPokemonDetails();
     });
   });
 
-    infoButtons.forEach((button) => {
+  infoButtons.forEach((button) => {
     button.addEventListener("click", function (event) {
-        event.stopPropagation();
-
-        const pokemonID = Number(this.dataset.id);
-        selectedPokemonId = pokemonID;
-
-        renderPokemonDetails();
+      event.stopPropagation();
+      selectedPokemonId = Number(this.dataset.id);
+      applyFilters();
+      renderPokemonDetails();
     });
-    });
+  });
 }
 
 function updateCompletion() {
@@ -690,6 +914,8 @@ function setupStaticEventListeners() {
 
 window.addEventListener("DOMContentLoaded", () => {
   setupDOMReferences();
+  ensureDefaultProfile();
+  setupProfileUI();
   setupStaticEventListeners();
   init();
 });

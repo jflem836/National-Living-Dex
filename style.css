@@ -10,6 +10,13 @@ body {
   min-height: 100vh;
 }
 
+.profile-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
 .progress-section {
   background: white;
   border: 1px solid #ddd;
