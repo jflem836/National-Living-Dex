@@ -10,6 +10,38 @@ body {
   min-height: 100vh;
 }
 
+.progress-section {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+}
+
+.progress-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 18px;
+  background-color: #e6e6e6;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  width: 0%;
+  background-color: #7cc67c;
+  transition: width 0.2s ease;
+}
+
 /* LEFT */
 .filters-panel {
   width: 200px;
@@ -122,6 +154,13 @@ h1 {
 
 #unavailable-pokemon-list .pokemon-card {
   opacity: 0.75;
+}
+
+.unavailable-reasons {
+  margin-top: 6px;
+  font-size: 12px;
+  color: #666;
+  text-align: center;
 }
 
 .dex-number {

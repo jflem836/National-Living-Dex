@@ -10,6 +10,15 @@
     <div class="container">
       <h1>Pokemon National Living Dex Tracker</h1>
       <p id="completion">Caught: 0/0 | Shiny: 0/0</p>
+      <div class="progress-section">
+        <div class="progress-header">
+          <span>Living Dex Progress</span>
+          <span id="progress-text">0 / 0</span>
+        </div>
+        <div class="progress-bar">
+          <div id="progress-fill" class="progress-fill"></div>
+        </div>
+      </div>
       <input type="text" id="search" placeholder="Search pokemon..." />
       <div class="app-container">
         <div class="filters-panel">
@@ -148,6 +157,16 @@
             <div class="summary-card">
               <span class="summary-label">Total</span>
               <span id="total-count" class="summary-value">0</span>
+            </div>
+          </div>
+
+          <div class="progress-section obtainable-progress-section">
+            <div class="progress-header">
+              <span>Obtainable Progress</span>
+              <span id="obtainable-progress-text">0 / 0</span>
+            </div>
+            <div class="progress-bar">
+              <div id="obtainable-progress-fill" class="progress-fill"></div>
             </div>
           </div>
 

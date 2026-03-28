@@ -27,6 +27,8 @@ init();
 
 const pokemonList = document.getElementById("pokemon-list");
 const completionText = document.getElementById("completion");
+const progressText = document.getElementById("progress-text");
+const progressFill = document.getElementById("progress-fill");
 const searchInput = document.getElementById("search");
 const filterSelect = document.getElementById("filter");
 const clearFiltersBtn = document.getElementById("clear-filters");
@@ -38,9 +40,30 @@ const shownCount = document.getElementById("shown-count");
 const hiddenCount = document.getElementById("hidden-count");
 const totalCount = document.getElementById("total-count");
 const unavailablePokemonList = document.getElementById("unavailable-pokemon-list");
+const obtainableProgressText = document.getElementById("obtainable-progress-text");
+const obtainableProgressFill = document.getElementById("obtainable-progress-fill");
 
 function savePokemonData() {
   localStorage.setItem("pokemonData", JSON.stringify(pokemonData));
+}
+
+function updateOverallProgress() {
+  const caughtCount = pokemonData.filter((pokemon) => pokemon.caught).length;
+  const totalCount = pokemonData.length;
+  const percent = totalCount === 0 ? 0 : (caughtCount / totalCount) * 100;
+
+  progressText.textContent = `${caughtCount} / ${totalCount}`;
+  progressFill.style.width = `${percent}%`;
+}
+
+function updateObtainableProgress(obtainablePokemon) {
+  const obtainableTotal = obtainablePokemon.length;
+  const caughtObtainable = obtainablePokemon.filter((pokemon) => pokemon.caught).length;
+
+  const percent = obtainableTotal === 0 ? 0 : (caughtObtainable / obtainableTotal) * 100;
+
+  obtainableProgressText.textContent = `${caughtObtainable} / ${obtainableTotal}`;
+  obtainableProgressFill.style.width = `${percent}%`;
 }
 
 function renderPokemon(pokemonArray, container) {
@@ -50,6 +73,8 @@ function renderPokemon(pokemonArray, container) {
     const pokemon = pokemonArray[i];
 
     const card = document.createElement("div");
+    const reasonsHTML = pokemon.unavailableReasons && pokemon.unavailableReasons.length > 0
+    ? `<div class="unavailable-reasons">${pokemon.unavailableReasons.join(", ")}</div>` : "";
     card.className = `pokemon-card ${pokemon.caught ? "caught" : ""} ${pokemon.id === selectedPokemonId ? "selected" : ""}`;
     card.dataset.id = pokemon.id;
 
@@ -62,6 +87,9 @@ function renderPokemon(pokemonArray, container) {
         <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png" alt="${pokemon.name}">
       </div>
       <div class="pokemon-name">${pokemon.name}</div>
+
+      ${reasonsHTML}
+
       <button class="info-button" data-id="${pokemon.id}">ℹ️</button>
     `;
 
@@ -221,9 +249,12 @@ function applyFilters() {
     isObtainable(pokemon, selectedGames, selectedConsoles)
   );
 
-  const unavailablePokemon = pokemonData.filter(
-    (pokemon) => !isObtainable(pokemon, selectedGames, selectedConsoles)
-  );
+  const unavailablePokemon = pokemonData
+  .filter((pokemon) => !isObtainable(pokemon, selectedGames, selectedConsoles))
+  .map((pokemon) => ({
+    ...pokemon,
+    unavailableReasons: getUnavailabilityReasons(pokemon, selectedGames, selectedConsoles)
+  }));
 
   const visibleObtainable = obtainablePokemon.filter((pokemon) =>
     matchesViewFilters(
@@ -250,7 +281,9 @@ function applyFilters() {
 
   addEventListeners();
   updateCompletion();
+  updateOverallProgress();
   updateAvailabilitySummary(obtainablePokemon, unavailablePokemon);
+  updateObtainableProgress(obtainablePokemon);
 }
 
 function updateAvailabilitySummary(obtainablePokemon, unavailablePokemon) {
@@ -300,6 +333,28 @@ function matchesViewFilters(pokemon, searchText, selectedFilter, selectedRegions
   }
 
   return true;
+}
+
+function getUnavailabilityReasons(pokemon, selectedGames, selectedConsoles) {
+  const reasons = [];
+
+  const matchesGame =
+    selectedGames.length === 0 ||
+    (pokemon.games && pokemon.games.some((game) => selectedGames.includes(game.name)));
+
+  const matchesConsole =
+    selectedConsoles.length === 0 ||
+    (pokemon.games && pokemon.games.some((game) => selectedConsoles.includes(game.console)));
+
+  if (selectedGames.length > 0 && !matchesGame) {
+    reasons.push("Not in selected game(s)");
+  }
+
+  if (selectedConsoles.length > 0 && !matchesConsole) {
+    reasons.push("Not on selected console(s)");
+  }
+
+  return reasons;
 }
 
 searchInput.addEventListener("input", applyFilters);
