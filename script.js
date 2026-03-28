@@ -42,18 +42,15 @@ function renderPokemon(pokemonArray) {
     const pokemon = pokemonArray[i];
 
     const card = document.createElement("div");
-    card.className = "pokemon-card";
+    card.className = `pokemon-card ${pokemon.caught ? "caught" : ""}`;
+    card.dataset.id = pokemon.id;
 
     card.innerHTML = `
-      <div class="pokemon-name">#${pokemon.id} ${pokemon.name}</div>
-      <label>
-        <input type="checkbox" class="caught-checkbox" data-id="${pokemon.id}" ${pokemon.caught ? "checked" : ""}>
-        Caught
-      </label>
-      <label>
-        <input type="checkbox" class="shiny-checkbox" data-id="${pokemon.id}" ${pokemon.shiny ? "checked" : ""}>
-        Shiny
-      </label>
+      <div class="dex-number">#${pokemon.id}</div>
+      <button class="shiny-button ${pokemon.shiny ? "shiny-active" : ""}" data-id="${pokemon.id}">
+        ${pokemon.shiny ? "✨" : "☆"}
+      </button>
+      <div class="pokemon-name">${pokemon.name}</div>
     `;
 
     pokemonList.appendChild(card);
@@ -64,24 +61,24 @@ function renderPokemon(pokemonArray) {
 }
 
 function addEventListeners() {
-  const caughtCheckboxes = document.querySelectorAll(".caught-checkbox");
-  const shinyCheckboxes = document.querySelectorAll(".shiny-checkbox");
+  const pokemonCards = document.querySelectorAll(".pokemon-card");
+  const shinyButton = document.querySelectorAll(".shiny-button");
 
-  caughtCheckboxes.forEach((checkbox) => {
-    checkbox.addEventListener("change", function () {
+  pokemonCards.forEach((card) => {
+    card.addEventListener("click", function () {
       const pokemonID = Number(this.dataset.id);
       const pokemon = pokemonData.find(p => p.id === pokemonID);
-      pokemon.caught = this.checked
+      pokemon.caught = !pokemon.caught;
       savePokemonData();
       applyFilters();
     });
   });
 
-  shinyCheckboxes.forEach((checkbox) => {
-    checkbox.addEventListener("change", function () {
+  shinyButton.forEach((button) => {
+    button.addEventListener("click", function () {
       const pokemonID = Number(this.dataset.id);
       const pokemon = pokemonData.find(p => p.id === pokemonID);
-      pokemon.shiny = this.checked
+      pokemon.shiny = !pokemon.shiny;
       savePokemonData();
       applyFilters();
     });
