@@ -317,6 +317,10 @@ function matchesViewFilters(pokemon, searchText, selectedFilter, selectedRegions
     return false;
   }
 
+  if (selectedFilter === "not-caught" && pokemon.caught){
+    return false;
+  }
+
   if (selectedFilter === "shiny" && !pokemon.shiny) {
     return false;
   }
