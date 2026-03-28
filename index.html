@@ -91,10 +91,75 @@
               Pokemon Scarlet</label
             >
           </div>
+
+          <div class="filter-group">
+            <p>Consoles</p>
+
+            <label class="filter-option">
+              <input
+                type="checkbox"
+                class="console-checkbox"
+                value="Game Boy"
+              />
+              Game Boy
+            </label>
+
+            <label class="filter-option">
+              <input
+                type="checkbox"
+                class="console-checkbox"
+                value="Game Boy Advance"
+              />
+              Game Boy Advance
+            </label>
+
+            <label class="filter-option">
+              <input
+                type="checkbox"
+                class="console-checkbox"
+                value="Nintendo DS"
+              />
+              Nintendo DS
+            </label>
+
+            <label class="filter-option">
+              <input
+                type="checkbox"
+                class="console-checkbox"
+                value="Nintendo Switch"
+              />
+              Nintendo Switch
+            </label>
+          </div>
         </div>
 
         <div class="main-content">
-          <div id="pokemon-list"></div>
+          <div id="availability-summary" class="availability-summary">
+            <div class="summary-card">
+              <span class="summary-label">Obtainable</span>
+              <span id="shown-count" class="summary-value">0</span>
+            </div>
+
+            <div class="summary-card">
+              <span class="summary-label">Unavailable</span>
+              <span id="hidden-count" class="summary-value">0</span>
+            </div>
+
+            <div class="summary-card">
+              <span class="summary-label">Total</span>
+              <span id="total-count" class="summary-value">0</span>
+            </div>
+          </div>
+
+          <section class="pokemon-section">
+            <h2>Obtainable</h2>
+            <div id="pokemon-list"></div>
+          </section>
+
+          <section class="pokemon-section">
+            <h2>Unavailable</h2>
+            <div id="unavailable-pokemon-list"></div>
+          </section>
         </div>
 
         <div id="pokemon-details" class="details-panel">

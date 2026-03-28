@@ -74,7 +74,7 @@ h1 {
   padding: 10px;
 }
 
-#pokemon-list {
+#pokemon-list, #unavailable-pokemon-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, 180px);
   gap: 16px;
@@ -110,6 +110,18 @@ h1 {
 .pokemon-card.caught {
   background-color: #dff5df;
   border-color: #7cc67c;
+}
+
+.pokemon-section {
+  margin-bottom: 32px;
+}
+
+.pokemon-section h2 {
+  margin-bottom: 12px;
+}
+
+#unavailable-pokemon-list .pokemon-card {
+  opacity: 0.75;
 }
 
 .dex-number {
@@ -224,4 +236,34 @@ h1 {
 .game-location {
   color: #333;
   font-size: 14px;
+}
+
+.availability-summary {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.summary-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 12px 16px;
+  min-width: 120px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.summary-label {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 4px;
+}
+
+.summary-value {
+  font-size: 24px;
+  font-weight: bold;
 }
