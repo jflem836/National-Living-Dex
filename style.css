@@ -1,14 +1,59 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
-  margin: 0;
-  padding: 0;
-}
-
-.container {
-  max-width: 800px;
   margin: 40px auto;
   padding: 20px;
+}
+
+.app-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* LEFT */
+.filters-panel {
+  width: 200px;
+  padding: 16px;
+  border-right: 1px solid #ddd;
+  background-color: #fafafa;
+}
+
+.filter-group {
+  margin-bottom: 20px;
+}
+
+.filter-group p {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.filter-option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+  cursor: pointer;
+}
+
+.filter-option input {
+  width: 16px;
+  height: 16px;
+}
+
+/* CENTER */
+.main-content {
+  flex: 1;
+  padding: 24px;
+  overflow-y: auto;
+}
+
+/* RIGHT */
+.details-panel {
+  width: 300px;
+  padding: 16px;
+  border-left: 1px solid #ddd;
+  background-color: #fafafa;
+  overflow-y: auto;
 }
 
 h1 {
@@ -31,14 +76,15 @@ h1 {
 
 #pokemon-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  grid-template-columns: repeat(auto-fill, 180px);
   gap: 16px;
   margin-top: 20px;
+  justify-content: start;
 }
 
 .pokemon-card {
   position: relative;
-  min-height: 120px;
+  min-height: 160px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -50,6 +96,7 @@ h1 {
   cursor: pointer;
   text-align: center;
   transition: background-color 0.2s, border-color 0.2s, transform 0.1s;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 }
 
 .pokemon-card:hover {
@@ -73,15 +120,25 @@ h1 {
   font-weight: bold;
 }
 
-.shiny-button {
-  position: absolute;
-  top: 8px;
-  right: 10px;
+.shiny-button, .info-button {
   border: none;
   background: transparent;
   cursor: pointer;
-  font-size: 20px;
-  padding: 4px;
+  font-size: 18px;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.shiny-button {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+}
+
+.info-button {
+  position: absolute;
+  bottom: 4px;
+  right: 4px;
 }
 
 .shiny-active {
@@ -104,4 +161,67 @@ h1 {
   width: 72px;
   height: 72px;
   image-rendering: pixelated;
+}
+
+
+.details-panel {
+  width: 320px;
+  padding: 16px;
+  border-left: 1px solid #ddd;
+  background-color: #fafafa;
+  overflow-y: auto;
+}
+
+.details-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.details-header h2 {
+  margin: 0;
+}
+
+.details-header p {
+  margin: 4px 0 0 0;
+  color: #555;
+}
+
+.details-sprite {
+  width: 80px;
+  height: 80px;
+  image-rendering: pixelated;
+}
+
+.details-section {
+  margin-bottom: 20px;
+}
+
+.details-section h3 {
+  margin-bottom: 10px;
+}
+
+.games-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.game-entry {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.game-console {
+  color: #555;
+  font-size: 14px;
+}
+
+.game-location {
+  color: #333;
+  font-size: 14px;
 }

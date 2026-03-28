@@ -1,8 +1,172 @@
 [
-  { "id": 1, "name": "Bulbasaur", "region": "kanto", "types": ["grass", "poison"], "caught": false, "shiny": false },
-  { "id": 4, "name": "Charmander", "region": "kanto", "types": ["fire"], "caught": false, "shiny": false },
-  { "id": 7, "name": "Squirtle", "region": "kanto", "types": ["water"], "caught": false, "shiny": false },
-  { "id": 152, "name": "Chikorita", "region": "johto", "types": ["grass"], "caught": false, "shiny": false },
-  { "id": 155, "name": "Cyndaquil", "region": "johto", "types": ["fire"], "caught": false, "shiny": false },
-  { "id": 158, "name": "Totodile", "region": "johto", "types": ["water"], "caught": false, "shiny": false }
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "region": "kanto",
+    "types": ["grass", "poison"],
+    "caught": false,
+    "shiny": false,
+    "games": [
+      {
+        "name": "Pokemon Red",
+        "console": "Game Boy",
+        "location": "Starter (Professor Oak)"
+      },
+      {
+        "name": "Pokemon FireRed",
+        "console": "Game Boy Advance",
+        "location": "Starter (Professor Oak)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "region": "kanto",
+    "types": ["fire"],
+    "caught": false,
+    "shiny": false,
+    "games": [
+      {
+        "name": "Pokemon Red",
+        "console": "Game Boy",
+        "location": "Starter (Professor Oak)"
+      },
+      {
+        "name": "Pokemon FireRed",
+        "console": "Game Boy Advance",
+        "location": "Starter (Professor Oak)"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "region": "kanto",
+    "types": ["water"],
+    "caught": false,
+    "shiny": false,
+    "games": [
+      {
+        "name": "Pokemon Blue",
+        "console": "Game Boy",
+        "location": "Starter (Professor Oak)"
+      },
+      {
+        "name": "Pokemon FireRed",
+        "console": "Game Boy Advance",
+        "location": "Starter (Professor Oak)"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "region": "kanto",
+    "types": ["electric"],
+    "caught": false,
+    "shiny": false,
+    "games": [
+      {
+        "name": "Pokemon Yellow",
+        "console": "Game Boy",
+        "location": "Starter"
+      },
+      {
+        "name": "Pokemon HeartGold",
+        "console": "Nintendo DS",
+        "location": "Safari Zone"
+      },
+      {
+        "name": "Pokemon Scarlet",
+        "console": "Nintendo Switch",
+        "location": "South Province Area One"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "region": "kanto",
+    "types": ["normal"],
+    "caught": false,
+    "shiny": false,
+    "games": [
+      {
+        "name": "Pokemon Red",
+        "console": "Game Boy",
+        "location": "Celadon Mansion"
+      },
+      {
+        "name": "Pokemon FireRed",
+        "console": "Game Boy Advance",
+        "location": "Celadon Mansion"
+      },
+      {
+        "name": "Pokemon Sword",
+        "console": "Nintendo Switch",
+        "location": "Route 4"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Chikorita",
+    "region": "johto",
+    "types": ["grass"],
+    "caught": false,
+    "shiny": false,
+    "games": [
+      {
+        "name": "Pokemon Gold",
+        "console": "Game Boy Color",
+        "location": "Starter (Professor Elm)"
+      },
+      {
+        "name": "Pokemon HeartGold",
+        "console": "Nintendo DS",
+        "location": "Starter (Professor Elm)"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Cyndaquil",
+    "region": "johto",
+    "types": ["fire"],
+    "caught": false,
+    "shiny": false,
+    "games": [
+      {
+        "name": "Pokemon Gold",
+        "console": "Game Boy Color",
+        "location": "Starter (Professor Elm)"
+      },
+      {
+        "name": "Pokemon Legends: Arceus",
+        "console": "Nintendo Switch",
+        "location": "Space-Time Distortions"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Totodile",
+    "region": "johto",
+    "types": ["water"],
+    "caught": false,
+    "shiny": false,
+    "games": [
+      {
+        "name": "Pokemon Silver",
+        "console": "Game Boy Color",
+        "location": "Starter (Professor Elm)"
+      },
+      {
+        "name": "Pokemon HeartGold",
+        "console": "Nintendo DS",
+        "location": "Starter (Professor Elm)"
+      }
+    ]
+  }
 ]

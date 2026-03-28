@@ -11,29 +11,96 @@
       <h1>Pokemon National Living Dex Tracker</h1>
       <p id="completion">Caught: 0/0 | Shiny: 0/0</p>
       <input type="text" id="search" placeholder="Search pokemon..." />
-      <label for="filter">Filter:</label>
-      <select id="filter">
-        <option value="all">All</option>
-        <option value="caught">Caught</option>
-        <option value="shiny">Shiny</option>
-      </select>
-      <label for="region-filter">Region:</label>
-      <select id="region-filter">
-        <option value="all">All</option>
-        <option value="kanto">Kanto</option>
-        <option value="johto">Johto</option>
-      </select>
-      <label for="type-filter">Type:</label>
-      <select id="type-filter">
-        <option value="all">All</option>
-        <option value="grass">Grass</option>
-        <option value="fire">Fire</option>
-        <option value="water">Water</option>
-        <option value="poison">Poison</option>
-        <option value="electric">Electric</option>
-        <option value="normal">Normal</option>
-      </select>
-      <div id="pokemon-list"></div>
+      <div class="app-container">
+        <div class="filters-panel">
+          <button id="clear-filters">Clear Filters</button> <br />
+          <br />
+          <label for="filter">Filter:</label>
+          <select id="filter">
+            <option value="all">All</option>
+            <option value="caught">Caught</option>
+            <option value="not-caught">Not Caught</option>
+            <option value="shiny">Shiny</option>
+          </select>
+          <div class="region-filter">
+            <p>Region</p>
+            <label class="filter-option"
+              ><input type="checkbox" class="region-checkbox" value="kanto" />
+              Kanto</label
+            >
+            <label class="filter-option"
+              ><input type="checkbox" class="region-checkbox" value="johto" />
+              Johto</label
+            >
+          </div>
+          <div class="type-filter">
+            <p>Type</p>
+            <label class="filter-option"
+              ><input type="checkbox" class="type-checkbox" value="grass" />
+              Grass</label
+            >
+            <label class="filter-option"
+              ><input type="checkbox" class="type-checkbox" value="fire" />
+              Fire</label
+            >
+            <label class="filter-option"
+              ><input type="checkbox" class="type-checkbox" value="water" />
+              Water</label
+            >
+            <label class="filter-option"
+              ><input type="checkbox" class="type-checkbox" value="electric" />
+              Electric</label
+            >
+            <label class="filter-option"
+              ><input type="checkbox" class="type-checkbox" value="poison" />
+              Poison</label
+            >
+          </div>
+          <div class="filter-group">
+            <p>Games</p>
+            <label class="filter-option"
+              ><input
+                type="checkbox"
+                class="game-checkbox"
+                value="Pokemon Red"
+              />
+              Pokemon Red</label
+            >
+            <label class="filter-option"
+              ><input
+                type="checkbox"
+                class="game-checkbox"
+                value="Pokemon FireRed"
+              />
+              Pokemon FireRed</label
+            >
+            <label class="filter-option"
+              ><input
+                type="checkbox"
+                class="game-checkbox"
+                value="Pokemon HeartGold"
+              />
+              Pokemon HeartGold</label
+            >
+            <label class="filter-option"
+              ><input
+                type="checkbox"
+                class="game-checkbox"
+                value="Pokemon Scarlet"
+              />
+              Pokemon Scarlet</label
+            >
+          </div>
+        </div>
+
+        <div class="main-content">
+          <div id="pokemon-list"></div>
+        </div>
+
+        <div id="pokemon-details" class="details-panel">
+          <p>Select a Pokémon's info button to see details.</p>
+        </div>
+      </div>
     </div>
 
     <script src="script.js"></script>
