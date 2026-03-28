@@ -1,0 +1,6043 @@
+[
+  {
+    "pokemonId": 1,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Lumiose City"
+  },
+  {
+    "pokemonId": 1,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "South Boulevard"
+  },
+  {
+    "pokemonId": 2,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Grass Slot 2)"
+  },
+  {
+    "pokemonId": 4,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Lumiose City"
+  },
+  {
+    "pokemonId": 4,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "South Boulevard"
+  },
+  {
+    "pokemonId": 5,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fire Slot 2)"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Lumiose City"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "South Boulevard"
+  },
+  {
+    "pokemonId": 8,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Water Slot 2)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 2 - Kalos Route 02"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Santalune Forest"
+  },
+  {
+    "pokemonId": 11,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Santalune Forest"
+  },
+  {
+    "pokemonId": 12,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Bug Slot 1)"
+  },
+  {
+    "pokemonId": 13,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Santalune Forest"
+  },
+  {
+    "pokemonId": 14,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 1)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 1)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 2 - Kalos Route 02"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 2 - Kalos Route 02"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 1)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 23,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 24,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 25,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 2)"
+  },
+  {
+    "pokemonId": 25,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 25,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Santalune Forest"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ground Slot 1)"
+  },
+  {
+    "pokemonId": 28,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 28,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 28,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  },
+  {
+    "pokemonId": 30,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 30,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 30,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 33,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 35,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fairy Slot 3)"
+  },
+  {
+    "pokemonId": 38,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fire Slot 3)"
+  },
+  {
+    "pokemonId": 39,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fairy Slot 2)"
+  },
+  {
+    "pokemonId": 39,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 39,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 39,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 39,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Connecting Cave"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Connecting Cave"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Grass Slot 1)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 6 - Kalos Route 06"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 1)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Bug Slot 1)"
+  },
+  {
+    "pokemonId": 49,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Bug Slot 3)"
+  },
+  {
+    "pokemonId": 49,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 2)"
+  },
+  {
+    "pokemonId": 51,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ground Slot 2)"
+  },
+  {
+    "pokemonId": 51,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 13"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 56,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fighting Slot 1)"
+  },
+  {
+    "pokemonId": 58,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fire Slot 1)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Couriway Town"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Laverre City"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 1)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 2)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 4)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Outside)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Couriway Town"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Couriway Town"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Water Slot 3)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Laverre City"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Laverre City"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 1)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 1)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 2)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 2)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 3)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 3)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 4)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 4)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Outside)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Outside)"
+  },
+  {
+    "pokemonId": 62,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 4)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Psychic Slot 1)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 67,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fighting Slot 1)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 70,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 70,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 70,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 70,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 70,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Shalour City"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 1)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 2)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 3)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 4)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 13"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 2)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 3)"
+  },
+  {
+    "pokemonId": 77,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fire Slot 1)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 82,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Steel Slot 1)"
+  },
+  {
+    "pokemonId": 82,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel - Lost Hotel (B1F)"
+  },
+  {
+    "pokemonId": 83,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 1)"
+  },
+  {
+    "pokemonId": 83,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 83,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 83,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Santalune City"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 1)"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 87,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ice Slot 3)"
+  },
+  {
+    "pokemonId": 89,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 3)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 91,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ice Slot 3)"
+  },
+  {
+    "pokemonId": 91,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (1F)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (3F)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Ice Rock Room)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main 2F Area)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Rock Slot 2)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 96,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Psychic Slot 1)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Water Slot 1)"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 1)"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel - Lost Hotel (B1F)"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 105,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ground Slot 2)"
+  },
+  {
+    "pokemonId": 108,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 108,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 1)"
+  },
+  {
+    "pokemonId": 108,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 2)"
+  },
+  {
+    "pokemonId": 108,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 3)"
+  },
+  {
+    "pokemonId": 108,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 4)"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 112,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Rock Slot 3)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 3)"
+  },
+  {
+    "pokemonId": 114,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Grass Slot 1)"
+  },
+  {
+    "pokemonId": 115,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 117,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 117,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Parfume Palace"
+  },
+  {
+    "pokemonId": 119,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 119,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 119,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Parfume Palace"
+  },
+  {
+    "pokemonId": 122,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 123,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 123,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 123,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 124,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (1F)"
+  },
+  {
+    "pokemonId": 124,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (3F)"
+  },
+  {
+    "pokemonId": 124,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Ice Rock Room)"
+  },
+  {
+    "pokemonId": 124,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main 2F Area)"
+  },
+  {
+    "pokemonId": 125,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 2)"
+  },
+  {
+    "pokemonId": 126,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fire Slot 1)"
+  },
+  {
+    "pokemonId": 127,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Bug Slot 3)"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Camphrier Town"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Coumarine City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Couriway Town"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Geosenge Town"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Parfume Palace"
+  },
+  {
+    "pokemonId": 130,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Water Slot 2)"
+  },
+  {
+    "pokemonId": 130,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 130,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 130,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Parfume Palace"
+  },
+  {
+    "pokemonId": 131,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 131,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ice Slot 3)"
+  },
+  {
+    "pokemonId": 131,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 131,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 3)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Camphrier Town"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Coumarine City"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Couriway Town"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 3)"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Geosenge Town"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 138,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 140,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 142,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 143,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Sea Spirit's Den - Sea Spirits Den"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Sea Spirit's Den - Sea Spirits Den"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Sea Spirit's Den - Sea Spirits Den"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 148,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dragon Slot 2)"
+  },
+  {
+    "pokemonId": 148,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 150,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Unknown Dungeon (Kalos)"
+  },
+  {
+    "pokemonId": 161,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 6 - Kalos Route 06"
+  },
+  {
+    "pokemonId": 163,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 2)"
+  },
+  {
+    "pokemonId": 164,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 164,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 164,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 164,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 165,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Berry Fields (Kalos) - Berry Fields (Kalos - Red Tree)"
+  },
+  {
+    "pokemonId": 165,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Bug Slot 1)"
+  },
+  {
+    "pokemonId": 165,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 4 - Kalos Route 04"
+  },
+  {
+    "pokemonId": 165,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 4 - Kalos Route 04"
+  },
+  {
+    "pokemonId": 168,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 2)"
+  },
+  {
+    "pokemonId": 168,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  },
+  {
+    "pokemonId": 168,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 170,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 170,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Shalour City"
+  },
+  {
+    "pokemonId": 171,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 171,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Shalour City"
+  },
+  {
+    "pokemonId": 175,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fairy Slot 1)"
+  },
+  {
+    "pokemonId": 178,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Psychic Slot 3)"
+  },
+  {
+    "pokemonId": 179,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 184,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Water Slot 3)"
+  },
+  {
+    "pokemonId": 184,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 184,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 185,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 186,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 187,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 190,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 1)"
+  },
+  {
+    "pokemonId": 191,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Grass Slot 1)"
+  },
+  {
+    "pokemonId": 193,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 194,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ground Slot 1)"
+  },
+  {
+    "pokemonId": 195,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Water Slot 2)"
+  },
+  {
+    "pokemonId": 195,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 195,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 195,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 195,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 195,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 195,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 195,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 198,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 198,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 202,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Psychic Slot 2)"
+  },
+  {
+    "pokemonId": 202,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 203,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Psychic Slot 3)"
+  },
+  {
+    "pokemonId": 205,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Steel Slot 2)"
+  },
+  {
+    "pokemonId": 206,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 1)"
+  },
+  {
+    "pokemonId": 206,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 206,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 206,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 207,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 208,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 209,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fairy Slot 1)"
+  },
+  {
+    "pokemonId": 209,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 209,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 211,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 213,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Rock Slot 3)"
+  },
+  {
+    "pokemonId": 213,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 213,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  },
+  {
+    "pokemonId": 213,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 214,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Bug Slot 3)"
+  },
+  {
+    "pokemonId": 214,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 214,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 215,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 2)"
+  },
+  {
+    "pokemonId": 215,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ice Slot 2)"
+  },
+  {
+    "pokemonId": 215,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 17"
+  },
+  {
+    "pokemonId": 216,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 1)"
+  },
+  {
+    "pokemonId": 217,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 217,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 218,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fire Slot 2)"
+  },
+  {
+    "pokemonId": 218,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 13"
+  },
+  {
+    "pokemonId": 219,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Rock Slot 2)"
+  },
+  {
+    "pokemonId": 221,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ice Slot 3)"
+  },
+  {
+    "pokemonId": 221,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (1F)"
+  },
+  {
+    "pokemonId": 221,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (3F)"
+  },
+  {
+    "pokemonId": 221,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Ice Rock Room)"
+  },
+  {
+    "pokemonId": 221,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main 2F Area)"
+  },
+  {
+    "pokemonId": 222,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Rock Slot 2)"
+  },
+  {
+    "pokemonId": 222,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 223,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 223,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 223,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Shalour City"
+  },
+  {
+    "pokemonId": 224,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 224,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Water Slot 1)"
+  },
+  {
+    "pokemonId": 224,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 224,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Shalour City"
+  },
+  {
+    "pokemonId": 225,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ice Slot 1)"
+  },
+  {
+    "pokemonId": 225,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 17"
+  },
+  {
+    "pokemonId": 227,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Steel Slot 2)"
+  },
+  {
+    "pokemonId": 227,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 231,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ground Slot 1)"
+  },
+  {
+    "pokemonId": 235,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 3)"
+  },
+  {
+    "pokemonId": 235,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 235,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 235,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 236,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fighting Slot 3)"
+  },
+  {
+    "pokemonId": 238,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main)"
+  },
+  {
+    "pokemonId": 241,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 241,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 241,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 246,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  },
+  {
+    "pokemonId": 247,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Rock Slot 2)"
+  },
+  {
+    "pokemonId": 247,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 247,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 247,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  },
+  {
+    "pokemonId": 262,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 1)"
+  },
+  {
+    "pokemonId": 263,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 2 - Kalos Route 02"
+  },
+  {
+    "pokemonId": 267,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Bug Slot 2)"
+  },
+  {
+    "pokemonId": 268,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 1)"
+  },
+  {
+    "pokemonId": 271,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Couriway Town"
+  },
+  {
+    "pokemonId": 271,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 271,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 271,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 271,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 271,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 271,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Outside)"
+  },
+  {
+    "pokemonId": 274,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 1)"
+  },
+  {
+    "pokemonId": 276,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 280,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 4 - Kalos Route 04"
+  },
+  {
+    "pokemonId": 280,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 4 - Kalos Route 04"
+  },
+  {
+    "pokemonId": 280,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Lumiose City"
+  },
+  {
+    "pokemonId": 280,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "South Boulevard"
+  },
+  {
+    "pokemonId": 281,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fairy Slot 1)"
+  },
+  {
+    "pokemonId": 284,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Bug Slot 2)"
+  },
+  {
+    "pokemonId": 284,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 286,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fighting Slot 3)"
+  },
+  {
+    "pokemonId": 290,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ground Slot 2)"
+  },
+  {
+    "pokemonId": 290,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 6 - Kalos Route 06"
+  },
+  {
+    "pokemonId": 293,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Connecting Cave"
+  },
+  {
+    "pokemonId": 293,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Connecting Cave"
+  },
+  {
+    "pokemonId": 294,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 2)"
+  },
+  {
+    "pokemonId": 297,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fighting Slot 3)"
+  },
+  {
+    "pokemonId": 297,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 298,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 298,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 299,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Rock Slot 1)"
+  },
+  {
+    "pokemonId": 299,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 300,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 4 - Kalos Route 04"
+  },
+  {
+    "pokemonId": 300,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 4 - Kalos Route 04"
+  },
+  {
+    "pokemonId": 302,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 3)"
+  },
+  {
+    "pokemonId": 302,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 303,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fairy Slot 2)"
+  },
+  {
+    "pokemonId": 303,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Steel Slot 1)"
+  },
+  {
+    "pokemonId": 303,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 307,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Connecting Cave"
+  },
+  {
+    "pokemonId": 307,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fighting Slot 1)"
+  },
+  {
+    "pokemonId": 309,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 309,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 309,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 310,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 3)"
+  },
+  {
+    "pokemonId": 311,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 312,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 312,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 312,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 313,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Berry Fields (Kalos) - Berry Fields (Kalos - Blue Tree)"
+  },
+  {
+    "pokemonId": 313,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Bug Slot 2)"
+  },
+  {
+    "pokemonId": 313,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 313,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 313,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 314,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Berry Fields (Kalos) - Berry Fields (Kalos - Purple Tree)"
+  },
+  {
+    "pokemonId": 314,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Bug Slot 2)"
+  },
+  {
+    "pokemonId": 314,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 314,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 314,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 315,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 315,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 315,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 315,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 316,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 316,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 316,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 317,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 2)"
+  },
+  {
+    "pokemonId": 318,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 323,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ground Slot 2)"
+  },
+  {
+    "pokemonId": 324,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 324,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 325,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 325,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 326,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Psychic Slot 1)"
+  },
+  {
+    "pokemonId": 327,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 327,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 327,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 328,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ground Slot 1)"
+  },
+  {
+    "pokemonId": 328,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 13"
+  },
+  {
+    "pokemonId": 332,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 2)"
+  },
+  {
+    "pokemonId": 333,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 334,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 334,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 335,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 336,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 1)"
+  },
+  {
+    "pokemonId": 336,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 336,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 336,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 337,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 338,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 340,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 340,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 341,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 341,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Parfume Palace"
+  },
+  {
+    "pokemonId": 342,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 2)"
+  },
+  {
+    "pokemonId": 342,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 342,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Parfume Palace"
+  },
+  {
+    "pokemonId": 345,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 347,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 352,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 2)"
+  },
+  {
+    "pokemonId": 352,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 6 - Kalos Route 06"
+  },
+  {
+    "pokemonId": 353,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ghost Slot 1)"
+  },
+  {
+    "pokemonId": 354,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 356,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ghost Slot 3)"
+  },
+  {
+    "pokemonId": 357,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 3)"
+  },
+  {
+    "pokemonId": 359,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 3)"
+  },
+  {
+    "pokemonId": 359,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 359,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 361,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ice Slot 1)"
+  },
+  {
+    "pokemonId": 363,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ice Slot 1)"
+  },
+  {
+    "pokemonId": 366,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 368,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 369,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 369,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Shalour City"
+  },
+  {
+    "pokemonId": 371,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 371,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 372,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dragon Slot 2)"
+  },
+  {
+    "pokemonId": 375,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Steel Slot 2)"
+  },
+  {
+    "pokemonId": 396,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 397,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 399,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 399,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 400,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Water Slot 1)"
+  },
+  {
+    "pokemonId": 400,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 404,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 3)"
+  },
+  {
+    "pokemonId": 406,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 4 - Kalos Route 04"
+  },
+  {
+    "pokemonId": 406,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 4 - Kalos Route 04"
+  },
+  {
+    "pokemonId": 408,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 410,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 412,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Berry Fields (Kalos) - Berry Fields (Kalos - Green Tree)"
+  },
+  {
+    "pokemonId": 412,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 415,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Berry Fields (Kalos) - Berry Fields (Kalos - Yellow Tree)"
+  },
+  {
+    "pokemonId": 415,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Bug Slot 1)"
+  },
+  {
+    "pokemonId": 415,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 4 - Kalos Route 04"
+  },
+  {
+    "pokemonId": 415,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 4 - Kalos Route 04"
+  },
+  {
+    "pokemonId": 417,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 1)"
+  },
+  {
+    "pokemonId": 417,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 417,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Couriway Town"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Water Slot 2)"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main)"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 1)"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 4)"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside)"
+  },
+  {
+    "pokemonId": 419,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Outside)"
+  },
+  {
+    "pokemonId": 423,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ground Slot 3)"
+  },
+  {
+    "pokemonId": 425,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 425,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 426,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ghost Slot 3)"
+  },
+  {
+    "pokemonId": 433,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 433,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 434,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 434,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 437,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Steel Slot 3)"
+  },
+  {
+    "pokemonId": 439,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 441,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 441,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 441,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 442,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ghost Slot 3)"
+  },
+  {
+    "pokemonId": 443,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 13"
+  },
+  {
+    "pokemonId": 444,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dragon Slot 1)"
+  },
+  {
+    "pokemonId": 447,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fighting Slot 3)"
+  },
+  {
+    "pokemonId": 447,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 447,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 448,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Tower of Mastery"
+  },
+  {
+    "pokemonId": 449,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 9 - Kalos Route 09"
+  },
+  {
+    "pokemonId": 451,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 451,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 451,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 451,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 451,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 452,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 3)"
+  },
+  {
+    "pokemonId": 452,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 452,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 453,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 453,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 453,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 454,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 3)"
+  },
+  {
+    "pokemonId": 455,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 455,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 455,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 455,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 455,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 458,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 458,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 458,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Shalour City"
+  },
+  {
+    "pokemonId": 459,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ice Slot 1)"
+  },
+  {
+    "pokemonId": 459,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 17"
+  },
+  {
+    "pokemonId": 460,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 17"
+  },
+  {
+    "pokemonId": 479,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel"
+  },
+  {
+    "pokemonId": 479,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel"
+  },
+  {
+    "pokemonId": 479,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel"
+  },
+  {
+    "pokemonId": 479,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel"
+  },
+  {
+    "pokemonId": 479,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel"
+  },
+  {
+    "pokemonId": 479,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel"
+  },
+  {
+    "pokemonId": 505,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 505,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 506,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 1)"
+  },
+  {
+    "pokemonId": 510,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 3)"
+  },
+  {
+    "pokemonId": 510,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 510,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 511,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Grass Slot 1)"
+  },
+  {
+    "pokemonId": 511,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Santalune Forest"
+  },
+  {
+    "pokemonId": 513,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fire Slot 1)"
+  },
+  {
+    "pokemonId": 513,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Santalune Forest"
+  },
+  {
+    "pokemonId": 515,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Water Slot 1)"
+  },
+  {
+    "pokemonId": 515,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Santalune Forest"
+  },
+  {
+    "pokemonId": 517,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Psychic Slot 1)"
+  },
+  {
+    "pokemonId": 520,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 2)"
+  },
+  {
+    "pokemonId": 523,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 3)"
+  },
+  {
+    "pokemonId": 524,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 524,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 524,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 525,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Rock Slot 1)"
+  },
+  {
+    "pokemonId": 527,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 2)"
+  },
+  {
+    "pokemonId": 527,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 527,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 530,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Steel Slot 3)"
+  },
+  {
+    "pokemonId": 531,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 2)"
+  },
+  {
+    "pokemonId": 531,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 6 - Kalos Route 06"
+  },
+  {
+    "pokemonId": 533,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 533,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 533,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 536,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ground Slot 3)"
+  },
+  {
+    "pokemonId": 538,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fighting Slot 2)"
+  },
+  {
+    "pokemonId": 538,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 539,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fighting Slot 2)"
+  },
+  {
+    "pokemonId": 541,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Grass Slot 2)"
+  },
+  {
+    "pokemonId": 543,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 6 - Kalos Route 06"
+  },
+  {
+    "pokemonId": 544,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 3)"
+  },
+  {
+    "pokemonId": 548,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Grass Slot 2)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Couriway Town"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Couriway Town"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 21"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Laverre City"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Laverre City"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 1)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 1)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 2)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 2)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 3)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 3)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 4)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Inside 4)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Outside)"
+  },
+  {
+    "pokemonId": 550,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos) - Victory Road (Kalos Outside)"
+  },
+  {
+    "pokemonId": 551,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 2)"
+  },
+  {
+    "pokemonId": 551,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 9 - Kalos Route 09"
+  },
+  {
+    "pokemonId": 556,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Grass Slot 3)"
+  },
+  {
+    "pokemonId": 557,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 557,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 557,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 557,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Rock Slot 1)"
+  },
+  {
+    "pokemonId": 557,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 557,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 557,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 559,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 561,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Psychic Slot 2)"
+  },
+  {
+    "pokemonId": 561,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 561,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 564,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 566,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 568,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel"
+  },
+  {
+    "pokemonId": 569,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Poison Slot 2)"
+  },
+  {
+    "pokemonId": 569,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel"
+  },
+  {
+    "pokemonId": 569,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 571,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 571,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 571,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 571,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 572,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Normal Slot 2)"
+  },
+  {
+    "pokemonId": 575,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Psychic Slot 3)"
+  },
+  {
+    "pokemonId": 575,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 575,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 575,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 575,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 577,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 578,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Psychic Slot 3)"
+  },
+  {
+    "pokemonId": 580,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 580,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 580,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 581,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 2)"
+  },
+  {
+    "pokemonId": 582,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main)"
+  },
+  {
+    "pokemonId": 586,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Grass Slot 2)"
+  },
+  {
+    "pokemonId": 587,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 1)"
+  },
+  {
+    "pokemonId": 587,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 587,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 588,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 588,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 588,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 588,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 588,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 590,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 590,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 590,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 590,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 590,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 590,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 590,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 590,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 591,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 591,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 591,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 591,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Pokémon Village"
+  },
+  {
+    "pokemonId": 594,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 594,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Shalour City"
+  },
+  {
+    "pokemonId": 596,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 3)"
+  },
+  {
+    "pokemonId": 597,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Steel Slot 1)"
+  },
+  {
+    "pokemonId": 597,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Glittering Cave"
+  },
+  {
+    "pokemonId": 597,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 600,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Steel Slot 2)"
+  },
+  {
+    "pokemonId": 607,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel - Lost Hotel (B1F)"
+  },
+  {
+    "pokemonId": 608,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ghost Slot 1)"
+  },
+  {
+    "pokemonId": 610,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Connecting Cave"
+  },
+  {
+    "pokemonId": 610,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Connecting Cave"
+  },
+  {
+    "pokemonId": 611,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dragon Slot 1)"
+  },
+  {
+    "pokemonId": 613,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main)"
+  },
+  {
+    "pokemonId": 614,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ice Slot 2)"
+  },
+  {
+    "pokemonId": 614,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (1F)"
+  },
+  {
+    "pokemonId": 614,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (3F)"
+  },
+  {
+    "pokemonId": 614,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Ice Rock Room)"
+  },
+  {
+    "pokemonId": 614,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main 2F Area)"
+  },
+  {
+    "pokemonId": 615,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (1F)"
+  },
+  {
+    "pokemonId": 615,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (3F)"
+  },
+  {
+    "pokemonId": 615,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Ice Rock Room)"
+  },
+  {
+    "pokemonId": 616,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 616,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 616,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 616,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 616,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 618,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 2)"
+  },
+  {
+    "pokemonId": 618,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 618,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 618,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 618,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 619,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fighting Slot 1)"
+  },
+  {
+    "pokemonId": 619,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 619,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 621,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dragon Slot 3)"
+  },
+  {
+    "pokemonId": 621,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 622,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 622,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 623,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ghost Slot 3)"
+  },
+  {
+    "pokemonId": 624,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 1)"
+  },
+  {
+    "pokemonId": 624,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 624,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 624,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel - Lost Hotel (B1F)"
+  },
+  {
+    "pokemonId": 625,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Snowbelle City"
+  },
+  {
+    "pokemonId": 627,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 3)"
+  },
+  {
+    "pokemonId": 629,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 1)"
+  },
+  {
+    "pokemonId": 631,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 631,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 631,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 631,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 632,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 632,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 632,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 632,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 632,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 18"
+  },
+  {
+    "pokemonId": 632,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  },
+  {
+    "pokemonId": 632,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  },
+  {
+    "pokemonId": 634,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 635,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 636,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fire Slot 2)"
+  },
+  {
+    "pokemonId": 650,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Aquacorde Town"
+  },
+  {
+    "pokemonId": 650,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Vaniville Town"
+  },
+  {
+    "pokemonId": 651,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Grass Slot 3)"
+  },
+  {
+    "pokemonId": 653,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Aquacorde Town"
+  },
+  {
+    "pokemonId": 653,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Vaniville Town"
+  },
+  {
+    "pokemonId": 654,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fire Slot 3)"
+  },
+  {
+    "pokemonId": 656,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Aquacorde Town"
+  },
+  {
+    "pokemonId": 656,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Vaniville Town"
+  },
+  {
+    "pokemonId": 657,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Water Slot 3)"
+  },
+  {
+    "pokemonId": 659,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 2 - Kalos Route 02"
+  },
+  {
+    "pokemonId": 659,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 659,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 659,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 659,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 660,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ground Slot 3)"
+  },
+  {
+    "pokemonId": 660,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 661,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 2 - Kalos Route 02"
+  },
+  {
+    "pokemonId": 661,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 3 - Kalos Route 03"
+  },
+  {
+    "pokemonId": 661,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Santalune Forest"
+  },
+  {
+    "pokemonId": 662,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fire Slot 3)"
+  },
+  {
+    "pokemonId": 662,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 3)"
+  },
+  {
+    "pokemonId": 664,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 2 - Kalos Route 02"
+  },
+  {
+    "pokemonId": 664,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Santalune Forest"
+  },
+  {
+    "pokemonId": 665,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Berry Fields (Kalos) - Berry Fields (Kalos - Pink Tree)"
+  },
+  {
+    "pokemonId": 667,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 667,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 22"
+  },
+  {
+    "pokemonId": 668,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fire Slot 2)"
+  },
+  {
+    "pokemonId": 669,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 4 - Kalos Route 04"
+  },
+  {
+    "pokemonId": 670,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fairy Slot 3)"
+  },
+  {
+    "pokemonId": 672,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 672,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 673,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Grass Slot 3)"
+  },
+  {
+    "pokemonId": 674,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fighting Slot 2)"
+  },
+  {
+    "pokemonId": 674,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 674,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 676,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 676,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 5 - Kalos Route 05"
+  },
+  {
+    "pokemonId": 677,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Psychic Slot 2)"
+  },
+  {
+    "pokemonId": 677,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 6 - Kalos Route 06"
+  },
+  {
+    "pokemonId": 679,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 6 - Kalos Route 06"
+  },
+  {
+    "pokemonId": 682,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fairy Slot 2)"
+  },
+  {
+    "pokemonId": 682,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 682,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 682,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 7 - Kalos Route 07"
+  },
+  {
+    "pokemonId": 684,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fairy Slot 2)"
+  },
+  {
+    "pokemonId": 686,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 686,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dark Slot 3)"
+  },
+  {
+    "pokemonId": 686,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 686,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 688,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 688,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Azure Bay"
+  },
+  {
+    "pokemonId": 688,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 688,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 12"
+  },
+  {
+    "pokemonId": 688,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 689,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Rock Slot 3)"
+  },
+  {
+    "pokemonId": 690,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 690,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 690,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 691,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 691,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Cyllage City"
+  },
+  {
+    "pokemonId": 691,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 8 - Kalos Route 08"
+  },
+  {
+    "pokemonId": 694,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 2)"
+  },
+  {
+    "pokemonId": 694,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 9 - Kalos Route 09"
+  },
+  {
+    "pokemonId": 696,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 698,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ambrette Town"
+  },
+  {
+    "pokemonId": 701,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Flying Slot 3)"
+  },
+  {
+    "pokemonId": 701,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 701,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 10"
+  },
+  {
+    "pokemonId": 702,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Electric Slot 1)"
+  },
+  {
+    "pokemonId": 702,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Fairy Slot 1)"
+  },
+  {
+    "pokemonId": 702,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 11"
+  },
+  {
+    "pokemonId": 703,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 703,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Reflection Cave"
+  },
+  {
+    "pokemonId": 704,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 704,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 704,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 14"
+  },
+  {
+    "pokemonId": 705,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dragon Slot 3)"
+  },
+  {
+    "pokemonId": 705,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 705,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 705,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 705,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 19"
+  },
+  {
+    "pokemonId": 707,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Steel Slot 3)"
+  },
+  {
+    "pokemonId": 707,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 707,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 707,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 15"
+  },
+  {
+    "pokemonId": 707,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 707,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 707,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 707,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lost Hotel - Lost Hotel (B1F)"
+  },
+  {
+    "pokemonId": 708,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ghost Slot 2)"
+  },
+  {
+    "pokemonId": 708,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 708,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 709,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 709,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 709,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 709,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 20"
+  },
+  {
+    "pokemonId": 710,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ghost Slot 2)"
+  },
+  {
+    "pokemonId": 710,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 710,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 710,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 710,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kalos Route 16"
+  },
+  {
+    "pokemonId": 712,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Ice Slot 2)"
+  },
+  {
+    "pokemonId": 712,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (1F)"
+  },
+  {
+    "pokemonId": 712,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (3F)"
+  },
+  {
+    "pokemonId": 712,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Ice Rock Room)"
+  },
+  {
+    "pokemonId": 712,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Frost Cavern - Frost Cavern (Main 2F Area)"
+  },
+  {
+    "pokemonId": 714,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Friend Safari - Friend Safari (Dragon Slot 2)"
+  },
+  {
+    "pokemonId": 714,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  },
+  {
+    "pokemonId": 714,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Victory Road (Kalos)"
+  },
+  {
+    "pokemonId": 717,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Team Flare Secret HQ"
+  },
+  {
+    "pokemonId": 718,
+    "game": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Terminus Cave"
+  }
+]

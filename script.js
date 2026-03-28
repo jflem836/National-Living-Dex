@@ -8,6 +8,52 @@ async function loadJSON(filename) {
   return await response.json();
 }
 
+async function loadAllEncounters() {
+  const files = await loadJSON("encounters/index.json");
+  const encounterArrays = await Promise.all(
+    files.map((file) => loadJSON(`encounters/${file}`))
+  );
+  return encounterArrays.flat();
+}
+
+function normalizeGameName(name) {
+  const map = {
+    red: "Pokemon Red",
+    blue: "Pokemon Blue",
+    yellow: "Pokemon Yellow",
+    gold: "Pokemon Gold",
+    silver: "Pokemon Silver",
+    crystal: "Pokemon Crystal",
+    firered: "Pokemon FireRed",
+    leafgreen: "Pokemon LeafGreen",
+    heartgold: "Pokemon HeartGold",
+    soulsilver: "Pokemon SoulSilver",
+    scarlet: "Pokemon Scarlet",
+    violet: "Pokemon Violet"
+  };
+
+  const key = String(name || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+  return map[key] || name;
+}
+
+function normalizeConsoleName(name) {
+  const map = {
+    gb: "Game Boy",
+    gameboy: "Game Boy",
+    gbc: "Game Boy Color",
+    gameboycolor: "Game Boy Color",
+    gba: "Game Boy Advance",
+    gameboyadvance: "Game Boy Advance",
+    nds: "Nintendo DS",
+    nintendods: "Nintendo DS",
+    switch: "Nintendo Switch",
+    nintendoswitch: "Nintendo Switch"
+  };
+
+  const key = String(name || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+  return map[key] || name;
+}
+
 function buildEncounterMap(encounters) {
   const map = new Map();
 
@@ -17,10 +63,10 @@ function buildEncounterMap(encounters) {
     }
 
     map.get(encounter.pokemonId).push({
-      name: encounter.game,
-      console: encounter.console,
-      location: encounter.location,
-      method: encounter.method || "Unknown"
+      name: normalizeGameName(encounter.game),
+      console: normalizeConsoleName(encounter.console),
+      location: encounter.location || "Unknown location",
+      method: encounter.method || "catch"
     });
   }
 
@@ -39,60 +85,87 @@ let pokemonData = [];
 let selectedPokemonId = null;
 let encounterMap = new Map();
 
-async function loadAllEncounters() {
-  const files = await loadJSON("encounters/index.json");
-  const encounterArrays = await Promise.all(
-    files.map((file) => loadJSON(`encounters/${file}`))
-  );
-  return encounterArrays.flat();
-}
-
 async function init() {
-  const pokemon = await loadJSON("pokemon.json");
-  const encounters = await loadAllEncounters();
+  try {
+    const pokemon = await loadJSON("pokemon.json");
+    const encounters = await loadAllEncounters();
 
-  encounterMap = buildEncounterMap(encounters);
+    encounterMap = buildEncounterMap(encounters);
 
-  const savedData = localStorage.getItem("pokemonData");
+    const savedData = localStorage.getItem("pokemonData");
 
-  if (savedData) {
-    pokemonData = JSON.parse(savedData);
-  } else {
-    pokemonData = pokemon.map((p) => ({
-      ...p,
-      caught: false,
-      shiny: false
-    }));
+    if (savedData) {
+      pokemonData = JSON.parse(savedData).map((p) => ({
+        ...p,
+        region: p.region ? p.region.toLowerCase() : "",
+        types: Array.isArray(p.types) ? p.types.map((type) => type.toLowerCase()) : []
+      }));
+    } else {
+      pokemonData = pokemon.map((p) => ({
+        ...p,
+        region: p.region ? p.region.toLowerCase() : "",
+        types: Array.isArray(p.types) ? p.types.map((type) => type.toLowerCase()) : [],
+        caught: false,
+        shiny: false
+      }));
+    }
+
+    loadOwnedSelections();
+    applyFilters();
+  } catch (error) {
+    console.error("Init failed:", error);
   }
-
-  loadOwnedSelections();
-  applyFilters();
 }
 
-localStorage.removeItem("pokemonData");
-localStorage.removeItem("ownedGames");
-localStorage.removeItem("ownedConsoles");
-init();
+//localStorage.removeItem("pokemonData");
+//localStorage.removeItem("ownedGames");
+//localStorage.removeItem("ownedConsoles");
 
-const pokemonList = document.getElementById("pokemon-list");
-const completionText = document.getElementById("completion");
-const progressText = document.getElementById("progress-text");
-const progressFill = document.getElementById("progress-fill");
-const searchInput = document.getElementById("search");
-const ownedConsoleCheckboxes = document.querySelectorAll(".owned-console");
-const ownedGameCheckboxes = document.querySelectorAll(".owned-game");
-const filterSelect = document.getElementById("filter");
-const clearFiltersBtn = document.getElementById("clear-filters");
-const regionCheckboxes = document.querySelectorAll('.region-checkbox');
-const typeCheckboxes = document.querySelectorAll('.type-checkbox');
-const gameCheckboxes = document.querySelectorAll(".game-checkbox");
-const consoleCheckboxes = document.querySelectorAll(".console-checkbox");
-const shownCount = document.getElementById("shown-count");
-const hiddenCount = document.getElementById("hidden-count");
-const totalCount = document.getElementById("total-count");
-const unavailablePokemonList = document.getElementById("unavailable-pokemon-list");
-const obtainableProgressText = document.getElementById("obtainable-progress-text");
-const obtainableProgressFill = document.getElementById("obtainable-progress-fill");
+
+let pokemonList;
+let completionText;
+let progressText;
+let progressFill;
+let searchInput;
+let ownedConsoleCheckboxes;
+let ownedGameCheckboxes;
+let filterSelect;
+let clearFiltersBtn;
+let regionCheckboxes;
+let typeCheckboxes;
+let gameCheckboxes;
+let consoleCheckboxes;
+let shownCount;
+let hiddenCount;
+let totalCount;
+let unavailablePokemonList;
+let obtainableProgressText;
+let obtainableProgressFill;
+
+function setupDOMReferences() {
+  pokemonList = document.getElementById("pokemon-list");
+  completionText = document.getElementById("completion");
+  progressText = document.getElementById("progress-text");
+  progressFill = document.getElementById("progress-fill");
+  searchInput = document.getElementById("search");
+  ownedConsoleCheckboxes = document.querySelectorAll(".owned-console");
+  ownedGameCheckboxes = document.querySelectorAll(".owned-game");
+  filterSelect = document.getElementById("filter");
+  clearFiltersBtn = document.getElementById("clear-filters");
+  regionCheckboxes = document.querySelectorAll(".region-checkbox");
+  typeCheckboxes = document.querySelectorAll(".type-checkbox");
+  gameCheckboxes = document.querySelectorAll(".game-checkbox");
+  consoleCheckboxes = document.querySelectorAll(".console-checkbox");
+  shownCount = document.getElementById("shown-count");
+  hiddenCount = document.getElementById("hidden-count");
+  totalCount = document.getElementById("total-count");
+  unavailablePokemonList = document.getElementById("unavailable-pokemon-list");
+  obtainableProgressText = document.getElementById("obtainable-progress-text");
+  obtainableProgressFill = document.getElementById("obtainable-progress-fill");
+
+  console.log("pokemonList =", pokemonList);
+  console.log("unavailablePokemonList =", unavailablePokemonList);
+}
 
 function savePokemonData() {
   localStorage.setItem("pokemonData", JSON.stringify(pokemonData));
@@ -144,15 +217,25 @@ function loadOwnedSelections() {
 }
 
 function renderPokemon(pokemonArray, container) {
+  if (!container) {
+    console.error("renderPokemon received null container");
+    return;
+  }
+
   container.innerHTML = "";
 
   for (let i = 0; i < pokemonArray.length; i++) {
     const pokemon = pokemonArray[i];
 
     const card = document.createElement("div");
-    const reasonsHTML = pokemon.unavailableReasons && pokemon.unavailableReasons.length > 0
-    ? `<div class="unavailable-reasons">${pokemon.unavailableReasons.join(", ")}</div>` : "";
-    card.className = `pokemon-card ${pokemon.caught ? "caught" : ""} ${pokemon.id === selectedPokemonId ? "selected" : ""}`;
+    const reasonsHTML =
+      pokemon.unavailableReasons && pokemon.unavailableReasons.length > 0
+        ? `<div class="unavailable-reasons">${pokemon.unavailableReasons.join(", ")}</div>`
+        : "";
+
+    card.className = `pokemon-card ${pokemon.caught ? "caught" : ""} ${
+      pokemon.id === selectedPokemonId ? "selected" : ""
+    }`;
     card.dataset.id = pokemon.id;
 
     card.innerHTML = `
@@ -164,9 +247,7 @@ function renderPokemon(pokemonArray, container) {
         <img src="${getSpriteUrl(pokemon.id)}" alt="${pokemon.name}">
       </div>
       <div class="pokemon-name">${pokemon.name}</div>
-
       ${reasonsHTML}
-
       <button class="info-button" data-id="${pokemon.id}">ℹ️</button>
     `;
 
@@ -178,7 +259,7 @@ function renderPokemonDetails() {
   const detailsContainer = document.getElementById("pokemon-details");
 
   if (selectedPokemonId === null) {
-    detailsContainer.innerHTML = `<p>Select a Pokémon's info button to see details.</p>`;
+    detailsContainer.innerHTML = `<p>Select a Pokemon's info button to see details.</p>`;
     return;
   }
 
@@ -276,16 +357,6 @@ function addEventListeners() {
     });
     });
 }
-
-clearFiltersBtn.addEventListener("click", () => {
-  searchInput.value = "";
-  filterSelect.value = "all";
-
-  regionCheckboxes.forEach(cb => cb.checked = false);
-  typeCheckboxes.forEach(cb => cb.checked = false);
-
-  applyFilters();
-});
 
 function updateCompletion() {
   let caughtCount = 0;
@@ -453,28 +524,45 @@ function getUnavailabilityReasons(pokemon, selectedGames, selectedConsoles) {
   return reasons;
 }
 
-searchInput.addEventListener("input", applyFilters);
+function setupStaticEventListeners() {
+  clearFiltersBtn.addEventListener("click", () => {
+    searchInput.value = "";
+    filterSelect.value = "all";
 
-filterSelect.addEventListener("change", applyFilters);
+    regionCheckboxes.forEach(cb => cb.checked = false);
+    typeCheckboxes.forEach(cb => cb.checked = false);
 
-regionCheckboxes.forEach((checkbox) => {
-  checkbox.addEventListener("change", applyFilters);
-});
-
-typeCheckboxes.forEach((checkbox) => {
-  checkbox.addEventListener("change", applyFilters);
-});
-
-ownedConsoleCheckboxes.forEach((checkbox) => {
-  checkbox.addEventListener("change", () => {
-    saveOwnedSelections();
     applyFilters();
   });
-});
 
-ownedGameCheckboxes.forEach((checkbox) => {
-  checkbox.addEventListener("change", () => {
-    saveOwnedSelections();
-    applyFilters();
+  searchInput.addEventListener("input", applyFilters);
+  filterSelect.addEventListener("change", applyFilters);
+
+  regionCheckboxes.forEach((checkbox) => {
+    checkbox.addEventListener("change", applyFilters);
   });
+
+  typeCheckboxes.forEach((checkbox) => {
+    checkbox.addEventListener("change", applyFilters);
+  });
+
+  ownedConsoleCheckboxes.forEach((checkbox) => {
+    checkbox.addEventListener("change", () => {
+      saveOwnedSelections();
+      applyFilters();
+    });
+  });
+
+  ownedGameCheckboxes.forEach((checkbox) => {
+    checkbox.addEventListener("change", () => {
+      saveOwnedSelections();
+      applyFilters();
+    });
+  });
+}
+
+window.addEventListener("DOMContentLoaded", () => {
+  setupDOMReferences();
+  setupStaticEventListeners();
+  init();
 });

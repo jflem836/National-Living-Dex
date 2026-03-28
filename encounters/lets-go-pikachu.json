@@ -1,0 +1,4818 @@
+[
+  {
+    "pokemonId": 1,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "gift",
+    "location": "Cerulean City"
+  },
+  {
+    "pokemonId": 1,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 4,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "gift",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 4,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 4,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 4,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 4,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 6,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "gift",
+    "location": "Vermilion City"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 11,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 12,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 13,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 13,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 13,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 14,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 18,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "trade",
+    "location": "Cerulean City"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 25,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 26,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "trade",
+    "location": "Saffron City"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "trade",
+    "location": "Celadon City"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 29,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 29,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 29,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 29,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 30,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 30,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 30,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 31,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 32,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 32,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 32,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 32,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 33,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 33,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 33,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 34,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 35,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (1F)"
+  },
+  {
+    "pokemonId": 35,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B1F)"
+  },
+  {
+    "pokemonId": 35,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B2F)"
+  },
+  {
+    "pokemonId": 36,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B2F)"
+  },
+  {
+    "pokemonId": 39,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 39,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 39,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 39,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Diglett's Cave"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B2F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (3F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (4F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (5F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (6F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (3F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (4F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (5F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (6F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 45,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (1F)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B1F)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B2F)"
+  },
+  {
+    "pokemonId": 48,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 48,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 48,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 48,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 49,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 49,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 50,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Diglett's Cave"
+  },
+  {
+    "pokemonId": 50,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "trade",
+    "location": "Lavender Town"
+  },
+  {
+    "pokemonId": 51,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Diglett's Cave"
+  },
+  {
+    "pokemonId": 53,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "gift",
+    "location": "Vermilion City"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 55,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 55,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 56,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 56,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 58,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 58,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 58,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 58,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 59,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 59,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 62,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 62,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 64,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 64,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 67,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 67,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 67,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B2F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "trade",
+    "location": "Vermilion City"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 77,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 78,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 80,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 80,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 80,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 80,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 80,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 81,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 82,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 83,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 83,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 85,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 85,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 85,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "trade",
+    "location": "Cinnabar Island"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 89,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 89,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 89,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 89,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 89,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 91,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 91,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 92,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (3F)"
+  },
+  {
+    "pokemonId": 92,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (4F)"
+  },
+  {
+    "pokemonId": 92,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (5F)"
+  },
+  {
+    "pokemonId": 92,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (6F)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (3F)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (4F)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (5F)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (6F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (1F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B1F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B2F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 96,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 99,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 99,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 100,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 103,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "trade",
+    "location": "Indigo Plateau"
+  },
+  {
+    "pokemonId": 103,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (3F)"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (4F)"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (5F)"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (6F)"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 105,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "trade",
+    "location": "Fuchsia City"
+  },
+  {
+    "pokemonId": 106,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "gift",
+    "location": "Fighting Dojo"
+  },
+  {
+    "pokemonId": 106,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 107,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "gift",
+    "location": "Fighting Dojo"
+  },
+  {
+    "pokemonId": 107,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 108,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 108,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 108,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 112,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 112,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 112,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 112,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 112,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 112,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Diglett's Cave"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (1F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B1F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B2F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (5F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Tower - Pokémon Tower (6F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 114,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 115,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 115,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 117,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 117,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 117,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 119,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 121,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 121,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 121,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 122,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 123,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 123,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 124,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 124,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 124,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 124,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 124,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 125,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 126,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 126,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 126,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 126,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 130,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 131,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 131,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 131,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "gift",
+    "location": "Silph Co."
+  },
+  {
+    "pokemonId": 131,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "gift",
+    "location": "Silph Co."
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Pokémon Mansion (Kanto) - Pokémon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 137,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 137,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "gift",
+    "location": "Saffron City"
+  },
+  {
+    "pokemonId": 138,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 138,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 140,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 140,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 142,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 142,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 143,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 143,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 143,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 143,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 148,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Northern Section)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto - Southern Section)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 149,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 150,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 502,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 502,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 502,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 502,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 502,
+    "game": "Pokémon Let's Go, Pikachu!",
+    "console": "Nintendo Switch",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  }
+]

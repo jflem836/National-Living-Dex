@@ -1,0 +1,5343 @@
+[
+  {
+    "pokemonId": 25,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 1)"
+  },
+  {
+    "pokemonId": 25,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mirage Tower - Mirage Tower (1F)"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mirage Tower - Mirage Tower (2F)"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mirage Tower - Mirage Tower (3F)"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mirage Tower - Mirage Tower (4F)"
+  },
+  {
+    "pokemonId": 37,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (Outside)"
+  },
+  {
+    "pokemonId": 39,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Altering Cave (Sevii Islands)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Cave of Origin - Cave of Origin (1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Cave of Origin - Cave of Origin (2F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Cave of Origin - Cave of Origin (3F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Cave of Origin - Cave of Origin (Entrance)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (B1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (B2F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (Steven's Room)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 1R)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 1R)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Seafloor Cavern"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Seafloor Cavern"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Ice Room)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn 1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Cave of Origin - Cave of Origin (1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Cave of Origin - Cave of Origin (2F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Cave of Origin - Cave of Origin (3F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Cave of Origin - Cave of Origin (Entrance)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 2R)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 2R)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 1R)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 1R)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (Steven's Cave)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Seafloor Cavern"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Seafloor Cavern"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Ice Room)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (3F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (5F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn 1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 1)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 43,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 4)"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 1)"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 44,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 4)"
+  },
+  {
+    "pokemonId": 52,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "trade",
+    "location": "Battle Frontier (Hoenn)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 55,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (1F)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (B1F)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (B2F)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (Steven's Room)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 116"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Fiery Path"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Jagged Pass"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Abandoned Ship"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Abandoned Ship"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Abandoned Ship"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Abandoned Ship"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Dewford Town"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Dewford Town"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Dewford Town"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ever Grande City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ever Grande City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 105"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 105"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 105"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 106"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 106"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 106"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 107"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 107"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 107"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 108"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 108"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 108"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 109"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 109"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 109"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 122"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 122"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 122"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 125"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 125"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 125"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 127"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 127"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 127"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 128"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 128"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 129"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 129"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 129"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 130"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 130"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 130"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 131"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 131"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 131"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 132"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 132"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 132"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 133"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 133"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 133"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 134"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 134"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 134"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Lilycove City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Lilycove City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Lilycove City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mossdeep City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mossdeep City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mossdeep City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Pacifidlog Town"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Pacifidlog Town"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Pacifidlog Town"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Seafloor Cavern"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Seafloor Cavern"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Seafloor Cavern"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Slateport City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Slateport City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Slateport City"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sootopolis City"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Abandoned Ship"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Abandoned Ship"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (B2F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Magma Hideout (Jagged Pass)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 4)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B1F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Magma Hideout (Jagged Pass)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B1F)"
+  },
+  {
+    "pokemonId": 81,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "New Mauville - New Mauville (Basement)"
+  },
+  {
+    "pokemonId": 81,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "New Mauville - New Mauville (Entrance)"
+  },
+  {
+    "pokemonId": 82,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "New Mauville - New Mauville (Basement)"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 1)"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 85,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Fiery Path"
+  },
+  {
+    "pokemonId": 100,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "New Mauville - New Mauville (Basement)"
+  },
+  {
+    "pokemonId": 100,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "New Mauville - New Mauville (Entrance)"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "New Mauville - New Mauville (Basement)"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Team Aqua Hideout"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Team Magma Hideout"
+  },
+  {
+    "pokemonId": 109,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Fiery Path"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 132"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 133"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 134"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "trade",
+    "location": "Pacifidlog Town"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 1R)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 1R)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 2R)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 2R)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 1R)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 1R)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg City"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg City"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 119,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 119,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Lilycove City"
+  },
+  {
+    "pokemonId": 127,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Abandoned Ship"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Abandoned Ship"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Dewford Town"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Dewford Town"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ever Grande City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ever Grande City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 104"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 104"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 104"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 105"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 105"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 106"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 106"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 107"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 107"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 108"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 108"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 109"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 109"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 122"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 122"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 125"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 125"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 127"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 127"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 128"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 128"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 129"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 129"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 130"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 130"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 131"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 131"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 132"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 132"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 133"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 133"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 134"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 134"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Lilycove City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Lilycove City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 1R)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 1R)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 2R)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 2R)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 1R)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 1R)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mossdeep City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mossdeep City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Pacifidlog Town"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Pacifidlog Town"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 3)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Seafloor Cavern"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Seafloor Cavern"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Slateport City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Slateport City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sootopolis City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sootopolis City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sootopolis City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sootopolis City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 130,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sootopolis City"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Desert Underpass"
+  },
+  {
+    "pokemonId": 151,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Faraway Island"
+  },
+  {
+    "pokemonId": 152,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "gift",
+    "location": "Littleroot Town"
+  },
+  {
+    "pokemonId": 155,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "gift",
+    "location": "Littleroot Town"
+  },
+  {
+    "pokemonId": 158,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "gift",
+    "location": "Littleroot Town"
+  },
+  {
+    "pokemonId": 163,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 163,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 6)"
+  },
+  {
+    "pokemonId": 165,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 6)"
+  },
+  {
+    "pokemonId": 167,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 170,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124 - Hoenn Route 124 (Underwater)"
+  },
+  {
+    "pokemonId": 170,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126 - Hoenn Route 126 (Underwater)"
+  },
+  {
+    "pokemonId": 177,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 1)"
+  },
+  {
+    "pokemonId": 177,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 177,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 4)"
+  },
+  {
+    "pokemonId": 178,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 4)"
+  },
+  {
+    "pokemonId": 179,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 104"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 112"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg City"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 185,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Battle Frontier (Hoenn)"
+  },
+  {
+    "pokemonId": 190,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 190,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 6)"
+  },
+  {
+    "pokemonId": 191,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 191,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 6)"
+  },
+  {
+    "pokemonId": 194,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 195,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 202,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 1)"
+  },
+  {
+    "pokemonId": 202,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 203,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 1)"
+  },
+  {
+    "pokemonId": 203,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 2)"
+  },
+  {
+    "pokemonId": 204,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 6)"
+  },
+  {
+    "pokemonId": 207,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 209,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 213,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 6)"
+  },
+  {
+    "pokemonId": 214,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 4)"
+  },
+  {
+    "pokemonId": 216,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 6)"
+  },
+  {
+    "pokemonId": 218,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Fiery Path"
+  },
+  {
+    "pokemonId": 218,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 113"
+  },
+  {
+    "pokemonId": 222,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ever Grande City"
+  },
+  {
+    "pokemonId": 222,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 128"
+  },
+  {
+    "pokemonId": 223,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 223,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 224,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 227,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 113"
+  },
+  {
+    "pokemonId": 228,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 6)"
+  },
+  {
+    "pokemonId": 231,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 4)"
+  },
+  {
+    "pokemonId": 234,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 5)"
+  },
+  {
+    "pokemonId": 235,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Artisan Cave"
+  },
+  {
+    "pokemonId": 241,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Safari Zone (Hoenn) - Safari Zone (Hoenn - Area 6)"
+  },
+  {
+    "pokemonId": 249,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Navel Rock - Navel Rock (Bottom)"
+  },
+  {
+    "pokemonId": 250,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Navel Rock - Navel Rock (Top)"
+  },
+  {
+    "pokemonId": 252,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "gift",
+    "location": "Hoenn Route 101"
+  },
+  {
+    "pokemonId": 255,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "gift",
+    "location": "Hoenn Route 101"
+  },
+  {
+    "pokemonId": 258,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "gift",
+    "location": "Hoenn Route 101"
+  },
+  {
+    "pokemonId": 261,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 101"
+  },
+  {
+    "pokemonId": 261,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 261,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 261,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 104"
+  },
+  {
+    "pokemonId": 261,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 261,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 116"
+  },
+  {
+    "pokemonId": 261,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 261,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 261,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 261,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 261,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg Woods"
+  },
+  {
+    "pokemonId": 262,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 262,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 262,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 263,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 101"
+  },
+  {
+    "pokemonId": 263,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 101"
+  },
+  {
+    "pokemonId": 263,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 263,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 263,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 263,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 264,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 264,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 265,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 101"
+  },
+  {
+    "pokemonId": 265,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 265,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 104"
+  },
+  {
+    "pokemonId": 265,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg Woods"
+  },
+  {
+    "pokemonId": 266,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg Woods"
+  },
+  {
+    "pokemonId": 268,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg Woods"
+  },
+  {
+    "pokemonId": 270,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 270,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 271,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 273,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 273,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 273,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 273,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 273,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 273,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 273,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "trade",
+    "location": "Rustboro City"
+  },
+  {
+    "pokemonId": 274,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 274,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 276,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 104"
+  },
+  {
+    "pokemonId": 276,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 276,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 116"
+  },
+  {
+    "pokemonId": 276,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg Woods"
+  },
+  {
+    "pokemonId": 277,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Dewford Town"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ever Grande City"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 104"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 104"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 105"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 106"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 107"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 108"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 109"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 122"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 125"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 127"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 128"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 129"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 130"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 131"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 132"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 133"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 134"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Lilycove City"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mossdeep City"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (Outside)"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Pacifidlog Town"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Slateport City"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Dewford Town"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ever Grande City"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 104"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 105"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 106"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 107"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 108"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 109"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 122"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 125"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 127"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 128"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 129"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 130"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 131"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 132"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 133"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 134"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Lilycove City"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mossdeep City"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Pacifidlog Town"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Slateport City"
+  },
+  {
+    "pokemonId": 280,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 285,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg Woods"
+  },
+  {
+    "pokemonId": 287,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg Woods"
+  },
+  {
+    "pokemonId": 290,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 116"
+  },
+  {
+    "pokemonId": 293,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Desert Underpass"
+  },
+  {
+    "pokemonId": 293,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 116"
+  },
+  {
+    "pokemonId": 293,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Rusturf Tunnel"
+  },
+  {
+    "pokemonId": 293,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn 1F)"
+  },
+  {
+    "pokemonId": 294,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Desert Underpass"
+  },
+  {
+    "pokemonId": 294,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn 1F)"
+  },
+  {
+    "pokemonId": 296,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (1F)"
+  },
+  {
+    "pokemonId": 296,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (B1F)"
+  },
+  {
+    "pokemonId": 296,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (Steven's Room)"
+  },
+  {
+    "pokemonId": 296,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn 1F)"
+  },
+  {
+    "pokemonId": 297,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn 1F)"
+  },
+  {
+    "pokemonId": 297,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B1F)"
+  },
+  {
+    "pokemonId": 299,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (B2F)"
+  },
+  {
+    "pokemonId": 300,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 116"
+  },
+  {
+    "pokemonId": 300,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 116"
+  },
+  {
+    "pokemonId": 302,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Cave of Origin - Cave of Origin (1F)"
+  },
+  {
+    "pokemonId": 302,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Cave of Origin - Cave of Origin (2F)"
+  },
+  {
+    "pokemonId": 302,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Cave of Origin - Cave of Origin (3F)"
+  },
+  {
+    "pokemonId": 302,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (B1F)"
+  },
+  {
+    "pokemonId": 302,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (B2F)"
+  },
+  {
+    "pokemonId": 302,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (1F)"
+  },
+  {
+    "pokemonId": 302,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (3F)"
+  },
+  {
+    "pokemonId": 302,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (5F)"
+  },
+  {
+    "pokemonId": 302,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 303,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B1F)"
+  },
+  {
+    "pokemonId": 303,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 304,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (B1F)"
+  },
+  {
+    "pokemonId": 304,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (B2F)"
+  },
+  {
+    "pokemonId": 304,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Granite Cave - Granite Cave (Steven's Room)"
+  },
+  {
+    "pokemonId": 304,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn 1F)"
+  },
+  {
+    "pokemonId": 305,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn 1F)"
+  },
+  {
+    "pokemonId": 305,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B1F)"
+  },
+  {
+    "pokemonId": 305,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 309,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 309,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 310,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 311,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "trade",
+    "location": "Fortree City"
+  },
+  {
+    "pokemonId": 311,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 312,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 313,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 314,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 316,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 318,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 318,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 318,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 318,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 122"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 125"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 127"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 129"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 130"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 131"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 132"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 133"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 134"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mossdeep City"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Pacifidlog Town"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Dewford Town"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Dewford Town"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ever Grande City"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ever Grande City"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 103"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 105"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 105"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 106"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 106"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 107"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 107"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 108"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 108"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 109"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 109"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 110"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 122"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 122"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 125"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 125"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 127"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 127"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 128"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 128"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 129"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 129"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 130"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 130"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 131"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 131"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 132"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 132"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 133"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 133"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 134"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 134"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Lilycove City"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Lilycove City"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mossdeep City"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mossdeep City"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Pacifidlog Town"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Pacifidlog Town"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Seafloor Cavern"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Seafloor Cavern"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Slateport City"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Slateport City"
+  },
+  {
+    "pokemonId": 321,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 129"
+  },
+  {
+    "pokemonId": 322,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Fiery Path"
+  },
+  {
+    "pokemonId": 322,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 112"
+  },
+  {
+    "pokemonId": 322,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Jagged Pass"
+  },
+  {
+    "pokemonId": 324,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Fiery Path"
+  },
+  {
+    "pokemonId": 324,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Magma Hideout (Jagged Pass)"
+  },
+  {
+    "pokemonId": 325,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Jagged Pass"
+  },
+  {
+    "pokemonId": 327,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 113"
+  },
+  {
+    "pokemonId": 328,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 328,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mirage Tower - Mirage Tower (1F)"
+  },
+  {
+    "pokemonId": 328,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mirage Tower - Mirage Tower (2F)"
+  },
+  {
+    "pokemonId": 328,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mirage Tower - Mirage Tower (3F)"
+  },
+  {
+    "pokemonId": 328,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mirage Tower - Mirage Tower (4F)"
+  },
+  {
+    "pokemonId": 331,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 333,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 333,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 115"
+  },
+  {
+    "pokemonId": 334,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (5F)"
+  },
+  {
+    "pokemonId": 336,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 338,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 1R)"
+  },
+  {
+    "pokemonId": 338,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 1R)"
+  },
+  {
+    "pokemonId": 338,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 2R)"
+  },
+  {
+    "pokemonId": 338,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 2R)"
+  },
+  {
+    "pokemonId": 338,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 1R)"
+  },
+  {
+    "pokemonId": 338,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 1R)"
+  },
+  {
+    "pokemonId": 338,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 338,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 338,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (Steven's Cave)"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 114"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 1R)"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 1R)"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 2R)"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 2R)"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 1R)"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 1R)"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 340,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (1F 2R)"
+  },
+  {
+    "pokemonId": 340,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 1R)"
+  },
+  {
+    "pokemonId": 340,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 340,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Victory Road (Hoenn) - Victory Road (Hoenn B2F)"
+  },
+  {
+    "pokemonId": 341,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 341,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 102"
+  },
+  {
+    "pokemonId": 341,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 341,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 117"
+  },
+  {
+    "pokemonId": 341,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg City"
+  },
+  {
+    "pokemonId": 341,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Petalburg City"
+  },
+  {
+    "pokemonId": 343,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 111"
+  },
+  {
+    "pokemonId": 344,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (1F)"
+  },
+  {
+    "pokemonId": 344,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (3F)"
+  },
+  {
+    "pokemonId": 344,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (5F)"
+  },
+  {
+    "pokemonId": 345,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Devon Corporation"
+  },
+  {
+    "pokemonId": 347,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Devon Corporation"
+  },
+  {
+    "pokemonId": 349,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 349,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 349,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 351,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "gift",
+    "location": "Weather Institute"
+  },
+  {
+    "pokemonId": 352,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 118"
+  },
+  {
+    "pokemonId": 352,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 352,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 352,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 352,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 352,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 352,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 353,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 121"
+  },
+  {
+    "pokemonId": 353,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 123"
+  },
+  {
+    "pokemonId": 353,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (1F)"
+  },
+  {
+    "pokemonId": 353,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (2F)"
+  },
+  {
+    "pokemonId": 353,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (3F)"
+  },
+  {
+    "pokemonId": 353,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (4F)"
+  },
+  {
+    "pokemonId": 353,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (5F)"
+  },
+  {
+    "pokemonId": 353,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (6F)"
+  },
+  {
+    "pokemonId": 353,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (Outside)"
+  },
+  {
+    "pokemonId": 353,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (Summit)"
+  },
+  {
+    "pokemonId": 354,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (1F)"
+  },
+  {
+    "pokemonId": 354,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (3F)"
+  },
+  {
+    "pokemonId": 354,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar - Sky Pillar (5F)"
+  },
+  {
+    "pokemonId": 355,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (4F)"
+  },
+  {
+    "pokemonId": 355,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (5F)"
+  },
+  {
+    "pokemonId": 355,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (6F)"
+  },
+  {
+    "pokemonId": 355,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (Summit)"
+  },
+  {
+    "pokemonId": 357,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 119"
+  },
+  {
+    "pokemonId": 358,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mt. Pyre - Mt. Pyre (Summit)"
+  },
+  {
+    "pokemonId": 359,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 120"
+  },
+  {
+    "pokemonId": 360,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Lavaridge Town"
+  },
+  {
+    "pokemonId": 360,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Mirage Island"
+  },
+  {
+    "pokemonId": 361,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Ice Room)"
+  },
+  {
+    "pokemonId": 363,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Ice Room)"
+  },
+  {
+    "pokemonId": 363,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 363,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Shoal Cave - Shoal Cave (Main Cave)"
+  },
+  {
+    "pokemonId": 366,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124 - Hoenn Route 124 (Underwater)"
+  },
+  {
+    "pokemonId": 366,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126 - Hoenn Route 126 (Underwater)"
+  },
+  {
+    "pokemonId": 369,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 124 - Hoenn Route 124 (Underwater)"
+  },
+  {
+    "pokemonId": 369,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 126 - Hoenn Route 126 (Underwater)"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ever Grande City"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ever Grande City"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 128"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Hoenn Route 128"
+  },
+  {
+    "pokemonId": 371,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Meteor Falls - Meteor Falls (B1F 2R)"
+  },
+  {
+    "pokemonId": 374,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "gift",
+    "location": "Mossdeep City"
+  },
+  {
+    "pokemonId": 377,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Desert Ruins"
+  },
+  {
+    "pokemonId": 378,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Island Cave"
+  },
+  {
+    "pokemonId": 379,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Ancient Tomb"
+  },
+  {
+    "pokemonId": 380,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Southern Island"
+  },
+  {
+    "pokemonId": 381,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Southern Island"
+  },
+  {
+    "pokemonId": 382,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Marine Cave"
+  },
+  {
+    "pokemonId": 383,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Terra Cave"
+  },
+  {
+    "pokemonId": 384,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Sky Pillar"
+  },
+  {
+    "pokemonId": 386,
+    "game": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "method": "catch",
+    "location": "Birth Island"
+  }
+]

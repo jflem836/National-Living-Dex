@@ -1,0 +1,4727 @@
+[
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (First two fields east of the player’s house)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Patch of grass overlooking the bay)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Path south of Iki Town blocked by rocks)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Two fields nearest Iki Town)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Northern half)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Southern half)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Central area)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Meadow"
+  },
+  {
+    "pokemonId": 11,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Path south of Iki Town blocked by rocks)"
+  },
+  {
+    "pokemonId": 11,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Two fields nearest Iki Town)"
+  },
+  {
+    "pokemonId": 11,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Northern half)"
+  },
+  {
+    "pokemonId": 11,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Southern half)"
+  },
+  {
+    "pokemonId": 11,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Central area)"
+  },
+  {
+    "pokemonId": 11,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Meadow"
+  },
+  {
+    "pokemonId": 12,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Northern half)"
+  },
+  {
+    "pokemonId": 12,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Southern half)"
+  },
+  {
+    "pokemonId": 12,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Meadow"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (First two fields east of the player’s house)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Hau'oli Outskirts)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Patch of grass overlooking the bay)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Path south of Iki Town blocked by rocks)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Two fields nearest Iki Town)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Four southernmost patches of grass)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Three northernmost patches of grass)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Patch of grass south of bridge)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Two patches of grass north of the bridge)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 4"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Northern patch of grass)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Two southern patches of grass)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City - Hau'oli City (Shopping District)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 10"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 11"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 16"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ancient Poni Path"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie City - Malie City (Outer Cape)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Grove"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Seven patches of grass in the middle)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the coastline)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the mountains)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Two big patches of grass in the north and center)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Tapu Village"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Three northernmost patches of grass)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Patch of grass south of bridge)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Two patches of grass north of the bridge)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 10"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 10"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Hokulani"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the mountains)"
+  },
+  {
+    "pokemonId": 37,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Northern patch near base)"
+  },
+  {
+    "pokemonId": 37,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Southern patch near base and patch near peak)"
+  },
+  {
+    "pokemonId": 37,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Tapu Village"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Diglett's Tunnel"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli Cemetery"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Cave)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Memorial Hill"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seaward Cave"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seaward Cave"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Cave and Ocean Cave)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Cave and Ocean Cave)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Verdant Cavern"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Icy Cave Right)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Resolution Cave - Resolution Cave (Inside)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Resolution Cave - Resolution Cave (Outside)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Thrifty Megamart (Abandoned Site)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 11"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (First patch of grass)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Central area)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (North area)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Northwest area)"
+  },
+  {
+    "pokemonId": 50,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Northern half)"
+  },
+  {
+    "pokemonId": 50,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 50,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Diglett's Tunnel"
+  },
+  {
+    "pokemonId": 50,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Diglett's Tunnel"
+  },
+  {
+    "pokemonId": 50,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Cave)"
+  },
+  {
+    "pokemonId": 50,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seaward Cave"
+  },
+  {
+    "pokemonId": 50,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Cave and Ocean Cave)"
+  },
+  {
+    "pokemonId": 50,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Verdant Cavern"
+  },
+  {
+    "pokemonId": 51,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Haina Desert"
+  },
+  {
+    "pokemonId": 51,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Haina Desert"
+  },
+  {
+    "pokemonId": 51,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Coast"
+  },
+  {
+    "pokemonId": 51,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Resolution Cave - Resolution Cave (Inside)"
+  },
+  {
+    "pokemonId": 51,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Resolution Cave - Resolution Cave (Outside)"
+  },
+  {
+    "pokemonId": 51,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 51,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 52,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Four southernmost patches of grass)"
+  },
+  {
+    "pokemonId": 52,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City - Hau'oli City (Shopping District)"
+  },
+  {
+    "pokemonId": 52,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 52,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Trainer's School (Alola) - Trainer’s School (Alola)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (First patch of grass)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Patches of grass across the second lake)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seaward Cave"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Cave and Ocean Cave)"
+  },
+  {
+    "pokemonId": 55,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 55,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 56,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Patch of grass south of bridge)"
+  },
+  {
+    "pokemonId": 56,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Two patches of grass north of the bridge)"
+  },
+  {
+    "pokemonId": 57,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains"
+  },
+  {
+    "pokemonId": 58,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Three northernmost patches of grass)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (First patch of grass)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Patches of grass across the second lake)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Konikoni City"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Four southernmost patches of grass)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City - Hau'oli City (Shopping District)"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Alola Route 2"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Farthest Hollow)"
+  },
+  {
+    "pokemonId": 67,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Canyon)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Northern half)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Southern half)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Hau'oli Outskirts)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 14"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Totem's Den)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hano Beach"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hano Beach"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City - Hau'oli City Beachfront"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Sea"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Beach"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 73,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 12 - Alola Route 12 (First ten patches of grass from the north)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 12 - Alola Route 12 (Southernmost patch of grass)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Eastern Patch of grass)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Western Patch of grass)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Tapu Village"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Hau'oli Outskirts)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 16"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 81,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City - Hau'oli City (Shopping District)"
+  },
+  {
+    "pokemonId": 81,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie City - Malie City (Outer Cape)"
+  },
+  {
+    "pokemonId": 81,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Trainer's School (Alola) - Trainer’s School (Alola)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City - Hau'oli City (Shopping District)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie City - Malie City (Outer Cape)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Trainer's School (Alola) - Trainer’s School (Alola)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 92,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli Cemetery"
+  },
+  {
+    "pokemonId": 92,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Memorial Hill"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Thrifty Megamart (Abandoned Site)"
+  },
+  {
+    "pokemonId": 96,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Four southernmost patches of grass)"
+  },
+  {
+    "pokemonId": 97,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Two big patches of grass in the north and center)"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ancient Poni Path"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Exeggutor Island"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 103,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Exeggutor Island"
+  },
+  {
+    "pokemonId": 103,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Exeggutor Island"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Wela Volcano Park"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain"
+  },
+  {
+    "pokemonId": 115,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Wela Volcano Park"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hano Beach"
+  },
+  {
+    "pokemonId": 123,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains"
+  },
+  {
+    "pokemonId": 127,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Exeggutor Island"
+  },
+  {
+    "pokemonId": 127,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (North area)"
+  },
+  {
+    "pokemonId": 127,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Grove"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Paniola Ranch"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Seven patches of grass in the middle)"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the coastline)"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the mountains)"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Two big patches of grass in the north and center)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 13"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 13"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 14"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 14"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 9"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Totem's Den)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Totem's Den)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Sea"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Sea"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Paniola Town"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Paniola Town"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Breaker Coast"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Breaker Coast"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Meadow"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Meadow"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seafolk Village"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seafolk Village"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seaward Cave"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seaward Cave"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Beach"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Beach"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 131,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Hokulani"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 4"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 4"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Northern patch of grass)"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Northern patch of grass)"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Two southern patches of grass)"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Two southern patches of grass)"
+  },
+  {
+    "pokemonId": 133,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Paniola Ranch"
+  },
+  {
+    "pokemonId": 137,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Aether House"
+  },
+  {
+    "pokemonId": 142,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Seafolk Village"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Meadow"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Meadow"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 152,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2"
+  },
+  {
+    "pokemonId": 155,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3"
+  },
+  {
+    "pokemonId": 158,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seaward Cave"
+  },
+  {
+    "pokemonId": 165,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (First two fields east of the player’s house)"
+  },
+  {
+    "pokemonId": 165,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Patch of grass overlooking the bay)"
+  },
+  {
+    "pokemonId": 165,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Path south of Iki Town blocked by rocks)"
+  },
+  {
+    "pokemonId": 165,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Two fields nearest Iki Town)"
+  },
+  {
+    "pokemonId": 166,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 10"
+  },
+  {
+    "pokemonId": 166,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 11"
+  },
+  {
+    "pokemonId": 166,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 166,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 166,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 166,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 167,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (First two fields east of the player’s house)"
+  },
+  {
+    "pokemonId": 167,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Patch of grass overlooking the bay)"
+  },
+  {
+    "pokemonId": 167,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Path south of Iki Town blocked by rocks)"
+  },
+  {
+    "pokemonId": 167,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Two fields nearest Iki Town)"
+  },
+  {
+    "pokemonId": 168,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 10"
+  },
+  {
+    "pokemonId": 168,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 11"
+  },
+  {
+    "pokemonId": 168,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 168,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 168,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 168,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 170,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 170,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 170,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 170,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 172,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Two fields nearest Iki Town)"
+  },
+  {
+    "pokemonId": 172,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City - Hau'oli City (Shopping District)"
+  },
+  {
+    "pokemonId": 173,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Hokulani"
+  },
+  {
+    "pokemonId": 174,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 4"
+  },
+  {
+    "pokemonId": 174,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Northern patch of grass)"
+  },
+  {
+    "pokemonId": 174,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Two southern patches of grass)"
+  },
+  {
+    "pokemonId": 183,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 198,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Canyon)"
+  },
+  {
+    "pokemonId": 200,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli Cemetery"
+  },
+  {
+    "pokemonId": 210,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ancient Poni Path"
+  },
+  {
+    "pokemonId": 210,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 210,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Grove"
+  },
+  {
+    "pokemonId": 210,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 215,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Icy Cave Right)"
+  },
+  {
+    "pokemonId": 215,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Northern patch near base)"
+  },
+  {
+    "pokemonId": 215,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Southern patch near base and patch near peak)"
+  },
+  {
+    "pokemonId": 220,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Tapu Village"
+  },
+  {
+    "pokemonId": 222,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 9"
+  },
+  {
+    "pokemonId": 222,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Sea"
+  },
+  {
+    "pokemonId": 222,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Sea"
+  },
+  {
+    "pokemonId": 225,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Two patches of grass north of the bridge)"
+  },
+  {
+    "pokemonId": 227,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 10"
+  },
+  {
+    "pokemonId": 227,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 10"
+  },
+  {
+    "pokemonId": 227,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 227,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Hokulani"
+  },
+  {
+    "pokemonId": 227,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Canyon)"
+  },
+  {
+    "pokemonId": 235,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Four southernmost patches of grass)"
+  },
+  {
+    "pokemonId": 235,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Three northernmost patches of grass)"
+  },
+  {
+    "pokemonId": 239,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 12 - Alola Route 12 (First ten patches of grass from the north)"
+  },
+  {
+    "pokemonId": 239,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 12 - Alola Route 12 (Southernmost patch of grass)"
+  },
+  {
+    "pokemonId": 239,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Eastern Patch of grass)"
+  },
+  {
+    "pokemonId": 239,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Western Patch of grass)"
+  },
+  {
+    "pokemonId": 240,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Wela Volcano Park"
+  },
+  {
+    "pokemonId": 241,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Paniola Ranch"
+  },
+  {
+    "pokemonId": 241,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Seven patches of grass in the middle)"
+  },
+  {
+    "pokemonId": 241,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the coastline)"
+  },
+  {
+    "pokemonId": 241,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the mountains)"
+  },
+  {
+    "pokemonId": 241,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Two big patches of grass in the north and center)"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Hau'oli Outskirts)"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Hau'oli Outskirts)"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (First patch of grass)"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Patches of grass across the second lake)"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Totem's Den)"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hano Beach"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City - Hau'oli City (Shopping District)"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City - Hau'oli City Beachfront"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 278,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Sea"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 14"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 16"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ancient Poni Path"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Exeggutor Island"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the coastline)"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Tapu Village"
+  },
+  {
+    "pokemonId": 279,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Beach"
+  },
+  {
+    "pokemonId": 283,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 283,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (First patch of grass)"
+  },
+  {
+    "pokemonId": 283,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Patches of grass across the second lake)"
+  },
+  {
+    "pokemonId": 284,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 288,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 11"
+  },
+  {
+    "pokemonId": 296,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2"
+  },
+  {
+    "pokemonId": 297,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains"
+  },
+  {
+    "pokemonId": 299,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 315,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 315,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Breaker Coast"
+  },
+  {
+    "pokemonId": 319,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Breaker Coast"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Breaker Coast"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Breaker Coast"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seafolk Village"
+  },
+  {
+    "pokemonId": 320,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seafolk Village"
+  },
+  {
+    "pokemonId": 321,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 324,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 12 - Alola Route 12 (First ten patches of grass from the north)"
+  },
+  {
+    "pokemonId": 324,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 12 - Alola Route 12 (Southernmost patch of grass)"
+  },
+  {
+    "pokemonId": 324,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Eastern Patch of grass)"
+  },
+  {
+    "pokemonId": 324,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Western Patch of grass)"
+  },
+  {
+    "pokemonId": 327,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Farthest Hollow)"
+  },
+  {
+    "pokemonId": 328,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Haina Desert"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Paniola Town"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Paniola Town"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Meadow"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Meadow"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seaward Cave"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seaward Cave"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 339,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 349,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 349,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 359,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Icy Cave Right)"
+  },
+  {
+    "pokemonId": 359,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Northern patch near base)"
+  },
+  {
+    "pokemonId": 359,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Southern patch near base and patch near peak)"
+  },
+  {
+    "pokemonId": 359,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Tapu Village"
+  },
+  {
+    "pokemonId": 361,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Icy Cave Right)"
+  },
+  {
+    "pokemonId": 361,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Northern patch near base)"
+  },
+  {
+    "pokemonId": 361,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Lanakila - Mount Lanakila (Southern patch near base and patch near peak)"
+  },
+  {
+    "pokemonId": 361,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Tapu Village"
+  },
+  {
+    "pokemonId": 363,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 369,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 369,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 9"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Sea"
+  },
+  {
+    "pokemonId": 370,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Sea"
+  },
+  {
+    "pokemonId": 371,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Patch of grass south of bridge)"
+  },
+  {
+    "pokemonId": 371,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 374,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Hokulani"
+  },
+  {
+    "pokemonId": 397,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 10"
+  },
+  {
+    "pokemonId": 404,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 408,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 410,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 423,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ancient Poni Path"
+  },
+  {
+    "pokemonId": 423,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Exeggutor Island"
+  },
+  {
+    "pokemonId": 423,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 423,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 425,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli Cemetery"
+  },
+  {
+    "pokemonId": 438,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Path south of Iki Town blocked by rocks)"
+  },
+  {
+    "pokemonId": 438,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Northern half)"
+  },
+  {
+    "pokemonId": 438,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Central area)"
+  },
+  {
+    "pokemonId": 440,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Malie City"
+  },
+  {
+    "pokemonId": 446,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Path south of Iki Town blocked by rocks)"
+  },
+  {
+    "pokemonId": 447,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Grove"
+  },
+  {
+    "pokemonId": 456,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Hau'oli Outskirts)"
+  },
+  {
+    "pokemonId": 456,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 14"
+  },
+  {
+    "pokemonId": 456,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 456,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 456,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 456,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Totem's Den)"
+  },
+  {
+    "pokemonId": 456,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hano Beach"
+  },
+  {
+    "pokemonId": 456,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City - Hau'oli City Beachfront"
+  },
+  {
+    "pokemonId": 456,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 456,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Sea"
+  },
+  {
+    "pokemonId": 456,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Beach"
+  },
+  {
+    "pokemonId": 457,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 468,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 497,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Exeggutor Island"
+  },
+  {
+    "pokemonId": 500,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ancient Poni Path"
+  },
+  {
+    "pokemonId": 503,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 506,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 4"
+  },
+  {
+    "pokemonId": 506,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Southern half)"
+  },
+  {
+    "pokemonId": 506,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Northern patch of grass)"
+  },
+  {
+    "pokemonId": 506,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Two southern patches of grass)"
+  },
+  {
+    "pokemonId": 506,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (First patch of grass)"
+  },
+  {
+    "pokemonId": 506,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Paniola Ranch"
+  },
+  {
+    "pokemonId": 524,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Cave and Ocean Cave)"
+  },
+  {
+    "pokemonId": 524,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Farthest Hollow)"
+  },
+  {
+    "pokemonId": 525,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Canyon)"
+  },
+  {
+    "pokemonId": 525,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 534,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains"
+  },
+  {
+    "pokemonId": 542,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Meadow"
+  },
+  {
+    "pokemonId": 543,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 4"
+  },
+  {
+    "pokemonId": 546,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 546,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Meadow"
+  },
+  {
+    "pokemonId": 546,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Meadow"
+  },
+  {
+    "pokemonId": 546,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains"
+  },
+  {
+    "pokemonId": 546,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Seven patches of grass in the middle)"
+  },
+  {
+    "pokemonId": 546,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the coastline)"
+  },
+  {
+    "pokemonId": 546,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the mountains)"
+  },
+  {
+    "pokemonId": 546,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Two big patches of grass in the north and center)"
+  },
+  {
+    "pokemonId": 546,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 546,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 548,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Meadow"
+  },
+  {
+    "pokemonId": 551,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Haina Desert"
+  },
+  {
+    "pokemonId": 551,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Haina Desert"
+  },
+  {
+    "pokemonId": 564,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 566,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 568,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie City - Malie City (Outer Cape)"
+  },
+  {
+    "pokemonId": 574,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6"
+  },
+  {
+    "pokemonId": 578,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 16"
+  },
+  {
+    "pokemonId": 587,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains"
+  },
+  {
+    "pokemonId": 594,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Totem's Den)"
+  },
+  {
+    "pokemonId": 594,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Totem's Den)"
+  },
+  {
+    "pokemonId": 599,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City"
+  },
+  {
+    "pokemonId": 604,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Grove"
+  },
+  {
+    "pokemonId": 607,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli Cemetery"
+  },
+  {
+    "pokemonId": 610,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Hokulani"
+  },
+  {
+    "pokemonId": 627,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3"
+  },
+  {
+    "pokemonId": 628,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains"
+  },
+  {
+    "pokemonId": 633,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Cave and Ocean Cave)"
+  },
+  {
+    "pokemonId": 661,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Wela Volcano Park"
+  },
+  {
+    "pokemonId": 662,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 663,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 674,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 10"
+  },
+  {
+    "pokemonId": 674,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 11"
+  },
+  {
+    "pokemonId": 674,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 674,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 679,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 703,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Cave and Ocean Cave)"
+  },
+  {
+    "pokemonId": 703,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Farthest Hollow)"
+  },
+  {
+    "pokemonId": 703,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Canyon)"
+  },
+  {
+    "pokemonId": 703,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Caves)"
+  },
+  {
+    "pokemonId": 707,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Thrifty Megamart (Abandoned Site)"
+  },
+  {
+    "pokemonId": 708,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Memorial Hill"
+  },
+  {
+    "pokemonId": 718,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 16"
+  },
+  {
+    "pokemonId": 718,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 16"
+  },
+  {
+    "pokemonId": 718,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 16"
+  },
+  {
+    "pokemonId": 718,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 16"
+  },
+  {
+    "pokemonId": 722,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Iki Town"
+  },
+  {
+    "pokemonId": 725,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Iki Town"
+  },
+  {
+    "pokemonId": 728,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Iki Town"
+  },
+  {
+    "pokemonId": 731,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (First two fields east of the player’s house)"
+  },
+  {
+    "pokemonId": 731,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Patch of grass overlooking the bay)"
+  },
+  {
+    "pokemonId": 731,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Path south of Iki Town blocked by rocks)"
+  },
+  {
+    "pokemonId": 731,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Two fields nearest Iki Town)"
+  },
+  {
+    "pokemonId": 731,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 4"
+  },
+  {
+    "pokemonId": 731,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Southern half)"
+  },
+  {
+    "pokemonId": 731,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Northern patch of grass)"
+  },
+  {
+    "pokemonId": 731,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Two southern patches of grass)"
+  },
+  {
+    "pokemonId": 732,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 11"
+  },
+  {
+    "pokemonId": 732,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Northern half)"
+  },
+  {
+    "pokemonId": 732,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 732,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Central area)"
+  },
+  {
+    "pokemonId": 732,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (North area)"
+  },
+  {
+    "pokemonId": 732,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Northwest area)"
+  },
+  {
+    "pokemonId": 732,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Grove"
+  },
+  {
+    "pokemonId": 732,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Seven patches of grass in the middle)"
+  },
+  {
+    "pokemonId": 732,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the coastline)"
+  },
+  {
+    "pokemonId": 732,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the mountains)"
+  },
+  {
+    "pokemonId": 732,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Two big patches of grass in the north and center)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (First two fields east of the player’s house)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Hau'oli Outskirts)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Patch of grass overlooking the bay)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Path south of Iki Town blocked by rocks)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Two fields nearest Iki Town)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Four southernmost patches of grass)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Three northernmost patches of grass)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Patch of grass south of bridge)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Two patches of grass north of the bridge)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 4"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Northern patch of grass)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Two southern patches of grass)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hau'oli City - Hau'oli City (Shopping District)"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 734,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Verdant Cavern"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 10"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 11"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 16"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ancient Poni Path"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie City - Malie City (Outer Cape)"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Grove"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Seven patches of grass in the middle)"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the coastline)"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the mountains)"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Two big patches of grass in the north and center)"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 735,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Tapu Village"
+  },
+  {
+    "pokemonId": 736,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 1 - Alola Route 1 (Two fields nearest Iki Town)"
+  },
+  {
+    "pokemonId": 736,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 4"
+  },
+  {
+    "pokemonId": 736,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Northern half)"
+  },
+  {
+    "pokemonId": 736,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Southern half)"
+  },
+  {
+    "pokemonId": 736,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Northern patch of grass)"
+  },
+  {
+    "pokemonId": 736,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Two southern patches of grass)"
+  },
+  {
+    "pokemonId": 737,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Eastern Patch of grass)"
+  },
+  {
+    "pokemonId": 737,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Western Patch of grass)"
+  },
+  {
+    "pokemonId": 739,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 10"
+  },
+  {
+    "pokemonId": 739,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 16"
+  },
+  {
+    "pokemonId": 739,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 739,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2"
+  },
+  {
+    "pokemonId": 739,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3"
+  },
+  {
+    "pokemonId": 739,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 4"
+  },
+  {
+    "pokemonId": 739,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Southern half)"
+  },
+  {
+    "pokemonId": 739,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 739,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains"
+  },
+  {
+    "pokemonId": 739,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 739,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Beach"
+  },
+  {
+    "pokemonId": 741,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Two southern patches of grass)"
+  },
+  {
+    "pokemonId": 741,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Meadow"
+  },
+  {
+    "pokemonId": 741,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Meadow"
+  },
+  {
+    "pokemonId": 741,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 741,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 742,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 2 - Alola Route 2 (Three northernmost patches of grass)"
+  },
+  {
+    "pokemonId": 742,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Patch of grass south of bridge)"
+  },
+  {
+    "pokemonId": 742,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 3 - Alola Route 3 (Two patches of grass north of the bridge)"
+  },
+  {
+    "pokemonId": 742,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Meadow"
+  },
+  {
+    "pokemonId": 743,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Meadow"
+  },
+  {
+    "pokemonId": 743,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 743,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Meadow"
+  },
+  {
+    "pokemonId": 744,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill - Ten Carat Hill (Farthest Hollow)"
+  },
+  {
+    "pokemonId": 745,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Canyon)"
+  },
+  {
+    "pokemonId": 745,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Canyon)"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 13"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 13"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 14"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 14"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 9"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Totem's Den)"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Totem's Den)"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Kala'e Bay"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Sea"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Sea"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Beach"
+  },
+  {
+    "pokemonId": 746,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Beach"
+  },
+  {
+    "pokemonId": 749,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 12 - Alola Route 12 (First ten patches of grass from the north)"
+  },
+  {
+    "pokemonId": 749,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 12 - Alola Route 12 (Southernmost patch of grass)"
+  },
+  {
+    "pokemonId": 749,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 4"
+  },
+  {
+    "pokemonId": 749,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 6 - Alola Route 6 (Northern patch of grass)"
+  },
+  {
+    "pokemonId": 749,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Eastern Patch of grass)"
+  },
+  {
+    "pokemonId": 749,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Western Patch of grass)"
+  },
+  {
+    "pokemonId": 749,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Paniola Ranch"
+  },
+  {
+    "pokemonId": 750,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Plains - Poni Plains (Three patches of grass by the mountains)"
+  },
+  {
+    "pokemonId": 751,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill"
+  },
+  {
+    "pokemonId": 751,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (First patch of grass)"
+  },
+  {
+    "pokemonId": 751,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (Patches of grass across the second lake)"
+  },
+  {
+    "pokemonId": 752,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 753,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Northern half)"
+  },
+  {
+    "pokemonId": 753,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 5 - Alola Route 5 (Southern half)"
+  },
+  {
+    "pokemonId": 753,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Central area)"
+  },
+  {
+    "pokemonId": 753,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (North area)"
+  },
+  {
+    "pokemonId": 753,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Northwest area)"
+  },
+  {
+    "pokemonId": 753,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Northwest area)"
+  },
+  {
+    "pokemonId": 755,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 11"
+  },
+  {
+    "pokemonId": 755,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Brooklet Hill - Brooklet Hill (First patch of grass)"
+  },
+  {
+    "pokemonId": 755,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Central area)"
+  },
+  {
+    "pokemonId": 755,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (North area)"
+  },
+  {
+    "pokemonId": 755,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Northwest area)"
+  },
+  {
+    "pokemonId": 757,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 757,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Wela Volcano Park"
+  },
+  {
+    "pokemonId": 759,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Akala Outskirts"
+  },
+  {
+    "pokemonId": 759,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 760,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Gauntlet"
+  },
+  {
+    "pokemonId": 761,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Alola Route 5 - Alola Route 5 (Southern half)"
+  },
+  {
+    "pokemonId": 761,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Northwest area)"
+  },
+  {
+    "pokemonId": 762,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "trade",
+    "location": "Seafolk Village"
+  },
+  {
+    "pokemonId": 764,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Central area)"
+  },
+  {
+    "pokemonId": 764,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (North area)"
+  },
+  {
+    "pokemonId": 764,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Northwest area)"
+  },
+  {
+    "pokemonId": 766,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Central area)"
+  },
+  {
+    "pokemonId": 766,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (North area)"
+  },
+  {
+    "pokemonId": 766,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle - Lush Jungle (Northwest area)"
+  },
+  {
+    "pokemonId": 767,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 8"
+  },
+  {
+    "pokemonId": 767,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Breaker Coast"
+  },
+  {
+    "pokemonId": 767,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Poni Wilds"
+  },
+  {
+    "pokemonId": 769,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hano Beach"
+  },
+  {
+    "pokemonId": 771,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 7"
+  },
+  {
+    "pokemonId": 771,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Hano Beach"
+  },
+  {
+    "pokemonId": 772,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Aether Paradise"
+  },
+  {
+    "pokemonId": 774,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Mount Hokulani"
+  },
+  {
+    "pokemonId": 775,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 11"
+  },
+  {
+    "pokemonId": 776,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Eastern Patch of grass)"
+  },
+  {
+    "pokemonId": 776,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Western Patch of grass)"
+  },
+  {
+    "pokemonId": 777,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Eastern Patch of grass)"
+  },
+  {
+    "pokemonId": 777,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Blush Mountain - Blush Mountain (Western Patch of grass)"
+  },
+  {
+    "pokemonId": 778,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Thrifty Megamart (Abandoned Site)"
+  },
+  {
+    "pokemonId": 779,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 13"
+  },
+  {
+    "pokemonId": 779,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 13"
+  },
+  {
+    "pokemonId": 779,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 14"
+  },
+  {
+    "pokemonId": 779,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 14"
+  },
+  {
+    "pokemonId": 779,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 779,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 15"
+  },
+  {
+    "pokemonId": 779,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Beach"
+  },
+  {
+    "pokemonId": 779,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ula'ula Beach"
+  },
+  {
+    "pokemonId": 781,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seafolk Village"
+  },
+  {
+    "pokemonId": 781,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Seafolk Village"
+  },
+  {
+    "pokemonId": 782,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Vast Poni Canyon - Vast Poni Canyon (Canyon)"
+  },
+  {
+    "pokemonId": 785,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ruins of Conflict"
+  },
+  {
+    "pokemonId": 786,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ruins of Life"
+  },
+  {
+    "pokemonId": 787,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ruins of Abundance"
+  },
+  {
+    "pokemonId": 788,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ruins of Hope"
+  },
+  {
+    "pokemonId": 789,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Lake of the Sunne"
+  },
+  {
+    "pokemonId": 791,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Altar of the Sunne"
+  },
+  {
+    "pokemonId": 793,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Diglett's Tunnel"
+  },
+  {
+    "pokemonId": 793,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Wela Volcano Park"
+  },
+  {
+    "pokemonId": 794,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Melemele Meadow"
+  },
+  {
+    "pokemonId": 796,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Lush Jungle"
+  },
+  {
+    "pokemonId": 796,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Memorial Hill"
+  },
+  {
+    "pokemonId": 798,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Alola Route 17"
+  },
+  {
+    "pokemonId": 798,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Malie Garden"
+  },
+  {
+    "pokemonId": 799,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Resolution Cave"
+  },
+  {
+    "pokemonId": 800,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "catch",
+    "location": "Ten Carat Hill"
+  },
+  {
+    "pokemonId": 801,
+    "game": "Pokémon Sun",
+    "console": "Nintendo 3DS",
+    "method": "gift",
+    "location": "Hau'oli City"
+  }
+]

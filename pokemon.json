@@ -1,14 +1,8729 @@
 [
   {
-    "id": 25,
-    "name": "Pikachu",
+    "id": 1,
+    "name": "Bulbasaur Default",
     "region": "kanto",
-    "types": ["electric"]
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur Default",
+    "region": "kanto",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Venusaur Default",
+    "region": "kanto",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Charmander Default",
+    "region": "kanto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon Default",
+    "region": "kanto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Charizard Default",
+    "region": "kanto",
+    "types": [
+      "10",
+      "3"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Squirtle Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Wartortle Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Blastoise Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Caterpie Default",
+    "region": "kanto",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Metapod Default",
+    "region": "kanto",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Butterfree Default",
+    "region": "kanto",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Weedle Default",
+    "region": "kanto",
+    "types": [
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Kakuna Default",
+    "region": "kanto",
+    "types": [
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Beedrill Default",
+    "region": "kanto",
+    "types": [
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pidgey Default",
+    "region": "kanto",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto Default",
+    "region": "kanto",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot Default",
+    "region": "kanto",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Rattata Default",
+    "region": "kanto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Raticate Default",
+    "region": "kanto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Spearow Default",
+    "region": "kanto",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Fearow Default",
+    "region": "kanto",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Ekans Default",
+    "region": "kanto",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Arbok Default",
+    "region": "kanto",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Pikachu Default",
+    "region": "kanto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Raichu Default",
+    "region": "kanto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew Default",
+    "region": "kanto",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Sandslash Default",
+    "region": "kanto",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Nidoran F Default",
+    "region": "kanto",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Nidorina Default",
+    "region": "kanto",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen Default",
+    "region": "kanto",
+    "types": [
+      "4",
+      "5"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Nidoran M Default",
+    "region": "kanto",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Nidorino Default",
+    "region": "kanto",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Nidoking Default",
+    "region": "kanto",
+    "types": [
+      "4",
+      "5"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Clefairy Default",
+    "region": "kanto",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Clefable Default",
+    "region": "kanto",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Vulpix Default",
+    "region": "kanto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Ninetales Default",
+    "region": "kanto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff Default",
+    "region": "kanto",
+    "types": [
+      "1",
+      "18"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff Default",
+    "region": "kanto",
+    "types": [
+      "1",
+      "18"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Zubat Default",
+    "region": "kanto",
+    "types": [
+      "4",
+      "3"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Golbat Default",
+    "region": "kanto",
+    "types": [
+      "4",
+      "3"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Oddish Default",
+    "region": "kanto",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Gloom Default",
+    "region": "kanto",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Vileplume Default",
+    "region": "kanto",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Paras Default",
+    "region": "kanto",
+    "types": [
+      "7",
+      "12"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Parasect Default",
+    "region": "kanto",
+    "types": [
+      "7",
+      "12"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Venonat Default",
+    "region": "kanto",
+    "types": [
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Venomoth Default",
+    "region": "kanto",
+    "types": [
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Diglett Default",
+    "region": "kanto",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio Default",
+    "region": "kanto",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Meowth Default",
+    "region": "kanto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Persian Default",
+    "region": "kanto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Psyduck Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Golduck Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Mankey Default",
+    "region": "kanto",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Primeape Default",
+    "region": "kanto",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Growlithe Default",
+    "region": "kanto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Arcanine Default",
+    "region": "kanto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Poliwag Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath Default",
+    "region": "kanto",
+    "types": [
+      "11",
+      "2"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Abra Default",
+    "region": "kanto",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Kadabra Default",
+    "region": "kanto",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Alakazam Default",
+    "region": "kanto",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Machop Default",
+    "region": "kanto",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Machoke Default",
+    "region": "kanto",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Machamp Default",
+    "region": "kanto",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout Default",
+    "region": "kanto",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell Default",
+    "region": "kanto",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Victreebel Default",
+    "region": "kanto",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Tentacool Default",
+    "region": "kanto",
+    "types": [
+      "11",
+      "4"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel Default",
+    "region": "kanto",
+    "types": [
+      "11",
+      "4"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Geodude Default",
+    "region": "kanto",
+    "types": [
+      "6",
+      "5"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Graveler Default",
+    "region": "kanto",
+    "types": [
+      "6",
+      "5"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Golem Default",
+    "region": "kanto",
+    "types": [
+      "6",
+      "5"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Ponyta Default",
+    "region": "kanto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Rapidash Default",
+    "region": "kanto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke Default",
+    "region": "kanto",
+    "types": [
+      "11",
+      "14"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Slowbro Default",
+    "region": "kanto",
+    "types": [
+      "11",
+      "14"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Magnemite Default",
+    "region": "kanto",
+    "types": [
+      "13",
+      "9"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Magneton Default",
+    "region": "kanto",
+    "types": [
+      "13",
+      "9"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Farfetchd Default",
+    "region": "kanto",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Doduo Default",
+    "region": "kanto",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Dodrio Default",
+    "region": "kanto",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Seel Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Dewgong Default",
+    "region": "kanto",
+    "types": [
+      "11",
+      "15"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Grimer Default",
+    "region": "kanto",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Muk Default",
+    "region": "kanto",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Shellder Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Cloyster Default",
+    "region": "kanto",
+    "types": [
+      "11",
+      "15"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Gastly Default",
+    "region": "kanto",
+    "types": [
+      "8",
+      "4"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Haunter Default",
+    "region": "kanto",
+    "types": [
+      "8",
+      "4"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Gengar Default",
+    "region": "kanto",
+    "types": [
+      "8",
+      "4"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Onix Default",
+    "region": "kanto",
+    "types": [
+      "6",
+      "5"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Drowzee Default",
+    "region": "kanto",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Hypno Default",
+    "region": "kanto",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Krabby Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Kingler Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Voltorb Default",
+    "region": "kanto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Electrode Default",
+    "region": "kanto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute Default",
+    "region": "kanto",
+    "types": [
+      "12",
+      "14"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor Default",
+    "region": "kanto",
+    "types": [
+      "12",
+      "14"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Cubone Default",
+    "region": "kanto",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Marowak Default",
+    "region": "kanto",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee Default",
+    "region": "kanto",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan Default",
+    "region": "kanto",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Lickitung Default",
+    "region": "kanto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Koffing Default",
+    "region": "kanto",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Weezing Default",
+    "region": "kanto",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn Default",
+    "region": "kanto",
+    "types": [
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Rhydon Default",
+    "region": "kanto",
+    "types": [
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Chansey Default",
+    "region": "kanto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Tangela Default",
+    "region": "kanto",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan Default",
+    "region": "kanto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Horsea Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Seadra Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Goldeen Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Seaking Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Staryu Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Starmie Default",
+    "region": "kanto",
+    "types": [
+      "11",
+      "14"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Mr Mime Default",
+    "region": "kanto",
+    "types": [
+      "14",
+      "18"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Scyther Default",
+    "region": "kanto",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Jynx Default",
+    "region": "kanto",
+    "types": [
+      "15",
+      "14"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz Default",
+    "region": "kanto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Magmar Default",
+    "region": "kanto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Pinsir Default",
+    "region": "kanto",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Tauros Default",
+    "region": "kanto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Magikarp Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Gyarados Default",
+    "region": "kanto",
+    "types": [
+      "11",
+      "3"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Lapras Default",
+    "region": "kanto",
+    "types": [
+      "11",
+      "15"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Ditto Default",
+    "region": "kanto",
+    "types": [
+      "1"
+    ]
   },
   {
     "id": 133,
-    "name": "Eevee",
+    "name": "Eevee Default",
     "region": "kanto",
-    "types": ["normal"]
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon Default",
+    "region": "kanto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Jolteon Default",
+    "region": "kanto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Flareon Default",
+    "region": "kanto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Porygon Default",
+    "region": "kanto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Omanyte Default",
+    "region": "kanto",
+    "types": [
+      "6",
+      "11"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Omastar Default",
+    "region": "kanto",
+    "types": [
+      "6",
+      "11"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Kabuto Default",
+    "region": "kanto",
+    "types": [
+      "6",
+      "11"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Kabutops Default",
+    "region": "kanto",
+    "types": [
+      "6",
+      "11"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl Default",
+    "region": "kanto",
+    "types": [
+      "6",
+      "3"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Snorlax Default",
+    "region": "kanto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Articuno Default",
+    "region": "kanto",
+    "types": [
+      "15",
+      "3"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Zapdos Default",
+    "region": "kanto",
+    "types": [
+      "13",
+      "3"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Moltres Default",
+    "region": "kanto",
+    "types": [
+      "10",
+      "3"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Dratini Default",
+    "region": "kanto",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Dragonair Default",
+    "region": "kanto",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Dragonite Default",
+    "region": "kanto",
+    "types": [
+      "16",
+      "3"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo Default",
+    "region": "kanto",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Mew Default",
+    "region": "kanto",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Chikorita Default",
+    "region": "johto",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Bayleef Default",
+    "region": "johto",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Meganium Default",
+    "region": "johto",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Cyndaquil Default",
+    "region": "johto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Quilava Default",
+    "region": "johto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Typhlosion Default",
+    "region": "johto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Totodile Default",
+    "region": "johto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Croconaw Default",
+    "region": "johto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Feraligatr Default",
+    "region": "johto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Sentret Default",
+    "region": "johto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Furret Default",
+    "region": "johto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Hoothoot Default",
+    "region": "johto",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Noctowl Default",
+    "region": "johto",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Ledyba Default",
+    "region": "johto",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Ledian Default",
+    "region": "johto",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Spinarak Default",
+    "region": "johto",
+    "types": [
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Ariados Default",
+    "region": "johto",
+    "types": [
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Crobat Default",
+    "region": "johto",
+    "types": [
+      "4",
+      "3"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Chinchou Default",
+    "region": "johto",
+    "types": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Lanturn Default",
+    "region": "johto",
+    "types": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Pichu Default",
+    "region": "johto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Cleffa Default",
+    "region": "johto",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Igglybuff Default",
+    "region": "johto",
+    "types": [
+      "1",
+      "18"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Togepi Default",
+    "region": "johto",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Togetic Default",
+    "region": "johto",
+    "types": [
+      "18",
+      "3"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Natu Default",
+    "region": "johto",
+    "types": [
+      "14",
+      "3"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Xatu Default",
+    "region": "johto",
+    "types": [
+      "14",
+      "3"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Mareep Default",
+    "region": "johto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Flaaffy Default",
+    "region": "johto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Ampharos Default",
+    "region": "johto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Bellossom Default",
+    "region": "johto",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Marill Default",
+    "region": "johto",
+    "types": [
+      "11",
+      "18"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Azumarill Default",
+    "region": "johto",
+    "types": [
+      "11",
+      "18"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Sudowoodo Default",
+    "region": "johto",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Politoed Default",
+    "region": "johto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Hoppip Default",
+    "region": "johto",
+    "types": [
+      "12",
+      "3"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Skiploom Default",
+    "region": "johto",
+    "types": [
+      "12",
+      "3"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Jumpluff Default",
+    "region": "johto",
+    "types": [
+      "12",
+      "3"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Aipom Default",
+    "region": "johto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Sunkern Default",
+    "region": "johto",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Sunflora Default",
+    "region": "johto",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Yanma Default",
+    "region": "johto",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Wooper Default",
+    "region": "johto",
+    "types": [
+      "11",
+      "5"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Quagsire Default",
+    "region": "johto",
+    "types": [
+      "11",
+      "5"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Espeon Default",
+    "region": "johto",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Umbreon Default",
+    "region": "johto",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Murkrow Default",
+    "region": "johto",
+    "types": [
+      "17",
+      "3"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Slowking Default",
+    "region": "johto",
+    "types": [
+      "11",
+      "14"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Misdreavus Default",
+    "region": "johto",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Unown Default",
+    "region": "johto",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Wobbuffet Default",
+    "region": "johto",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Girafarig Default",
+    "region": "johto",
+    "types": [
+      "1",
+      "14"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Pineco Default",
+    "region": "johto",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Forretress Default",
+    "region": "johto",
+    "types": [
+      "7",
+      "9"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Dunsparce Default",
+    "region": "johto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Gligar Default",
+    "region": "johto",
+    "types": [
+      "5",
+      "3"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Steelix Default",
+    "region": "johto",
+    "types": [
+      "9",
+      "5"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Snubbull Default",
+    "region": "johto",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Granbull Default",
+    "region": "johto",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Qwilfish Default",
+    "region": "johto",
+    "types": [
+      "11",
+      "4"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Scizor Default",
+    "region": "johto",
+    "types": [
+      "7",
+      "9"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Shuckle Default",
+    "region": "johto",
+    "types": [
+      "7",
+      "6"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Heracross Default",
+    "region": "johto",
+    "types": [
+      "7",
+      "2"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Sneasel Default",
+    "region": "johto",
+    "types": [
+      "17",
+      "15"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Teddiursa Default",
+    "region": "johto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Ursaring Default",
+    "region": "johto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Slugma Default",
+    "region": "johto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Magcargo Default",
+    "region": "johto",
+    "types": [
+      "10",
+      "6"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Swinub Default",
+    "region": "johto",
+    "types": [
+      "15",
+      "5"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Piloswine Default",
+    "region": "johto",
+    "types": [
+      "15",
+      "5"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Corsola Default",
+    "region": "johto",
+    "types": [
+      "11",
+      "6"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Remoraid Default",
+    "region": "johto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Octillery Default",
+    "region": "johto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Delibird Default",
+    "region": "johto",
+    "types": [
+      "15",
+      "3"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Mantine Default",
+    "region": "johto",
+    "types": [
+      "11",
+      "3"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Skarmory Default",
+    "region": "johto",
+    "types": [
+      "9",
+      "3"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Houndour Default",
+    "region": "johto",
+    "types": [
+      "17",
+      "10"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Houndoom Default",
+    "region": "johto",
+    "types": [
+      "17",
+      "10"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Kingdra Default",
+    "region": "johto",
+    "types": [
+      "11",
+      "16"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Phanpy Default",
+    "region": "johto",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Donphan Default",
+    "region": "johto",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Porygon2 Default",
+    "region": "johto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Stantler Default",
+    "region": "johto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Smeargle Default",
+    "region": "johto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Tyrogue Default",
+    "region": "johto",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Hitmontop Default",
+    "region": "johto",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Smoochum Default",
+    "region": "johto",
+    "types": [
+      "15",
+      "14"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Elekid Default",
+    "region": "johto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Magby Default",
+    "region": "johto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Miltank Default",
+    "region": "johto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Blissey Default",
+    "region": "johto",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Raikou Default",
+    "region": "johto",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Entei Default",
+    "region": "johto",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Suicune Default",
+    "region": "johto",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Larvitar Default",
+    "region": "johto",
+    "types": [
+      "6",
+      "5"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Pupitar Default",
+    "region": "johto",
+    "types": [
+      "6",
+      "5"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Tyranitar Default",
+    "region": "johto",
+    "types": [
+      "6",
+      "17"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Lugia Default",
+    "region": "johto",
+    "types": [
+      "14",
+      "3"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Ho Oh Default",
+    "region": "johto",
+    "types": [
+      "10",
+      "3"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Celebi Default",
+    "region": "johto",
+    "types": [
+      "14",
+      "12"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Treecko Default",
+    "region": "hoenn",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Grovyle Default",
+    "region": "hoenn",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Sceptile Default",
+    "region": "hoenn",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Torchic Default",
+    "region": "hoenn",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Combusken Default",
+    "region": "hoenn",
+    "types": [
+      "10",
+      "2"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Blaziken Default",
+    "region": "hoenn",
+    "types": [
+      "10",
+      "2"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Mudkip Default",
+    "region": "hoenn",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Marshtomp Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "5"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Swampert Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "5"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Poochyena Default",
+    "region": "hoenn",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Mightyena Default",
+    "region": "hoenn",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Zigzagoon Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Linoone Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Wurmple Default",
+    "region": "hoenn",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Silcoon Default",
+    "region": "hoenn",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Beautifly Default",
+    "region": "hoenn",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Cascoon Default",
+    "region": "hoenn",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Dustox Default",
+    "region": "hoenn",
+    "types": [
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Lotad Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "12"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Lombre Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "12"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Ludicolo Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "12"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Seedot Default",
+    "region": "hoenn",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Nuzleaf Default",
+    "region": "hoenn",
+    "types": [
+      "12",
+      "17"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Shiftry Default",
+    "region": "hoenn",
+    "types": [
+      "12",
+      "17"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Taillow Default",
+    "region": "hoenn",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Swellow Default",
+    "region": "hoenn",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Wingull Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "3"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "Pelipper Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "3"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Ralts Default",
+    "region": "hoenn",
+    "types": [
+      "14",
+      "18"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Kirlia Default",
+    "region": "hoenn",
+    "types": [
+      "14",
+      "18"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Gardevoir Default",
+    "region": "hoenn",
+    "types": [
+      "14",
+      "18"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Surskit Default",
+    "region": "hoenn",
+    "types": [
+      "7",
+      "11"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Masquerain Default",
+    "region": "hoenn",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Shroomish Default",
+    "region": "hoenn",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Breloom Default",
+    "region": "hoenn",
+    "types": [
+      "12",
+      "2"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Slakoth Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Vigoroth Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Slaking Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Nincada Default",
+    "region": "hoenn",
+    "types": [
+      "7",
+      "5"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Ninjask Default",
+    "region": "hoenn",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Shedinja Default",
+    "region": "hoenn",
+    "types": [
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Whismur Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Loudred Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Exploud Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Makuhita Default",
+    "region": "hoenn",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Hariyama Default",
+    "region": "hoenn",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Azurill Default",
+    "region": "hoenn",
+    "types": [
+      "1",
+      "18"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Nosepass Default",
+    "region": "hoenn",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Skitty Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Delcatty Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Sableye Default",
+    "region": "hoenn",
+    "types": [
+      "17",
+      "8"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Mawile Default",
+    "region": "hoenn",
+    "types": [
+      "9",
+      "18"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Aron Default",
+    "region": "hoenn",
+    "types": [
+      "9",
+      "6"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Lairon Default",
+    "region": "hoenn",
+    "types": [
+      "9",
+      "6"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Aggron Default",
+    "region": "hoenn",
+    "types": [
+      "9",
+      "6"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Meditite Default",
+    "region": "hoenn",
+    "types": [
+      "2",
+      "14"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Medicham Default",
+    "region": "hoenn",
+    "types": [
+      "2",
+      "14"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Electrike Default",
+    "region": "hoenn",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Manectric Default",
+    "region": "hoenn",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Plusle Default",
+    "region": "hoenn",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Minun Default",
+    "region": "hoenn",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Volbeat Default",
+    "region": "hoenn",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Illumise Default",
+    "region": "hoenn",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Roselia Default",
+    "region": "hoenn",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Gulpin Default",
+    "region": "hoenn",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Swalot Default",
+    "region": "hoenn",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Carvanha Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "17"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Sharpedo Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "17"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Wailmer Default",
+    "region": "hoenn",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Wailord Default",
+    "region": "hoenn",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Numel Default",
+    "region": "hoenn",
+    "types": [
+      "10",
+      "5"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Camerupt Default",
+    "region": "hoenn",
+    "types": [
+      "10",
+      "5"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Torkoal Default",
+    "region": "hoenn",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Spoink Default",
+    "region": "hoenn",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Grumpig Default",
+    "region": "hoenn",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Spinda Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Trapinch Default",
+    "region": "hoenn",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Vibrava Default",
+    "region": "hoenn",
+    "types": [
+      "5",
+      "16"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Flygon Default",
+    "region": "hoenn",
+    "types": [
+      "5",
+      "16"
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Cacnea Default",
+    "region": "hoenn",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Cacturne Default",
+    "region": "hoenn",
+    "types": [
+      "12",
+      "17"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Swablu Default",
+    "region": "hoenn",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Altaria Default",
+    "region": "hoenn",
+    "types": [
+      "16",
+      "3"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Zangoose Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Seviper Default",
+    "region": "hoenn",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Lunatone Default",
+    "region": "hoenn",
+    "types": [
+      "6",
+      "14"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Solrock Default",
+    "region": "hoenn",
+    "types": [
+      "6",
+      "14"
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Barboach Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "5"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Whiscash Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "5"
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Corphish Default",
+    "region": "hoenn",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Crawdaunt Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "17"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Baltoy Default",
+    "region": "hoenn",
+    "types": [
+      "5",
+      "14"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Claydol Default",
+    "region": "hoenn",
+    "types": [
+      "5",
+      "14"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Lileep Default",
+    "region": "hoenn",
+    "types": [
+      "6",
+      "12"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Cradily Default",
+    "region": "hoenn",
+    "types": [
+      "6",
+      "12"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Anorith Default",
+    "region": "hoenn",
+    "types": [
+      "6",
+      "7"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Armaldo Default",
+    "region": "hoenn",
+    "types": [
+      "6",
+      "7"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Feebas Default",
+    "region": "hoenn",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Milotic Default",
+    "region": "hoenn",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Castform Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Kecleon Default",
+    "region": "hoenn",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Shuppet Default",
+    "region": "hoenn",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Banette Default",
+    "region": "hoenn",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Duskull Default",
+    "region": "hoenn",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Dusclops Default",
+    "region": "hoenn",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Tropius Default",
+    "region": "hoenn",
+    "types": [
+      "12",
+      "3"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Chimecho Default",
+    "region": "hoenn",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Absol Default",
+    "region": "hoenn",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Wynaut Default",
+    "region": "hoenn",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Snorunt Default",
+    "region": "hoenn",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Glalie Default",
+    "region": "hoenn",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Spheal Default",
+    "region": "hoenn",
+    "types": [
+      "15",
+      "11"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Sealeo Default",
+    "region": "hoenn",
+    "types": [
+      "15",
+      "11"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Walrein Default",
+    "region": "hoenn",
+    "types": [
+      "15",
+      "11"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Clamperl Default",
+    "region": "hoenn",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Huntail Default",
+    "region": "hoenn",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Gorebyss Default",
+    "region": "hoenn",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Relicanth Default",
+    "region": "hoenn",
+    "types": [
+      "11",
+      "6"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Luvdisc Default",
+    "region": "hoenn",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Bagon Default",
+    "region": "hoenn",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Shelgon Default",
+    "region": "hoenn",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Salamence Default",
+    "region": "hoenn",
+    "types": [
+      "16",
+      "3"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Beldum Default",
+    "region": "hoenn",
+    "types": [
+      "9",
+      "14"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Metang Default",
+    "region": "hoenn",
+    "types": [
+      "9",
+      "14"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Metagross Default",
+    "region": "hoenn",
+    "types": [
+      "9",
+      "14"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Regirock Default",
+    "region": "hoenn",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Regice Default",
+    "region": "hoenn",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Registeel Default",
+    "region": "hoenn",
+    "types": [
+      "9"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Latias Default",
+    "region": "hoenn",
+    "types": [
+      "16",
+      "14"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Latios Default",
+    "region": "hoenn",
+    "types": [
+      "16",
+      "14"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Kyogre Default",
+    "region": "hoenn",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Groudon Default",
+    "region": "hoenn",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Rayquaza Default",
+    "region": "hoenn",
+    "types": [
+      "16",
+      "3"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Jirachi Default",
+    "region": "hoenn",
+    "types": [
+      "9",
+      "14"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Deoxys Default",
+    "region": "hoenn",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Turtwig Default",
+    "region": "sinnoh",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "Grotle Default",
+    "region": "sinnoh",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Torterra Default",
+    "region": "sinnoh",
+    "types": [
+      "12",
+      "5"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Chimchar Default",
+    "region": "sinnoh",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Monferno Default",
+    "region": "sinnoh",
+    "types": [
+      "10",
+      "2"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Infernape Default",
+    "region": "sinnoh",
+    "types": [
+      "10",
+      "2"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Piplup Default",
+    "region": "sinnoh",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Prinplup Default",
+    "region": "sinnoh",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Empoleon Default",
+    "region": "sinnoh",
+    "types": [
+      "11",
+      "9"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Starly Default",
+    "region": "sinnoh",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Staravia Default",
+    "region": "sinnoh",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Staraptor Default",
+    "region": "sinnoh",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "Bidoof Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Bibarel Default",
+    "region": "sinnoh",
+    "types": [
+      "1",
+      "11"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Kricketot Default",
+    "region": "sinnoh",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Kricketune Default",
+    "region": "sinnoh",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Shinx Default",
+    "region": "sinnoh",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Luxio Default",
+    "region": "sinnoh",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Luxray Default",
+    "region": "sinnoh",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "Budew Default",
+    "region": "sinnoh",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Roserade Default",
+    "region": "sinnoh",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Cranidos Default",
+    "region": "sinnoh",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Rampardos Default",
+    "region": "sinnoh",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Shieldon Default",
+    "region": "sinnoh",
+    "types": [
+      "6",
+      "9"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Bastiodon Default",
+    "region": "sinnoh",
+    "types": [
+      "6",
+      "9"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Burmy Plant Cloak",
+    "region": "sinnoh",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Wormadam Plant Cloak",
+    "region": "sinnoh",
+    "types": [
+      "7",
+      "12"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Mothim Default",
+    "region": "sinnoh",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "Combee Default",
+    "region": "sinnoh",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Vespiquen Default",
+    "region": "sinnoh",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Pachirisu Default",
+    "region": "sinnoh",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Buizel Default",
+    "region": "sinnoh",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Floatzel Default",
+    "region": "sinnoh",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Cherubi Default",
+    "region": "sinnoh",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Cherrim Overcast",
+    "region": "sinnoh",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Shellos West Sea",
+    "region": "sinnoh",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 423,
+    "name": "Gastrodon West Sea",
+    "region": "sinnoh",
+    "types": [
+      "11",
+      "5"
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Ambipom Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Drifloon Default",
+    "region": "sinnoh",
+    "types": [
+      "8",
+      "3"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Drifblim Default",
+    "region": "sinnoh",
+    "types": [
+      "8",
+      "3"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Buneary Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Lopunny Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Mismagius Default",
+    "region": "sinnoh",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Honchkrow Default",
+    "region": "sinnoh",
+    "types": [
+      "17",
+      "3"
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Glameow Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Purugly Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Chingling Default",
+    "region": "sinnoh",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Stunky Default",
+    "region": "sinnoh",
+    "types": [
+      "4",
+      "17"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "Skuntank Default",
+    "region": "sinnoh",
+    "types": [
+      "4",
+      "17"
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Bronzor Default",
+    "region": "sinnoh",
+    "types": [
+      "9",
+      "14"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Bronzong Default",
+    "region": "sinnoh",
+    "types": [
+      "9",
+      "14"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Bonsly Default",
+    "region": "sinnoh",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 439,
+    "name": "Mime Jr Default",
+    "region": "sinnoh",
+    "types": [
+      "14",
+      "18"
+    ]
+  },
+  {
+    "id": 440,
+    "name": "Happiny Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 441,
+    "name": "Chatot Default",
+    "region": "sinnoh",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Spiritomb Default",
+    "region": "sinnoh",
+    "types": [
+      "8",
+      "17"
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Gible Default",
+    "region": "sinnoh",
+    "types": [
+      "16",
+      "5"
+    ]
+  },
+  {
+    "id": 444,
+    "name": "Gabite Default",
+    "region": "sinnoh",
+    "types": [
+      "16",
+      "5"
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Garchomp Default",
+    "region": "sinnoh",
+    "types": [
+      "16",
+      "5"
+    ]
+  },
+  {
+    "id": 446,
+    "name": "Munchlax Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 447,
+    "name": "Riolu Default",
+    "region": "sinnoh",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 448,
+    "name": "Lucario Default",
+    "region": "sinnoh",
+    "types": [
+      "2",
+      "9"
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Hippopotas Default",
+    "region": "sinnoh",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 450,
+    "name": "Hippowdon Default",
+    "region": "sinnoh",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 451,
+    "name": "Skorupi Default",
+    "region": "sinnoh",
+    "types": [
+      "4",
+      "7"
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Drapion Default",
+    "region": "sinnoh",
+    "types": [
+      "4",
+      "17"
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Croagunk Default",
+    "region": "sinnoh",
+    "types": [
+      "4",
+      "2"
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Toxicroak Default",
+    "region": "sinnoh",
+    "types": [
+      "4",
+      "2"
+    ]
+  },
+  {
+    "id": 455,
+    "name": "Carnivine Default",
+    "region": "sinnoh",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 456,
+    "name": "Finneon Default",
+    "region": "sinnoh",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 457,
+    "name": "Lumineon Default",
+    "region": "sinnoh",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Mantyke Default",
+    "region": "sinnoh",
+    "types": [
+      "11",
+      "3"
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Snover Default",
+    "region": "sinnoh",
+    "types": [
+      "12",
+      "15"
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Abomasnow Default",
+    "region": "sinnoh",
+    "types": [
+      "12",
+      "15"
+    ]
+  },
+  {
+    "id": 461,
+    "name": "Weavile Default",
+    "region": "sinnoh",
+    "types": [
+      "17",
+      "15"
+    ]
+  },
+  {
+    "id": 462,
+    "name": "Magnezone Default",
+    "region": "sinnoh",
+    "types": [
+      "13",
+      "9"
+    ]
+  },
+  {
+    "id": 463,
+    "name": "Lickilicky Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 464,
+    "name": "Rhyperior Default",
+    "region": "sinnoh",
+    "types": [
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 465,
+    "name": "Tangrowth Default",
+    "region": "sinnoh",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 466,
+    "name": "Electivire Default",
+    "region": "sinnoh",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 467,
+    "name": "Magmortar Default",
+    "region": "sinnoh",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Togekiss Default",
+    "region": "sinnoh",
+    "types": [
+      "18",
+      "3"
+    ]
+  },
+  {
+    "id": 469,
+    "name": "Yanmega Default",
+    "region": "sinnoh",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 470,
+    "name": "Leafeon Default",
+    "region": "sinnoh",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 471,
+    "name": "Glaceon Default",
+    "region": "sinnoh",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 472,
+    "name": "Gliscor Default",
+    "region": "sinnoh",
+    "types": [
+      "5",
+      "3"
+    ]
+  },
+  {
+    "id": 473,
+    "name": "Mamoswine Default",
+    "region": "sinnoh",
+    "types": [
+      "15",
+      "5"
+    ]
+  },
+  {
+    "id": 474,
+    "name": "Porygon Z Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 475,
+    "name": "Gallade Default",
+    "region": "sinnoh",
+    "types": [
+      "14",
+      "2"
+    ]
+  },
+  {
+    "id": 476,
+    "name": "Probopass Default",
+    "region": "sinnoh",
+    "types": [
+      "6",
+      "9"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Dusknoir Default",
+    "region": "sinnoh",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "Froslass Default",
+    "region": "sinnoh",
+    "types": [
+      "15",
+      "8"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "Rotom Default",
+    "region": "sinnoh",
+    "types": [
+      "13",
+      "8"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "Uxie Default",
+    "region": "sinnoh",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Mesprit Default",
+    "region": "sinnoh",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "Azelf Default",
+    "region": "sinnoh",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "Dialga Default",
+    "region": "sinnoh",
+    "types": [
+      "9",
+      "16"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Palkia Default",
+    "region": "sinnoh",
+    "types": [
+      "11",
+      "16"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "Heatran Default",
+    "region": "sinnoh",
+    "types": [
+      "10",
+      "9"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "Regigigas Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Giratina Altered",
+    "region": "sinnoh",
+    "types": [
+      "8",
+      "16"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Cresselia Default",
+    "region": "sinnoh",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "Phione Default",
+    "region": "sinnoh",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Manaphy Default",
+    "region": "sinnoh",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Darkrai Default",
+    "region": "sinnoh",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Shaymin Land",
+    "region": "sinnoh",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "Arceus Default",
+    "region": "sinnoh",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "Victini Default",
+    "region": "unova",
+    "types": [
+      "14",
+      "10"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Snivy Default",
+    "region": "unova",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "Servine Default",
+    "region": "unova",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Serperior Default",
+    "region": "unova",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Tepig Default",
+    "region": "unova",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "Pignite Default",
+    "region": "unova",
+    "types": [
+      "10",
+      "2"
+    ]
+  },
+  {
+    "id": 500,
+    "name": "Emboar Default",
+    "region": "unova",
+    "types": [
+      "10",
+      "2"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Oshawott Default",
+    "region": "unova",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Dewott Default",
+    "region": "unova",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Samurott Default",
+    "region": "unova",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Patrat Default",
+    "region": "unova",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Watchog Default",
+    "region": "unova",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 506,
+    "name": "Lillipup Default",
+    "region": "unova",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Herdier Default",
+    "region": "unova",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 508,
+    "name": "Stoutland Default",
+    "region": "unova",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 509,
+    "name": "Purrloin Default",
+    "region": "unova",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 510,
+    "name": "Liepard Default",
+    "region": "unova",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 511,
+    "name": "Pansage Default",
+    "region": "unova",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Simisage Default",
+    "region": "unova",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 513,
+    "name": "Pansear Default",
+    "region": "unova",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 514,
+    "name": "Simisear Default",
+    "region": "unova",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 515,
+    "name": "Panpour Default",
+    "region": "unova",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 516,
+    "name": "Simipour Default",
+    "region": "unova",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 517,
+    "name": "Munna Default",
+    "region": "unova",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 518,
+    "name": "Musharna Default",
+    "region": "unova",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 519,
+    "name": "Pidove Default",
+    "region": "unova",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 520,
+    "name": "Tranquill Default",
+    "region": "unova",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 521,
+    "name": "Unfezant Male",
+    "region": "unova",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 522,
+    "name": "Blitzle Default",
+    "region": "unova",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Zebstrika Default",
+    "region": "unova",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 524,
+    "name": "Roggenrola Default",
+    "region": "unova",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 525,
+    "name": "Boldore Default",
+    "region": "unova",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 526,
+    "name": "Gigalith Default",
+    "region": "unova",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 527,
+    "name": "Woobat Default",
+    "region": "unova",
+    "types": [
+      "14",
+      "3"
+    ]
+  },
+  {
+    "id": 528,
+    "name": "Swoobat Default",
+    "region": "unova",
+    "types": [
+      "14",
+      "3"
+    ]
+  },
+  {
+    "id": 529,
+    "name": "Drilbur Default",
+    "region": "unova",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 530,
+    "name": "Excadrill Default",
+    "region": "unova",
+    "types": [
+      "5",
+      "9"
+    ]
+  },
+  {
+    "id": 531,
+    "name": "Audino Default",
+    "region": "unova",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 532,
+    "name": "Timburr Default",
+    "region": "unova",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 533,
+    "name": "Gurdurr Default",
+    "region": "unova",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 534,
+    "name": "Conkeldurr Default",
+    "region": "unova",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 535,
+    "name": "Tympole Default",
+    "region": "unova",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 536,
+    "name": "Palpitoad Default",
+    "region": "unova",
+    "types": [
+      "11",
+      "5"
+    ]
+  },
+  {
+    "id": 537,
+    "name": "Seismitoad Default",
+    "region": "unova",
+    "types": [
+      "11",
+      "5"
+    ]
+  },
+  {
+    "id": 538,
+    "name": "Throh Default",
+    "region": "unova",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 539,
+    "name": "Sawk Default",
+    "region": "unova",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 540,
+    "name": "Sewaddle Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "12"
+    ]
+  },
+  {
+    "id": 541,
+    "name": "Swadloon Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "12"
+    ]
+  },
+  {
+    "id": 542,
+    "name": "Leavanny Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "12"
+    ]
+  },
+  {
+    "id": 543,
+    "name": "Venipede Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": 544,
+    "name": "Whirlipede Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": 545,
+    "name": "Scolipede Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": 546,
+    "name": "Cottonee Default",
+    "region": "unova",
+    "types": [
+      "12",
+      "18"
+    ]
+  },
+  {
+    "id": 547,
+    "name": "Whimsicott Default",
+    "region": "unova",
+    "types": [
+      "12",
+      "18"
+    ]
+  },
+  {
+    "id": 548,
+    "name": "Petilil Default",
+    "region": "unova",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 549,
+    "name": "Lilligant Default",
+    "region": "unova",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 550,
+    "name": "Basculin Red Stripe",
+    "region": "unova",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 551,
+    "name": "Sandile Default",
+    "region": "unova",
+    "types": [
+      "5",
+      "17"
+    ]
+  },
+  {
+    "id": 552,
+    "name": "Krokorok Default",
+    "region": "unova",
+    "types": [
+      "5",
+      "17"
+    ]
+  },
+  {
+    "id": 553,
+    "name": "Krookodile Default",
+    "region": "unova",
+    "types": [
+      "5",
+      "17"
+    ]
+  },
+  {
+    "id": 554,
+    "name": "Darumaka Default",
+    "region": "unova",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 555,
+    "name": "Darmanitan Standard",
+    "region": "unova",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 556,
+    "name": "Maractus Default",
+    "region": "unova",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 557,
+    "name": "Dwebble Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "6"
+    ]
+  },
+  {
+    "id": 558,
+    "name": "Crustle Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "6"
+    ]
+  },
+  {
+    "id": 559,
+    "name": "Scraggy Default",
+    "region": "unova",
+    "types": [
+      "17",
+      "2"
+    ]
+  },
+  {
+    "id": 560,
+    "name": "Scrafty Default",
+    "region": "unova",
+    "types": [
+      "17",
+      "2"
+    ]
+  },
+  {
+    "id": 561,
+    "name": "Sigilyph Default",
+    "region": "unova",
+    "types": [
+      "14",
+      "3"
+    ]
+  },
+  {
+    "id": 562,
+    "name": "Yamask Default",
+    "region": "unova",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 563,
+    "name": "Cofagrigus Default",
+    "region": "unova",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 564,
+    "name": "Tirtouga Default",
+    "region": "unova",
+    "types": [
+      "11",
+      "6"
+    ]
+  },
+  {
+    "id": 565,
+    "name": "Carracosta Default",
+    "region": "unova",
+    "types": [
+      "11",
+      "6"
+    ]
+  },
+  {
+    "id": 566,
+    "name": "Archen Default",
+    "region": "unova",
+    "types": [
+      "6",
+      "3"
+    ]
+  },
+  {
+    "id": 567,
+    "name": "Archeops Default",
+    "region": "unova",
+    "types": [
+      "6",
+      "3"
+    ]
+  },
+  {
+    "id": 568,
+    "name": "Trubbish Default",
+    "region": "unova",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 569,
+    "name": "Garbodor Default",
+    "region": "unova",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 570,
+    "name": "Zorua Default",
+    "region": "unova",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 571,
+    "name": "Zoroark Default",
+    "region": "unova",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 572,
+    "name": "Minccino Default",
+    "region": "unova",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 573,
+    "name": "Cinccino Default",
+    "region": "unova",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 574,
+    "name": "Gothita Default",
+    "region": "unova",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 575,
+    "name": "Gothorita Default",
+    "region": "unova",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 576,
+    "name": "Gothitelle Default",
+    "region": "unova",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 577,
+    "name": "Solosis Default",
+    "region": "unova",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 578,
+    "name": "Duosion Default",
+    "region": "unova",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 579,
+    "name": "Reuniclus Default",
+    "region": "unova",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 580,
+    "name": "Ducklett Default",
+    "region": "unova",
+    "types": [
+      "11",
+      "3"
+    ]
+  },
+  {
+    "id": 581,
+    "name": "Swanna Default",
+    "region": "unova",
+    "types": [
+      "11",
+      "3"
+    ]
+  },
+  {
+    "id": 582,
+    "name": "Vanillite Default",
+    "region": "unova",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 583,
+    "name": "Vanillish Default",
+    "region": "unova",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 584,
+    "name": "Vanilluxe Default",
+    "region": "unova",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 585,
+    "name": "Deerling Spring",
+    "region": "unova",
+    "types": [
+      "1",
+      "12"
+    ]
+  },
+  {
+    "id": 586,
+    "name": "Sawsbuck Spring",
+    "region": "unova",
+    "types": [
+      "1",
+      "12"
+    ]
+  },
+  {
+    "id": 587,
+    "name": "Emolga Default",
+    "region": "unova",
+    "types": [
+      "13",
+      "3"
+    ]
+  },
+  {
+    "id": 588,
+    "name": "Karrablast Default",
+    "region": "unova",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 589,
+    "name": "Escavalier Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "9"
+    ]
+  },
+  {
+    "id": 590,
+    "name": "Foongus Default",
+    "region": "unova",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 591,
+    "name": "Amoonguss Default",
+    "region": "unova",
+    "types": [
+      "12",
+      "4"
+    ]
+  },
+  {
+    "id": 592,
+    "name": "Frillish Male",
+    "region": "unova",
+    "types": [
+      "11",
+      "8"
+    ]
+  },
+  {
+    "id": 593,
+    "name": "Jellicent Male",
+    "region": "unova",
+    "types": [
+      "11",
+      "8"
+    ]
+  },
+  {
+    "id": 594,
+    "name": "Alomomola Default",
+    "region": "unova",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 595,
+    "name": "Joltik Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "13"
+    ]
+  },
+  {
+    "id": 596,
+    "name": "Galvantula Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "13"
+    ]
+  },
+  {
+    "id": 597,
+    "name": "Ferroseed Default",
+    "region": "unova",
+    "types": [
+      "12",
+      "9"
+    ]
+  },
+  {
+    "id": 598,
+    "name": "Ferrothorn Default",
+    "region": "unova",
+    "types": [
+      "12",
+      "9"
+    ]
+  },
+  {
+    "id": 599,
+    "name": "Klink Default",
+    "region": "unova",
+    "types": [
+      "9"
+    ]
+  },
+  {
+    "id": 600,
+    "name": "Klang Default",
+    "region": "unova",
+    "types": [
+      "9"
+    ]
+  },
+  {
+    "id": 601,
+    "name": "Klinklang Default",
+    "region": "unova",
+    "types": [
+      "9"
+    ]
+  },
+  {
+    "id": 602,
+    "name": "Tynamo Default",
+    "region": "unova",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 603,
+    "name": "Eelektrik Default",
+    "region": "unova",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 604,
+    "name": "Eelektross Default",
+    "region": "unova",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 605,
+    "name": "Elgyem Default",
+    "region": "unova",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 606,
+    "name": "Beheeyem Default",
+    "region": "unova",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 607,
+    "name": "Litwick Default",
+    "region": "unova",
+    "types": [
+      "8",
+      "10"
+    ]
+  },
+  {
+    "id": 608,
+    "name": "Lampent Default",
+    "region": "unova",
+    "types": [
+      "8",
+      "10"
+    ]
+  },
+  {
+    "id": 609,
+    "name": "Chandelure Default",
+    "region": "unova",
+    "types": [
+      "8",
+      "10"
+    ]
+  },
+  {
+    "id": 610,
+    "name": "Axew Default",
+    "region": "unova",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 611,
+    "name": "Fraxure Default",
+    "region": "unova",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 612,
+    "name": "Haxorus Default",
+    "region": "unova",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 613,
+    "name": "Cubchoo Default",
+    "region": "unova",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 614,
+    "name": "Beartic Default",
+    "region": "unova",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 615,
+    "name": "Cryogonal Default",
+    "region": "unova",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 616,
+    "name": "Shelmet Default",
+    "region": "unova",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 617,
+    "name": "Accelgor Default",
+    "region": "unova",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 618,
+    "name": "Stunfisk Default",
+    "region": "unova",
+    "types": [
+      "5",
+      "13"
+    ]
+  },
+  {
+    "id": 619,
+    "name": "Mienfoo Default",
+    "region": "unova",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 620,
+    "name": "Mienshao Default",
+    "region": "unova",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 621,
+    "name": "Druddigon Default",
+    "region": "unova",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 622,
+    "name": "Golett Default",
+    "region": "unova",
+    "types": [
+      "5",
+      "8"
+    ]
+  },
+  {
+    "id": 623,
+    "name": "Golurk Default",
+    "region": "unova",
+    "types": [
+      "5",
+      "8"
+    ]
+  },
+  {
+    "id": 624,
+    "name": "Pawniard Default",
+    "region": "unova",
+    "types": [
+      "17",
+      "9"
+    ]
+  },
+  {
+    "id": 625,
+    "name": "Bisharp Default",
+    "region": "unova",
+    "types": [
+      "17",
+      "9"
+    ]
+  },
+  {
+    "id": 626,
+    "name": "Bouffalant Default",
+    "region": "unova",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 627,
+    "name": "Rufflet Default",
+    "region": "unova",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 628,
+    "name": "Braviary Default",
+    "region": "unova",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 629,
+    "name": "Vullaby Default",
+    "region": "unova",
+    "types": [
+      "17",
+      "3"
+    ]
+  },
+  {
+    "id": 630,
+    "name": "Mandibuzz Default",
+    "region": "unova",
+    "types": [
+      "17",
+      "3"
+    ]
+  },
+  {
+    "id": 631,
+    "name": "Heatmor Default",
+    "region": "unova",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 632,
+    "name": "Durant Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "9"
+    ]
+  },
+  {
+    "id": 633,
+    "name": "Deino Default",
+    "region": "unova",
+    "types": [
+      "17",
+      "16"
+    ]
+  },
+  {
+    "id": 634,
+    "name": "Zweilous Default",
+    "region": "unova",
+    "types": [
+      "17",
+      "16"
+    ]
+  },
+  {
+    "id": 635,
+    "name": "Hydreigon Default",
+    "region": "unova",
+    "types": [
+      "17",
+      "16"
+    ]
+  },
+  {
+    "id": 636,
+    "name": "Larvesta Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "10"
+    ]
+  },
+  {
+    "id": 637,
+    "name": "Volcarona Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "10"
+    ]
+  },
+  {
+    "id": 638,
+    "name": "Cobalion Default",
+    "region": "unova",
+    "types": [
+      "9",
+      "2"
+    ]
+  },
+  {
+    "id": 639,
+    "name": "Terrakion Default",
+    "region": "unova",
+    "types": [
+      "6",
+      "2"
+    ]
+  },
+  {
+    "id": 640,
+    "name": "Virizion Default",
+    "region": "unova",
+    "types": [
+      "12",
+      "2"
+    ]
+  },
+  {
+    "id": 641,
+    "name": "Tornadus Incarnate",
+    "region": "unova",
+    "types": [
+      "3"
+    ]
+  },
+  {
+    "id": 642,
+    "name": "Thundurus Incarnate",
+    "region": "unova",
+    "types": [
+      "13",
+      "3"
+    ]
+  },
+  {
+    "id": 643,
+    "name": "Reshiram Default",
+    "region": "unova",
+    "types": [
+      "16",
+      "10"
+    ]
+  },
+  {
+    "id": 644,
+    "name": "Zekrom Default",
+    "region": "unova",
+    "types": [
+      "16",
+      "13"
+    ]
+  },
+  {
+    "id": 645,
+    "name": "Landorus Incarnate",
+    "region": "unova",
+    "types": [
+      "5",
+      "3"
+    ]
+  },
+  {
+    "id": 646,
+    "name": "Kyurem Default",
+    "region": "unova",
+    "types": [
+      "16",
+      "15"
+    ]
+  },
+  {
+    "id": 647,
+    "name": "Keldeo Ordinary",
+    "region": "unova",
+    "types": [
+      "11",
+      "2"
+    ]
+  },
+  {
+    "id": 648,
+    "name": "Meloetta Aria",
+    "region": "unova",
+    "types": [
+      "1",
+      "14"
+    ]
+  },
+  {
+    "id": 649,
+    "name": "Genesect Default",
+    "region": "unova",
+    "types": [
+      "7",
+      "9"
+    ]
+  },
+  {
+    "id": 650,
+    "name": "Chespin Default",
+    "region": "kalos",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 651,
+    "name": "Quilladin Default",
+    "region": "kalos",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 652,
+    "name": "Chesnaught Default",
+    "region": "kalos",
+    "types": [
+      "12",
+      "2"
+    ]
+  },
+  {
+    "id": 653,
+    "name": "Fennekin Default",
+    "region": "kalos",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 654,
+    "name": "Braixen Default",
+    "region": "kalos",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 655,
+    "name": "Delphox Default",
+    "region": "kalos",
+    "types": [
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": 656,
+    "name": "Froakie Default",
+    "region": "kalos",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 657,
+    "name": "Frogadier Default",
+    "region": "kalos",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 658,
+    "name": "Greninja Default",
+    "region": "kalos",
+    "types": [
+      "11",
+      "17"
+    ]
+  },
+  {
+    "id": 659,
+    "name": "Bunnelby Default",
+    "region": "kalos",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 660,
+    "name": "Diggersby Default",
+    "region": "kalos",
+    "types": [
+      "1",
+      "5"
+    ]
+  },
+  {
+    "id": 661,
+    "name": "Fletchling Default",
+    "region": "kalos",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 662,
+    "name": "Fletchinder Default",
+    "region": "kalos",
+    "types": [
+      "10",
+      "3"
+    ]
+  },
+  {
+    "id": 663,
+    "name": "Talonflame Default",
+    "region": "kalos",
+    "types": [
+      "10",
+      "3"
+    ]
+  },
+  {
+    "id": 664,
+    "name": "Scatterbug Default",
+    "region": "kalos",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 665,
+    "name": "Spewpa Default",
+    "region": "kalos",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 666,
+    "name": "Vivillon Meadow",
+    "region": "kalos",
+    "types": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 667,
+    "name": "Litleo Default",
+    "region": "kalos",
+    "types": [
+      "10",
+      "1"
+    ]
+  },
+  {
+    "id": 668,
+    "name": "Pyroar Male",
+    "region": "kalos",
+    "types": [
+      "10",
+      "1"
+    ]
+  },
+  {
+    "id": 669,
+    "name": "Flabebe Red",
+    "region": "kalos",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 670,
+    "name": "Floette Red",
+    "region": "kalos",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 671,
+    "name": "Florges Red",
+    "region": "kalos",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 672,
+    "name": "Skiddo Default",
+    "region": "kalos",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 673,
+    "name": "Gogoat Default",
+    "region": "kalos",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 674,
+    "name": "Pancham Default",
+    "region": "kalos",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 675,
+    "name": "Pangoro Default",
+    "region": "kalos",
+    "types": [
+      "2",
+      "17"
+    ]
+  },
+  {
+    "id": 676,
+    "name": "Furfrou Natural",
+    "region": "kalos",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 677,
+    "name": "Espurr Default",
+    "region": "kalos",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 678,
+    "name": "Meowstic Male",
+    "region": "kalos",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 679,
+    "name": "Honedge Default",
+    "region": "kalos",
+    "types": [
+      "9",
+      "8"
+    ]
+  },
+  {
+    "id": 680,
+    "name": "Doublade Default",
+    "region": "kalos",
+    "types": [
+      "9",
+      "8"
+    ]
+  },
+  {
+    "id": 681,
+    "name": "Aegislash Shield",
+    "region": "kalos",
+    "types": [
+      "9",
+      "8"
+    ]
+  },
+  {
+    "id": 682,
+    "name": "Spritzee Default",
+    "region": "kalos",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 683,
+    "name": "Aromatisse Default",
+    "region": "kalos",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 684,
+    "name": "Swirlix Default",
+    "region": "kalos",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 685,
+    "name": "Slurpuff Default",
+    "region": "kalos",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 686,
+    "name": "Inkay Default",
+    "region": "kalos",
+    "types": [
+      "17",
+      "14"
+    ]
+  },
+  {
+    "id": 687,
+    "name": "Malamar Default",
+    "region": "kalos",
+    "types": [
+      "17",
+      "14"
+    ]
+  },
+  {
+    "id": 688,
+    "name": "Binacle Default",
+    "region": "kalos",
+    "types": [
+      "6",
+      "11"
+    ]
+  },
+  {
+    "id": 689,
+    "name": "Barbaracle Default",
+    "region": "kalos",
+    "types": [
+      "6",
+      "11"
+    ]
+  },
+  {
+    "id": 690,
+    "name": "Skrelp Default",
+    "region": "kalos",
+    "types": [
+      "4",
+      "11"
+    ]
+  },
+  {
+    "id": 691,
+    "name": "Dragalge Default",
+    "region": "kalos",
+    "types": [
+      "4",
+      "16"
+    ]
+  },
+  {
+    "id": 692,
+    "name": "Clauncher Default",
+    "region": "kalos",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 693,
+    "name": "Clawitzer Default",
+    "region": "kalos",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 694,
+    "name": "Helioptile Default",
+    "region": "kalos",
+    "types": [
+      "13",
+      "1"
+    ]
+  },
+  {
+    "id": 695,
+    "name": "Heliolisk Default",
+    "region": "kalos",
+    "types": [
+      "13",
+      "1"
+    ]
+  },
+  {
+    "id": 696,
+    "name": "Tyrunt Default",
+    "region": "kalos",
+    "types": [
+      "6",
+      "16"
+    ]
+  },
+  {
+    "id": 697,
+    "name": "Tyrantrum Default",
+    "region": "kalos",
+    "types": [
+      "6",
+      "16"
+    ]
+  },
+  {
+    "id": 698,
+    "name": "Amaura Default",
+    "region": "kalos",
+    "types": [
+      "6",
+      "15"
+    ]
+  },
+  {
+    "id": 699,
+    "name": "Aurorus Default",
+    "region": "kalos",
+    "types": [
+      "6",
+      "15"
+    ]
+  },
+  {
+    "id": 700,
+    "name": "Sylveon Default",
+    "region": "kalos",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 701,
+    "name": "Hawlucha Default",
+    "region": "kalos",
+    "types": [
+      "2",
+      "3"
+    ]
+  },
+  {
+    "id": 702,
+    "name": "Dedenne Default",
+    "region": "kalos",
+    "types": [
+      "13",
+      "18"
+    ]
+  },
+  {
+    "id": 703,
+    "name": "Carbink Default",
+    "region": "kalos",
+    "types": [
+      "6",
+      "18"
+    ]
+  },
+  {
+    "id": 704,
+    "name": "Goomy Default",
+    "region": "kalos",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 705,
+    "name": "Sliggoo Default",
+    "region": "kalos",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 706,
+    "name": "Goodra Hisuian",
+    "region": "hisui",
+    "types": [
+      "9",
+      "16"
+    ]
+  },
+  {
+    "id": 707,
+    "name": "Klefki Default",
+    "region": "kalos",
+    "types": [
+      "9",
+      "18"
+    ]
+  },
+  {
+    "id": 708,
+    "name": "Phantump Default",
+    "region": "kalos",
+    "types": [
+      "8",
+      "12"
+    ]
+  },
+  {
+    "id": 709,
+    "name": "Trevenant Default",
+    "region": "kalos",
+    "types": [
+      "8",
+      "12"
+    ]
+  },
+  {
+    "id": 710,
+    "name": "Pumpkaboo Average",
+    "region": "kalos",
+    "types": [
+      "8",
+      "12"
+    ]
+  },
+  {
+    "id": 711,
+    "name": "Gourgeist Average",
+    "region": "kalos",
+    "types": [
+      "8",
+      "12"
+    ]
+  },
+  {
+    "id": 712,
+    "name": "Bergmite Default",
+    "region": "kalos",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 713,
+    "name": "Avalugg Default",
+    "region": "kalos",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 714,
+    "name": "Noibat Default",
+    "region": "kalos",
+    "types": [
+      "3",
+      "16"
+    ]
+  },
+  {
+    "id": 715,
+    "name": "Noivern Default",
+    "region": "kalos",
+    "types": [
+      "3",
+      "16"
+    ]
+  },
+  {
+    "id": 716,
+    "name": "Xerneas Neutral",
+    "region": "kalos",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 717,
+    "name": "Yveltal Default",
+    "region": "kalos",
+    "types": [
+      "17",
+      "3"
+    ]
+  },
+  {
+    "id": 718,
+    "name": "Zygarde 50p",
+    "region": "kalos",
+    "types": [
+      "16",
+      "5"
+    ]
+  },
+  {
+    "id": 719,
+    "name": "Diancie Default",
+    "region": "kalos",
+    "types": [
+      "6",
+      "18"
+    ]
+  },
+  {
+    "id": 720,
+    "name": "Hoopa Confined",
+    "region": "kalos",
+    "types": [
+      "14",
+      "8"
+    ]
+  },
+  {
+    "id": 721,
+    "name": "Volcanion Default",
+    "region": "kalos",
+    "types": [
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 722,
+    "name": "Rowlet Default",
+    "region": "alola",
+    "types": [
+      "12",
+      "3"
+    ]
+  },
+  {
+    "id": 723,
+    "name": "Dartrix Default",
+    "region": "alola",
+    "types": [
+      "12",
+      "3"
+    ]
+  },
+  {
+    "id": 724,
+    "name": "Decidueye Default",
+    "region": "alola",
+    "types": [
+      "12",
+      "8"
+    ]
+  },
+  {
+    "id": 725,
+    "name": "Litten Default",
+    "region": "alola",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 726,
+    "name": "Torracat Default",
+    "region": "alola",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 727,
+    "name": "Incineroar Default",
+    "region": "alola",
+    "types": [
+      "10",
+      "17"
+    ]
+  },
+  {
+    "id": 728,
+    "name": "Popplio Default",
+    "region": "alola",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 729,
+    "name": "Brionne Default",
+    "region": "alola",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 730,
+    "name": "Primarina Default",
+    "region": "alola",
+    "types": [
+      "11",
+      "18"
+    ]
+  },
+  {
+    "id": 731,
+    "name": "Pikipek Default",
+    "region": "alola",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 732,
+    "name": "Trumbeak Default",
+    "region": "alola",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 733,
+    "name": "Toucannon Default",
+    "region": "alola",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 734,
+    "name": "Yungoos Default",
+    "region": "alola",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 735,
+    "name": "Gumshoos Default",
+    "region": "alola",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 736,
+    "name": "Grubbin Default",
+    "region": "alola",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 737,
+    "name": "Charjabug Default",
+    "region": "alola",
+    "types": [
+      "7",
+      "13"
+    ]
+  },
+  {
+    "id": 738,
+    "name": "Vikavolt Default",
+    "region": "alola",
+    "types": [
+      "7",
+      "13"
+    ]
+  },
+  {
+    "id": 739,
+    "name": "Crabrawler Default",
+    "region": "alola",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 740,
+    "name": "Crabominable Default",
+    "region": "alola",
+    "types": [
+      "2",
+      "15"
+    ]
+  },
+  {
+    "id": 741,
+    "name": "Oricorio Baile",
+    "region": "alola",
+    "types": [
+      "10",
+      "3"
+    ]
+  },
+  {
+    "id": 742,
+    "name": "Cutiefly Default",
+    "region": "alola",
+    "types": [
+      "7",
+      "18"
+    ]
+  },
+  {
+    "id": 743,
+    "name": "Ribombee Default",
+    "region": "alola",
+    "types": [
+      "7",
+      "18"
+    ]
+  },
+  {
+    "id": 744,
+    "name": "Rockruff Default",
+    "region": "alola",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 745,
+    "name": "Lycanroc Midnight",
+    "region": "alola",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 746,
+    "name": "Wishiwashi Solo",
+    "region": "alola",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 747,
+    "name": "Mareanie Default",
+    "region": "alola",
+    "types": [
+      "4",
+      "11"
+    ]
+  },
+  {
+    "id": 748,
+    "name": "Toxapex Default",
+    "region": "alola",
+    "types": [
+      "4",
+      "11"
+    ]
+  },
+  {
+    "id": 749,
+    "name": "Mudbray Default",
+    "region": "alola",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 750,
+    "name": "Mudsdale Default",
+    "region": "alola",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 751,
+    "name": "Dewpider Default",
+    "region": "alola",
+    "types": [
+      "11",
+      "7"
+    ]
+  },
+  {
+    "id": 752,
+    "name": "Araquanid Default",
+    "region": "alola",
+    "types": [
+      "11",
+      "7"
+    ]
+  },
+  {
+    "id": 753,
+    "name": "Fomantis Default",
+    "region": "alola",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 754,
+    "name": "Lurantis Default",
+    "region": "alola",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 755,
+    "name": "Morelull Default",
+    "region": "alola",
+    "types": [
+      "12",
+      "18"
+    ]
+  },
+  {
+    "id": 756,
+    "name": "Shiinotic Default",
+    "region": "alola",
+    "types": [
+      "12",
+      "18"
+    ]
+  },
+  {
+    "id": 757,
+    "name": "Salandit Default",
+    "region": "alola",
+    "types": [
+      "4",
+      "10"
+    ]
+  },
+  {
+    "id": 758,
+    "name": "Salazzle Default",
+    "region": "alola",
+    "types": [
+      "4",
+      "10"
+    ]
+  },
+  {
+    "id": 759,
+    "name": "Stufful Default",
+    "region": "alola",
+    "types": [
+      "1",
+      "2"
+    ]
+  },
+  {
+    "id": 760,
+    "name": "Bewear Default",
+    "region": "alola",
+    "types": [
+      "1",
+      "2"
+    ]
+  },
+  {
+    "id": 761,
+    "name": "Bounsweet Default",
+    "region": "alola",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 762,
+    "name": "Steenee Default",
+    "region": "alola",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 763,
+    "name": "Tsareena Default",
+    "region": "alola",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 764,
+    "name": "Comfey Default",
+    "region": "alola",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 765,
+    "name": "Oranguru Default",
+    "region": "alola",
+    "types": [
+      "1",
+      "14"
+    ]
+  },
+  {
+    "id": 766,
+    "name": "Passimian Default",
+    "region": "alola",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 767,
+    "name": "Wimpod Default",
+    "region": "alola",
+    "types": [
+      "7",
+      "11"
+    ]
+  },
+  {
+    "id": 768,
+    "name": "Golisopod Default",
+    "region": "alola",
+    "types": [
+      "7",
+      "11"
+    ]
+  },
+  {
+    "id": 769,
+    "name": "Sandygast Default",
+    "region": "alola",
+    "types": [
+      "8",
+      "5"
+    ]
+  },
+  {
+    "id": 770,
+    "name": "Palossand Default",
+    "region": "alola",
+    "types": [
+      "8",
+      "5"
+    ]
+  },
+  {
+    "id": 771,
+    "name": "Pyukumuku Default",
+    "region": "alola",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 772,
+    "name": "Type Null Default",
+    "region": "alola",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 773,
+    "name": "Silvally Default",
+    "region": "alola",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 774,
+    "name": "Minior Red Meteor",
+    "region": "alola",
+    "types": [
+      "6",
+      "3"
+    ]
+  },
+  {
+    "id": 775,
+    "name": "Komala Default",
+    "region": "alola",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 776,
+    "name": "Turtonator Default",
+    "region": "alola",
+    "types": [
+      "10",
+      "16"
+    ]
+  },
+  {
+    "id": 777,
+    "name": "Togedemaru Default",
+    "region": "alola",
+    "types": [
+      "13",
+      "9"
+    ]
+  },
+  {
+    "id": 778,
+    "name": "Mimikyu Disguised",
+    "region": "alola",
+    "types": [
+      "8",
+      "18"
+    ]
+  },
+  {
+    "id": 779,
+    "name": "Bruxish Default",
+    "region": "alola",
+    "types": [
+      "11",
+      "14"
+    ]
+  },
+  {
+    "id": 780,
+    "name": "Drampa Default",
+    "region": "alola",
+    "types": [
+      "1",
+      "16"
+    ]
+  },
+  {
+    "id": 781,
+    "name": "Dhelmise Default",
+    "region": "alola",
+    "types": [
+      "8",
+      "12"
+    ]
+  },
+  {
+    "id": 782,
+    "name": "Jangmo O Default",
+    "region": "alola",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 783,
+    "name": "Hakamo O Default",
+    "region": "alola",
+    "types": [
+      "16",
+      "2"
+    ]
+  },
+  {
+    "id": 784,
+    "name": "Kommo O Default",
+    "region": "alola",
+    "types": [
+      "16",
+      "2"
+    ]
+  },
+  {
+    "id": 785,
+    "name": "Tapu Koko Default",
+    "region": "alola",
+    "types": [
+      "13",
+      "18"
+    ]
+  },
+  {
+    "id": 786,
+    "name": "Tapu Lele Default",
+    "region": "alola",
+    "types": [
+      "14",
+      "18"
+    ]
+  },
+  {
+    "id": 787,
+    "name": "Tapu Bulu Default",
+    "region": "alola",
+    "types": [
+      "12",
+      "18"
+    ]
+  },
+  {
+    "id": 788,
+    "name": "Tapu Fini Default",
+    "region": "alola",
+    "types": [
+      "11",
+      "18"
+    ]
+  },
+  {
+    "id": 789,
+    "name": "Cosmog Default",
+    "region": "alola",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 790,
+    "name": "Cosmoem Default",
+    "region": "alola",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 791,
+    "name": "Solgaleo Default",
+    "region": "alola",
+    "types": [
+      "14",
+      "9"
+    ]
+  },
+  {
+    "id": 792,
+    "name": "Lunala Default",
+    "region": "alola",
+    "types": [
+      "14",
+      "8"
+    ]
+  },
+  {
+    "id": 793,
+    "name": "Nihilego Default",
+    "region": "alola",
+    "types": [
+      "6",
+      "4"
+    ]
+  },
+  {
+    "id": 794,
+    "name": "Buzzwole Default",
+    "region": "alola",
+    "types": [
+      "7",
+      "2"
+    ]
+  },
+  {
+    "id": 795,
+    "name": "Pheromosa Default",
+    "region": "alola",
+    "types": [
+      "7",
+      "2"
+    ]
+  },
+  {
+    "id": 796,
+    "name": "Xurkitree Default",
+    "region": "alola",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 797,
+    "name": "Celesteela Default",
+    "region": "alola",
+    "types": [
+      "9",
+      "3"
+    ]
+  },
+  {
+    "id": 798,
+    "name": "Kartana Default",
+    "region": "alola",
+    "types": [
+      "12",
+      "9"
+    ]
+  },
+  {
+    "id": 799,
+    "name": "Guzzlord Default",
+    "region": "alola",
+    "types": [
+      "17",
+      "16"
+    ]
+  },
+  {
+    "id": 800,
+    "name": "Necrozma Default",
+    "region": "alola",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 801,
+    "name": "Magearna Default",
+    "region": "alola",
+    "types": [
+      "9",
+      "18"
+    ]
+  },
+  {
+    "id": 802,
+    "name": "Marshadow Default",
+    "region": "alola",
+    "types": [
+      "2",
+      "8"
+    ]
+  },
+  {
+    "id": 803,
+    "name": "Poipole Default",
+    "region": "alola",
+    "types": [
+      "4"
+    ]
+  },
+  {
+    "id": 804,
+    "name": "Naganadel Default",
+    "region": "alola",
+    "types": [
+      "4",
+      "16"
+    ]
+  },
+  {
+    "id": 805,
+    "name": "Stakataka Default",
+    "region": "alola",
+    "types": [
+      "6",
+      "9"
+    ]
+  },
+  {
+    "id": 806,
+    "name": "Blacephalon Default",
+    "region": "alola",
+    "types": [
+      "10",
+      "8"
+    ]
+  },
+  {
+    "id": 807,
+    "name": "Zeraora Default",
+    "region": "alola",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 808,
+    "name": "Meltan Default",
+    "region": "alola",
+    "types": [
+      "9"
+    ]
+  },
+  {
+    "id": 809,
+    "name": "Melmetal Default",
+    "region": "alola",
+    "types": [
+      "9"
+    ]
+  },
+  {
+    "id": 810,
+    "name": "Grookey Default",
+    "region": "galar",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 811,
+    "name": "Thwackey Default",
+    "region": "galar",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 812,
+    "name": "Rillaboom Default",
+    "region": "galar",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 813,
+    "name": "Scorbunny Default",
+    "region": "galar",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 814,
+    "name": "Raboot Default",
+    "region": "galar",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 815,
+    "name": "Cinderace Default",
+    "region": "galar",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 816,
+    "name": "Sobble Default",
+    "region": "galar",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 817,
+    "name": "Drizzile Default",
+    "region": "galar",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 818,
+    "name": "Inteleon Default",
+    "region": "galar",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 819,
+    "name": "Skwovet Default",
+    "region": "galar",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 820,
+    "name": "Greedent Default",
+    "region": "galar",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 821,
+    "name": "Rookidee Default",
+    "region": "galar",
+    "types": [
+      "3"
+    ]
+  },
+  {
+    "id": 822,
+    "name": "Corvisquire Default",
+    "region": "galar",
+    "types": [
+      "3"
+    ]
+  },
+  {
+    "id": 823,
+    "name": "Corviknight Default",
+    "region": "galar",
+    "types": [
+      "3",
+      "9"
+    ]
+  },
+  {
+    "id": 824,
+    "name": "Blipbug Default",
+    "region": "galar",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 825,
+    "name": "Dottler Default",
+    "region": "galar",
+    "types": [
+      "7",
+      "14"
+    ]
+  },
+  {
+    "id": 826,
+    "name": "Orbeetle Default",
+    "region": "galar",
+    "types": [
+      "7",
+      "14"
+    ]
+  },
+  {
+    "id": 827,
+    "name": "Nickit Default",
+    "region": "galar",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 828,
+    "name": "Thievul Default",
+    "region": "galar",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 829,
+    "name": "Gossifleur Default",
+    "region": "galar",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 830,
+    "name": "Eldegoss Default",
+    "region": "galar",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 831,
+    "name": "Wooloo Default",
+    "region": "galar",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 832,
+    "name": "Dubwool Default",
+    "region": "galar",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 833,
+    "name": "Chewtle Default",
+    "region": "galar",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 834,
+    "name": "Drednaw Default",
+    "region": "galar",
+    "types": [
+      "11",
+      "6"
+    ]
+  },
+  {
+    "id": 835,
+    "name": "Yamper Default",
+    "region": "galar",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 836,
+    "name": "Boltund Default",
+    "region": "galar",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 837,
+    "name": "Rolycoly Default",
+    "region": "galar",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 838,
+    "name": "Carkol Default",
+    "region": "galar",
+    "types": [
+      "6",
+      "10"
+    ]
+  },
+  {
+    "id": 839,
+    "name": "Coalossal Default",
+    "region": "galar",
+    "types": [
+      "6",
+      "10"
+    ]
+  },
+  {
+    "id": 840,
+    "name": "Applin Default",
+    "region": "galar",
+    "types": [
+      "12",
+      "16"
+    ]
+  },
+  {
+    "id": 841,
+    "name": "Flapple Default",
+    "region": "galar",
+    "types": [
+      "12",
+      "16"
+    ]
+  },
+  {
+    "id": 842,
+    "name": "Appletun Default",
+    "region": "galar",
+    "types": [
+      "12",
+      "16"
+    ]
+  },
+  {
+    "id": 843,
+    "name": "Silicobra Default",
+    "region": "galar",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 844,
+    "name": "Sandaconda Default",
+    "region": "galar",
+    "types": [
+      "5"
+    ]
+  },
+  {
+    "id": 845,
+    "name": "Cramorant Default",
+    "region": "galar",
+    "types": [
+      "3",
+      "11"
+    ]
+  },
+  {
+    "id": 846,
+    "name": "Arrokuda Default",
+    "region": "galar",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 847,
+    "name": "Barraskewda Default",
+    "region": "galar",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 848,
+    "name": "Toxel Default",
+    "region": "galar",
+    "types": [
+      "13",
+      "4"
+    ]
+  },
+  {
+    "id": 849,
+    "name": "Toxtricity Amped",
+    "region": "galar",
+    "types": [
+      "13",
+      "4"
+    ]
+  },
+  {
+    "id": 850,
+    "name": "Sizzlipede Default",
+    "region": "galar",
+    "types": [
+      "10",
+      "7"
+    ]
+  },
+  {
+    "id": 851,
+    "name": "Centiskorch Default",
+    "region": "galar",
+    "types": [
+      "10",
+      "7"
+    ]
+  },
+  {
+    "id": 852,
+    "name": "Clobbopus Default",
+    "region": "galar",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 853,
+    "name": "Grapploct Default",
+    "region": "galar",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 854,
+    "name": "Sinistea Antique",
+    "region": "galar",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 855,
+    "name": "Polteageist Antique",
+    "region": "galar",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 856,
+    "name": "Hatenna Default",
+    "region": "galar",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 857,
+    "name": "Hattrem Default",
+    "region": "galar",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 858,
+    "name": "Hatterene Default",
+    "region": "galar",
+    "types": [
+      "14",
+      "18"
+    ]
+  },
+  {
+    "id": 859,
+    "name": "Impidimp Default",
+    "region": "galar",
+    "types": [
+      "17",
+      "18"
+    ]
+  },
+  {
+    "id": 860,
+    "name": "Morgrem Default",
+    "region": "galar",
+    "types": [
+      "17",
+      "18"
+    ]
+  },
+  {
+    "id": 861,
+    "name": "Grimmsnarl Default",
+    "region": "galar",
+    "types": [
+      "17",
+      "18"
+    ]
+  },
+  {
+    "id": 862,
+    "name": "Obstagoon Default",
+    "region": "galar",
+    "types": [
+      "17",
+      "1"
+    ]
+  },
+  {
+    "id": 863,
+    "name": "Perrserker Default",
+    "region": "galar",
+    "types": [
+      "9"
+    ]
+  },
+  {
+    "id": 864,
+    "name": "Cursola Default",
+    "region": "galar",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 865,
+    "name": "Sirfetchd Default",
+    "region": "galar",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 866,
+    "name": "Mr Rime Default",
+    "region": "galar",
+    "types": [
+      "15",
+      "14"
+    ]
+  },
+  {
+    "id": 867,
+    "name": "Runerigus Default",
+    "region": "galar",
+    "types": [
+      "5",
+      "8"
+    ]
+  },
+  {
+    "id": 868,
+    "name": "Milcery Default",
+    "region": "galar",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 869,
+    "name": "Alcremie Default",
+    "region": "galar",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 870,
+    "name": "Falinks Default",
+    "region": "galar",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 871,
+    "name": "Pincurchin Default",
+    "region": "galar",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 872,
+    "name": "Snom Default",
+    "region": "galar",
+    "types": [
+      "15",
+      "7"
+    ]
+  },
+  {
+    "id": 873,
+    "name": "Frosmoth Default",
+    "region": "galar",
+    "types": [
+      "15",
+      "7"
+    ]
+  },
+  {
+    "id": 874,
+    "name": "Stonjourner Default",
+    "region": "galar",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 875,
+    "name": "Eiscue Ice Face",
+    "region": "galar",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 876,
+    "name": "Indeedee Male",
+    "region": "galar",
+    "types": [
+      "14",
+      "1"
+    ]
+  },
+  {
+    "id": 877,
+    "name": "Morpeko Full Belly",
+    "region": "galar",
+    "types": [
+      "13",
+      "17"
+    ]
+  },
+  {
+    "id": 878,
+    "name": "Cufant Default",
+    "region": "galar",
+    "types": [
+      "9"
+    ]
+  },
+  {
+    "id": 879,
+    "name": "Copperajah Default",
+    "region": "galar",
+    "types": [
+      "9"
+    ]
+  },
+  {
+    "id": 880,
+    "name": "Dracozolt Default",
+    "region": "galar",
+    "types": [
+      "13",
+      "16"
+    ]
+  },
+  {
+    "id": 881,
+    "name": "Arctozolt Default",
+    "region": "galar",
+    "types": [
+      "13",
+      "15"
+    ]
+  },
+  {
+    "id": 882,
+    "name": "Dracovish Default",
+    "region": "galar",
+    "types": [
+      "11",
+      "16"
+    ]
+  },
+  {
+    "id": 883,
+    "name": "Arctovish Default",
+    "region": "galar",
+    "types": [
+      "11",
+      "15"
+    ]
+  },
+  {
+    "id": 884,
+    "name": "Duraludon Default",
+    "region": "galar",
+    "types": [
+      "9",
+      "16"
+    ]
+  },
+  {
+    "id": 885,
+    "name": "Dreepy Default",
+    "region": "galar",
+    "types": [
+      "16",
+      "8"
+    ]
+  },
+  {
+    "id": 886,
+    "name": "Drakloak Default",
+    "region": "galar",
+    "types": [
+      "16",
+      "8"
+    ]
+  },
+  {
+    "id": 887,
+    "name": "Dragapult Default",
+    "region": "galar",
+    "types": [
+      "16",
+      "8"
+    ]
+  },
+  {
+    "id": 888,
+    "name": "Zacian Hero",
+    "region": "galar",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 889,
+    "name": "Zamazenta Hero",
+    "region": "galar",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 890,
+    "name": "Eternatus Default",
+    "region": "galar",
+    "types": [
+      "4",
+      "16"
+    ]
+  },
+  {
+    "id": 891,
+    "name": "Kubfu Default",
+    "region": "galar",
+    "types": [
+      "2"
+    ]
+  },
+  {
+    "id": 892,
+    "name": "Urshifu Single Strike",
+    "region": "galar",
+    "types": [
+      "2",
+      "17"
+    ]
+  },
+  {
+    "id": 893,
+    "name": "Zarude Default",
+    "region": "galar",
+    "types": [
+      "17",
+      "12"
+    ]
+  },
+  {
+    "id": 894,
+    "name": "Regieleki Default",
+    "region": "galar",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 895,
+    "name": "Regidrago Default",
+    "region": "galar",
+    "types": [
+      "16"
+    ]
+  },
+  {
+    "id": 896,
+    "name": "Glastrier Default",
+    "region": "galar",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 897,
+    "name": "Spectrier Default",
+    "region": "galar",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 898,
+    "name": "Calyrex Default",
+    "region": "galar",
+    "types": [
+      "14",
+      "12"
+    ]
+  },
+  {
+    "id": 899,
+    "name": "Wyrdeer Default",
+    "region": "hisui",
+    "types": [
+      "1",
+      "14"
+    ]
+  },
+  {
+    "id": 900,
+    "name": "Kleavor Default",
+    "region": "hisui",
+    "types": [
+      "7",
+      "6"
+    ]
+  },
+  {
+    "id": 901,
+    "name": "Ursaluna Default",
+    "region": "hisui",
+    "types": [
+      "5",
+      "1"
+    ]
+  },
+  {
+    "id": 902,
+    "name": "Basculegion Male",
+    "region": "hisui",
+    "types": [
+      "11",
+      "8"
+    ]
+  },
+  {
+    "id": 903,
+    "name": "Sneasler Default",
+    "region": "hisui",
+    "types": [
+      "2",
+      "4"
+    ]
+  },
+  {
+    "id": 904,
+    "name": "Overqwil Default",
+    "region": "hisui",
+    "types": [
+      "17",
+      "4"
+    ]
+  },
+  {
+    "id": 905,
+    "name": "Enamorus Incarnate",
+    "region": "hisui",
+    "types": [
+      "18",
+      "3"
+    ]
+  },
+  {
+    "id": 906,
+    "name": "Sprigatito Default",
+    "region": "paldea",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 907,
+    "name": "Floragato Default",
+    "region": "paldea",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 908,
+    "name": "Meowscarada Default",
+    "region": "paldea",
+    "types": [
+      "12",
+      "17"
+    ]
+  },
+  {
+    "id": 909,
+    "name": "Fuecoco Default",
+    "region": "paldea",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 910,
+    "name": "Crocalor Default",
+    "region": "paldea",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 911,
+    "name": "Skeledirge Default",
+    "region": "paldea",
+    "types": [
+      "10",
+      "8"
+    ]
+  },
+  {
+    "id": 912,
+    "name": "Quaxly Default",
+    "region": "paldea",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 913,
+    "name": "Quaxwell Default",
+    "region": "paldea",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 914,
+    "name": "Quaquaval Default",
+    "region": "paldea",
+    "types": [
+      "11",
+      "2"
+    ]
+  },
+  {
+    "id": 915,
+    "name": "Lechonk Default",
+    "region": "paldea",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 916,
+    "name": "Oinkologne Male",
+    "region": "paldea",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 917,
+    "name": "Tarountula Default",
+    "region": "paldea",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 918,
+    "name": "Spidops Default",
+    "region": "paldea",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 919,
+    "name": "Nymble Default",
+    "region": "paldea",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 920,
+    "name": "Lokix Default",
+    "region": "paldea",
+    "types": [
+      "7",
+      "17"
+    ]
+  },
+  {
+    "id": 921,
+    "name": "Pawmi Default",
+    "region": "paldea",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 922,
+    "name": "Pawmo Default",
+    "region": "paldea",
+    "types": [
+      "13",
+      "2"
+    ]
+  },
+  {
+    "id": 923,
+    "name": "Pawmot Default",
+    "region": "paldea",
+    "types": [
+      "13",
+      "2"
+    ]
+  },
+  {
+    "id": 924,
+    "name": "Tandemaus Default",
+    "region": "paldea",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 925,
+    "name": "Maushold Family Of Three",
+    "region": "paldea",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 926,
+    "name": "Fidough Default",
+    "region": "paldea",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 927,
+    "name": "Dachsbun Default",
+    "region": "paldea",
+    "types": [
+      "18"
+    ]
+  },
+  {
+    "id": 928,
+    "name": "Smoliv Default",
+    "region": "paldea",
+    "types": [
+      "12",
+      "1"
+    ]
+  },
+  {
+    "id": 929,
+    "name": "Dolliv Default",
+    "region": "paldea",
+    "types": [
+      "12",
+      "1"
+    ]
+  },
+  {
+    "id": 930,
+    "name": "Arboliva Default",
+    "region": "paldea",
+    "types": [
+      "12",
+      "1"
+    ]
+  },
+  {
+    "id": 931,
+    "name": "Squawkabilly Green",
+    "region": "paldea",
+    "types": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 932,
+    "name": "Nacli Default",
+    "region": "paldea",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 933,
+    "name": "Naclstack Default",
+    "region": "paldea",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 934,
+    "name": "Garganacl Default",
+    "region": "paldea",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 935,
+    "name": "Charcadet Default",
+    "region": "paldea",
+    "types": [
+      "10"
+    ]
+  },
+  {
+    "id": 936,
+    "name": "Armarouge Default",
+    "region": "paldea",
+    "types": [
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": 937,
+    "name": "Ceruledge Default",
+    "region": "paldea",
+    "types": [
+      "10",
+      "8"
+    ]
+  },
+  {
+    "id": 938,
+    "name": "Tadbulb Default",
+    "region": "paldea",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 939,
+    "name": "Bellibolt Default",
+    "region": "paldea",
+    "types": [
+      "13"
+    ]
+  },
+  {
+    "id": 940,
+    "name": "Wattrel Default",
+    "region": "paldea",
+    "types": [
+      "13",
+      "3"
+    ]
+  },
+  {
+    "id": 941,
+    "name": "Kilowattrel Default",
+    "region": "paldea",
+    "types": [
+      "13",
+      "3"
+    ]
+  },
+  {
+    "id": 942,
+    "name": "Maschiff Default",
+    "region": "paldea",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 943,
+    "name": "Mabosstiff Default",
+    "region": "paldea",
+    "types": [
+      "17"
+    ]
+  },
+  {
+    "id": 944,
+    "name": "Shroodle Default",
+    "region": "paldea",
+    "types": [
+      "4",
+      "1"
+    ]
+  },
+  {
+    "id": 945,
+    "name": "Grafaiai Default",
+    "region": "paldea",
+    "types": [
+      "4",
+      "1"
+    ]
+  },
+  {
+    "id": 946,
+    "name": "Bramblin Default",
+    "region": "paldea",
+    "types": [
+      "12",
+      "8"
+    ]
+  },
+  {
+    "id": 947,
+    "name": "Brambleghast Default",
+    "region": "paldea",
+    "types": [
+      "12",
+      "8"
+    ]
+  },
+  {
+    "id": 948,
+    "name": "Toedscool Default",
+    "region": "paldea",
+    "types": [
+      "5",
+      "12"
+    ]
+  },
+  {
+    "id": 949,
+    "name": "Toedscruel Default",
+    "region": "paldea",
+    "types": [
+      "5",
+      "12"
+    ]
+  },
+  {
+    "id": 950,
+    "name": "Klawf Default",
+    "region": "paldea",
+    "types": [
+      "6"
+    ]
+  },
+  {
+    "id": 951,
+    "name": "Capsakid Default",
+    "region": "paldea",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 952,
+    "name": "Scovillain Default",
+    "region": "paldea",
+    "types": [
+      "12",
+      "10"
+    ]
+  },
+  {
+    "id": 953,
+    "name": "Rellor Default",
+    "region": "paldea",
+    "types": [
+      "7"
+    ]
+  },
+  {
+    "id": 954,
+    "name": "Rabsca Default",
+    "region": "paldea",
+    "types": [
+      "7",
+      "14"
+    ]
+  },
+  {
+    "id": 955,
+    "name": "Flittle Default",
+    "region": "paldea",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 956,
+    "name": "Espathra Default",
+    "region": "paldea",
+    "types": [
+      "14"
+    ]
+  },
+  {
+    "id": 957,
+    "name": "Tinkatink Default",
+    "region": "paldea",
+    "types": [
+      "18",
+      "9"
+    ]
+  },
+  {
+    "id": 958,
+    "name": "Tinkatuff Default",
+    "region": "paldea",
+    "types": [
+      "18",
+      "9"
+    ]
+  },
+  {
+    "id": 959,
+    "name": "Tinkaton Default",
+    "region": "paldea",
+    "types": [
+      "18",
+      "9"
+    ]
+  },
+  {
+    "id": 960,
+    "name": "Wiglett Default",
+    "region": "paldea",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 961,
+    "name": "Wugtrio Default",
+    "region": "paldea",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 962,
+    "name": "Bombirdier Default",
+    "region": "paldea",
+    "types": [
+      "3",
+      "17"
+    ]
+  },
+  {
+    "id": 963,
+    "name": "Finizen Default",
+    "region": "paldea",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 964,
+    "name": "Palafin Zero",
+    "region": "paldea",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 965,
+    "name": "Varoom Default",
+    "region": "paldea",
+    "types": [
+      "9",
+      "4"
+    ]
+  },
+  {
+    "id": 966,
+    "name": "Revavroom Default",
+    "region": "paldea",
+    "types": [
+      "9",
+      "4"
+    ]
+  },
+  {
+    "id": 967,
+    "name": "Cyclizar Default",
+    "region": "paldea",
+    "types": [
+      "16",
+      "1"
+    ]
+  },
+  {
+    "id": 968,
+    "name": "Orthworm Default",
+    "region": "paldea",
+    "types": [
+      "9"
+    ]
+  },
+  {
+    "id": 969,
+    "name": "Glimmet Default",
+    "region": "paldea",
+    "types": [
+      "6",
+      "4"
+    ]
+  },
+  {
+    "id": 970,
+    "name": "Glimmora Default",
+    "region": "paldea",
+    "types": [
+      "6",
+      "4"
+    ]
+  },
+  {
+    "id": 971,
+    "name": "Greavard Default",
+    "region": "paldea",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 972,
+    "name": "Houndstone Default",
+    "region": "paldea",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 973,
+    "name": "Flamigo Default",
+    "region": "paldea",
+    "types": [
+      "3",
+      "2"
+    ]
+  },
+  {
+    "id": 974,
+    "name": "Cetoddle Default",
+    "region": "paldea",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 975,
+    "name": "Cetitan Default",
+    "region": "paldea",
+    "types": [
+      "15"
+    ]
+  },
+  {
+    "id": 976,
+    "name": "Veluza Default",
+    "region": "paldea",
+    "types": [
+      "11",
+      "14"
+    ]
+  },
+  {
+    "id": 977,
+    "name": "Dondozo Default",
+    "region": "paldea",
+    "types": [
+      "11"
+    ]
+  },
+  {
+    "id": 978,
+    "name": "Tatsugiri Curly",
+    "region": "paldea",
+    "types": [
+      "16",
+      "11"
+    ]
+  },
+  {
+    "id": 979,
+    "name": "Annihilape Default",
+    "region": "paldea",
+    "types": [
+      "2",
+      "8"
+    ]
+  },
+  {
+    "id": 980,
+    "name": "Clodsire Default",
+    "region": "paldea",
+    "types": [
+      "4",
+      "5"
+    ]
+  },
+  {
+    "id": 981,
+    "name": "Farigiraf Default",
+    "region": "paldea",
+    "types": [
+      "1",
+      "14"
+    ]
+  },
+  {
+    "id": 982,
+    "name": "Dudunsparce Two",
+    "region": "paldea",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 983,
+    "name": "Kingambit Default",
+    "region": "paldea",
+    "types": [
+      "17",
+      "9"
+    ]
+  },
+  {
+    "id": 984,
+    "name": "Great Tusk Default",
+    "region": "paldea",
+    "types": [
+      "5",
+      "2"
+    ]
+  },
+  {
+    "id": 985,
+    "name": "Scream Tail Default",
+    "region": "paldea",
+    "types": [
+      "18",
+      "14"
+    ]
+  },
+  {
+    "id": 986,
+    "name": "Brute Bonnet Default",
+    "region": "paldea",
+    "types": [
+      "12",
+      "17"
+    ]
+  },
+  {
+    "id": 987,
+    "name": "Flutter Mane Default",
+    "region": "paldea",
+    "types": [
+      "8",
+      "18"
+    ]
+  },
+  {
+    "id": 988,
+    "name": "Slither Wing Default",
+    "region": "paldea",
+    "types": [
+      "7",
+      "2"
+    ]
+  },
+  {
+    "id": 989,
+    "name": "Sandy Shocks Default",
+    "region": "paldea",
+    "types": [
+      "13",
+      "5"
+    ]
+  },
+  {
+    "id": 990,
+    "name": "Iron Treads Default",
+    "region": "paldea",
+    "types": [
+      "5",
+      "9"
+    ]
+  },
+  {
+    "id": 991,
+    "name": "Iron Bundle Default",
+    "region": "paldea",
+    "types": [
+      "15",
+      "11"
+    ]
+  },
+  {
+    "id": 992,
+    "name": "Iron Hands Default",
+    "region": "paldea",
+    "types": [
+      "2",
+      "13"
+    ]
+  },
+  {
+    "id": 993,
+    "name": "Iron Jugulis Default",
+    "region": "paldea",
+    "types": [
+      "17",
+      "3"
+    ]
+  },
+  {
+    "id": 994,
+    "name": "Iron Moth Default",
+    "region": "paldea",
+    "types": [
+      "10",
+      "4"
+    ]
+  },
+  {
+    "id": 995,
+    "name": "Iron Thorns Default",
+    "region": "paldea",
+    "types": [
+      "6",
+      "13"
+    ]
+  },
+  {
+    "id": 996,
+    "name": "Frigibax Default",
+    "region": "paldea",
+    "types": [
+      "16",
+      "15"
+    ]
+  },
+  {
+    "id": 997,
+    "name": "Arctibax Default",
+    "region": "paldea",
+    "types": [
+      "16",
+      "15"
+    ]
+  },
+  {
+    "id": 998,
+    "name": "Baxcalibur Default",
+    "region": "paldea",
+    "types": [
+      "16",
+      "15"
+    ]
+  },
+  {
+    "id": 999,
+    "name": "Gimmighoul Chest",
+    "region": "paldea",
+    "types": [
+      "8"
+    ]
+  },
+  {
+    "id": 1000,
+    "name": "Gholdengo Default",
+    "region": "paldea",
+    "types": [
+      "9",
+      "8"
+    ]
+  },
+  {
+    "id": 1001,
+    "name": "Wo Chien Default",
+    "region": "paldea",
+    "types": [
+      "17",
+      "12"
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "Chien Pao Default",
+    "region": "paldea",
+    "types": [
+      "17",
+      "15"
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "Ting Lu Default",
+    "region": "paldea",
+    "types": [
+      "17",
+      "5"
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "Chi Yu Default",
+    "region": "paldea",
+    "types": [
+      "17",
+      "10"
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "Roaring Moon Default",
+    "region": "paldea",
+    "types": [
+      "16",
+      "17"
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "Iron Valiant Default",
+    "region": "paldea",
+    "types": [
+      "18",
+      "2"
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "Koraidon Apex",
+    "region": "paldea",
+    "types": [
+      "2",
+      "16"
+    ]
+  },
+  {
+    "id": 1008,
+    "name": "Miraidon Ultimate",
+    "region": "paldea",
+    "types": [
+      "13",
+      "16"
+    ]
+  },
+  {
+    "id": 1009,
+    "name": "Walking Wake Default",
+    "region": "paldea",
+    "types": [
+      "11",
+      "16"
+    ]
+  },
+  {
+    "id": 1010,
+    "name": "Iron Leaves Default",
+    "region": "paldea",
+    "types": [
+      "12",
+      "14"
+    ]
+  },
+  {
+    "id": 1011,
+    "name": "Dipplin Default",
+    "region": "paldea",
+    "types": [
+      "12",
+      "16"
+    ]
+  },
+  {
+    "id": 1012,
+    "name": "Poltchageist Artisan",
+    "region": "paldea",
+    "types": [
+      "12",
+      "8"
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "Sinistcha Masterpiece",
+    "region": "paldea",
+    "types": [
+      "12",
+      "8"
+    ]
+  },
+  {
+    "id": 1014,
+    "name": "Okidogi Default",
+    "region": "paldea",
+    "types": [
+      "4",
+      "2"
+    ]
+  },
+  {
+    "id": 1015,
+    "name": "Munkidori Default",
+    "region": "paldea",
+    "types": [
+      "4",
+      "14"
+    ]
+  },
+  {
+    "id": 1016,
+    "name": "Fezandipiti Default",
+    "region": "paldea",
+    "types": [
+      "4",
+      "18"
+    ]
+  },
+  {
+    "id": 1017,
+    "name": "Ogerpon Teal Mask",
+    "region": "paldea",
+    "types": [
+      "12"
+    ]
+  },
+  {
+    "id": 1018,
+    "name": "Archaludon Default",
+    "region": "paldea",
+    "types": [
+      "9",
+      "16"
+    ]
+  },
+  {
+    "id": 1019,
+    "name": "Hydrapple Default",
+    "region": "paldea",
+    "types": [
+      "12",
+      "16"
+    ]
+  },
+  {
+    "id": 1020,
+    "name": "Gouging Fire Default",
+    "region": "paldea",
+    "types": [
+      "10",
+      "16"
+    ]
+  },
+  {
+    "id": 1021,
+    "name": "Raging Bolt Default",
+    "region": "paldea",
+    "types": [
+      "13",
+      "16"
+    ]
+  },
+  {
+    "id": 1022,
+    "name": "Iron Boulder Default",
+    "region": "paldea",
+    "types": [
+      "6",
+      "14"
+    ]
+  },
+  {
+    "id": 1023,
+    "name": "Iron Crown Default",
+    "region": "paldea",
+    "types": [
+      "9",
+      "14"
+    ]
+  },
+  {
+    "id": 1024,
+    "name": "Terapagos Default",
+    "region": "paldea",
+    "types": [
+      "1"
+    ]
+  },
+  {
+    "id": 1025,
+    "name": "Pecharunt Default",
+    "region": "paldea",
+    "types": [
+      "4",
+      "8"
+    ]
   }
 ]

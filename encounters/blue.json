@@ -1,5 +1,418 @@
 [
   {
+    "pokemonId": 1,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "gift",
+    "location": "Professor Oak's Laboratory"
+  },
+  {
+    "pokemonId": 1,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "gift",
+    "location": "Professor Oak's Laboratory"
+  },
+  {
+    "pokemonId": 4,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "gift",
+    "location": "Professor Oak's Laboratory"
+  },
+  {
+    "pokemonId": 4,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "gift",
+    "location": "Professor Oak's Laboratory"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "gift",
+    "location": "Professor Oak's Laboratory"
+  },
+  {
+    "pokemonId": 7,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "gift",
+    "location": "Professor Oak's Laboratory"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 10,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 11,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 11,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 11,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 13,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 13,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 14,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 14,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Viridian Forest"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 16,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 17,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 1 - Route 01 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 2 - Route 02 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 19,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 20,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 21,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 22,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 25,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
     "pokemonId": 25,
     "game": "Pokemon Blue",
     "console": "Game Boy",
@@ -7,17 +420,3279 @@
     "location": "Viridian Forest"
   },
   {
-    "pokemonId": 23,
+    "pokemonId": 26,
     "game": "Pokemon Blue",
     "console": "Game Boy",
     "method": "catch",
-    "location": "Route 23"
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 26,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 26,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 27,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 9 - Route 09 (Kanto)"
+  },
+  {
+    "pokemonId": 28,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 28,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 28,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 29,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 29,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 29,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 29,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 29,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 29,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Underground Path (Kanto - Routes 5-6)"
+  },
+  {
+    "pokemonId": 30,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 30,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 30,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 30,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 30,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 32,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 32,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 32,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 33,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 33,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 35,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (1F)"
+  },
+  {
+    "pokemonId": 35,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B1F)"
+  },
+  {
+    "pokemonId": 35,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B2F)"
   },
   {
     "pokemonId": 37,
     "game": "Pokemon Blue",
     "console": "Game Boy",
     "method": "catch",
-    "location": "Pokemon Mansion"
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 37,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 37,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 37,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 37,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 37,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 39,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 3 - Route 03 (Kanto)"
+  },
+  {
+    "pokemonId": 40,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B2F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 41,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 42,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (1F)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B1F)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B2F)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 46,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 47,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 47,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 47,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 47,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 48,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 48,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 48,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 48,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 48,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 48,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 49,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 49,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 49,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 49,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 49,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 50,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Diglett's Cave"
+  },
+  {
+    "pokemonId": 51,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Diglett's Cave"
+  },
+  {
+    "pokemonId": 52,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 52,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 52,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 52,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 8 - Route 08 (Kanto)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean City"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 54,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 55,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 55,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Celadon City"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean City"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Island"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Fuchsia City"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Indigo Plateau"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pallet Town"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pallet Town"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Vermilion City"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Vermilion City Port - Vermilion City (Port)"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Viridian City"
+  },
+  {
+    "pokemonId": 60,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Viridian City"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Celadon City"
+  },
+  {
+    "pokemonId": 61,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 63,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 64,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 64,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 66,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 67,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 67,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 67,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 5 - Route 05 (Kanto)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 69,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 7 - Route 07 (Kanto)"
+  },
+  {
+    "pokemonId": 70,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 70,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 70,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 70,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pallet Town"
+  },
+  {
+    "pokemonId": 72,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Viridian City"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Mt. Moon - Mt. Moon (B2F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 74,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 75,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 77,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 77,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 77,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 77,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Celadon City"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 79,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 80,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 80,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 80,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 80,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 81,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 82,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 82,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 83,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Vermilion City"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 84,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 85,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 85,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 86,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 88,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 89,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 89,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 89,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 89,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Island"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Vermilion City"
+  },
+  {
+    "pokemonId": 90,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Vermilion City Port - Vermilion City (Port)"
+  },
+  {
+    "pokemonId": 92,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (3F)"
+  },
+  {
+    "pokemonId": 92,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (4F)"
+  },
+  {
+    "pokemonId": 92,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (5F)"
+  },
+  {
+    "pokemonId": 92,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (6F)"
+  },
+  {
+    "pokemonId": 92,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (7F)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (3F)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (4F)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (5F)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (6F)"
+  },
+  {
+    "pokemonId": 93,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (7F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (1F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Rock Tunnel - Rock Tunnel (B1F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 95,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 3F)"
+  },
+  {
+    "pokemonId": 96,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 97,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean City"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Fuchsia City"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Vermilion City"
+  },
+  {
+    "pokemonId": 98,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Vermilion City Port - Vermilion City (Port)"
+  },
+  {
+    "pokemonId": 99,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 99,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 99,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 99,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 99,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 100,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 100,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 100,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 101,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 102,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (3F)"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (4F)"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (5F)"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (6F)"
+  },
+  {
+    "pokemonId": 104,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (7F)"
+  },
+  {
+    "pokemonId": 105,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 105,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 105,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Tower - Pokemon Tower (6F)"
+  },
+  {
+    "pokemonId": 105,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 1F)"
+  },
+  {
+    "pokemonId": 105,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 106,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "gift",
+    "location": "Fighting Dojo"
+  },
+  {
+    "pokemonId": 107,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "gift",
+    "location": "Fighting Dojo"
+  },
+  {
+    "pokemonId": 108,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 109,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 109,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 109,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 109,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 110,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 1F)"
+  },
+  {
+    "pokemonId": 110,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 2F)"
+  },
+  {
+    "pokemonId": 110,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 110,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 111,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 112,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 112,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 113,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 114,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 114,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 114,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 115,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 115,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Island"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 116,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 117,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 117,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 117,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Celadon City"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean City"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean City"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Island"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Island"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Fuchsia City"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Fuchsia City"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Indigo Plateau"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pallet Town"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Vermilion City"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Vermilion City Port - Vermilion City (Port)"
+  },
+  {
+    "pokemonId": 118,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Viridian City"
+  },
+  {
+    "pokemonId": 119,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 119,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 119,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Fuchsia City"
+  },
+  {
+    "pokemonId": 119,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Island"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (1F)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B2F)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 120,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 122,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Kanto Route 2 - Route 02 (Kanto)"
+  },
+  {
+    "pokemonId": 124,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "trade",
+    "location": "Cerulean City"
+  },
+  {
+    "pokemonId": 126,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - 3F)"
+  },
+  {
+    "pokemonId": 126,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pokemon Mansion (Kanto) - Pokemon Mansion (Kanto - B1F)"
+  },
+  {
+    "pokemonId": 127,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 127,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 128,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Celadon City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Island"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Fuchsia City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Fuchsia City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Indigo Plateau"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 10 - Route 10 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 11 - Route 11 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 12 - Route 12 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 17 - Route 17 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 18 - Route 18 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 19 - Route 19 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 20 - Route 20 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 21 - Route 21 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 22 - Route 22 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 24 - Route 24 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 25 - Route 25 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 4 - Route 04 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 6 - Route 06 (Kanto)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Pallet Town"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Vermilion City"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Vermilion City Port - Vermilion City (Port)"
+  },
+  {
+    "pokemonId": 129,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Viridian City"
+  },
+  {
+    "pokemonId": 131,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "gift",
+    "location": "Silph Co."
+  },
+  {
+    "pokemonId": 131,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "gift",
+    "location": "Silph Co."
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (1F)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (2F)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 13 - Route 13 (Kanto)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 14 - Route 14 (Kanto)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 15 - Route 15 (Kanto)"
+  },
+  {
+    "pokemonId": 132,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 23 - Route 23 (Kanto)"
+  },
+  {
+    "pokemonId": 138,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 138,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 140,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 140,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 142,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 142,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cinnabar Lab"
+  },
+  {
+    "pokemonId": 143,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Kanto Route 16 - Route 16 (Kanto)"
+  },
+  {
+    "pokemonId": 144,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B4F)"
+  },
+  {
+    "pokemonId": 145,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Power Plant"
+  },
+  {
+    "pokemonId": 146,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Victory Road (Kanto) - Victory Road (Kanto 2F)"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 1)"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 2)"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Area 3)"
+  },
+  {
+    "pokemonId": 147,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Safari Zone (Kanto) - Safari Zone (Kanto - Center Area)"
+  },
+  {
+    "pokemonId": 150,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Cerulean Cave - Cerulean Cave (B1F)"
+  },
+  {
+    "pokemonId": 502,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B1F)"
+  },
+  {
+    "pokemonId": 502,
+    "game": "Pokemon Blue",
+    "console": "Game Boy",
+    "method": "catch",
+    "location": "Seafoam Islands - Seafoam Islands (B3F)"
   }
 ]
