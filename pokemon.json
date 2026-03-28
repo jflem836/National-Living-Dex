@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Bulbasaur Default",
+    "name": "Bulbasaur",
     "region": "kanto",
     "types": [
       "12",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "name": "Ivysaur Default",
+    "name": "Ivysaur",
     "region": "kanto",
     "types": [
       "12",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "name": "Venusaur Default",
+    "name": "Venusaur",
     "region": "kanto",
     "types": [
       "12",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "name": "Charmander Default",
+    "name": "Charmander",
     "region": "kanto",
     "types": [
       "10"
@@ -36,7 +36,7 @@
   },
   {
     "id": 5,
-    "name": "Charmeleon Default",
+    "name": "Charmeleon",
     "region": "kanto",
     "types": [
       "10"
@@ -44,7 +44,7 @@
   },
   {
     "id": 6,
-    "name": "Charizard Default",
+    "name": "Charizard",
     "region": "kanto",
     "types": [
       "10",
@@ -53,7 +53,7 @@
   },
   {
     "id": 7,
-    "name": "Squirtle Default",
+    "name": "Squirtle",
     "region": "kanto",
     "types": [
       "11"
@@ -61,7 +61,7 @@
   },
   {
     "id": 8,
-    "name": "Wartortle Default",
+    "name": "Wartortle",
     "region": "kanto",
     "types": [
       "11"
@@ -69,7 +69,7 @@
   },
   {
     "id": 9,
-    "name": "Blastoise Default",
+    "name": "Blastoise",
     "region": "kanto",
     "types": [
       "11"
@@ -77,7 +77,7 @@
   },
   {
     "id": 10,
-    "name": "Caterpie Default",
+    "name": "Caterpie",
     "region": "kanto",
     "types": [
       "7"
@@ -85,7 +85,7 @@
   },
   {
     "id": 11,
-    "name": "Metapod Default",
+    "name": "Metapod",
     "region": "kanto",
     "types": [
       "7"
@@ -93,7 +93,7 @@
   },
   {
     "id": 12,
-    "name": "Butterfree Default",
+    "name": "Butterfree",
     "region": "kanto",
     "types": [
       "7",
@@ -102,7 +102,7 @@
   },
   {
     "id": 13,
-    "name": "Weedle Default",
+    "name": "Weedle",
     "region": "kanto",
     "types": [
       "7",
@@ -111,7 +111,7 @@
   },
   {
     "id": 14,
-    "name": "Kakuna Default",
+    "name": "Kakuna",
     "region": "kanto",
     "types": [
       "7",
@@ -120,7 +120,7 @@
   },
   {
     "id": 15,
-    "name": "Beedrill Default",
+    "name": "Beedrill",
     "region": "kanto",
     "types": [
       "7",
@@ -129,7 +129,7 @@
   },
   {
     "id": 16,
-    "name": "Pidgey Default",
+    "name": "Pidgey",
     "region": "kanto",
     "types": [
       "1",
@@ -138,7 +138,7 @@
   },
   {
     "id": 17,
-    "name": "Pidgeotto Default",
+    "name": "Pidgeotto",
     "region": "kanto",
     "types": [
       "1",
@@ -147,7 +147,7 @@
   },
   {
     "id": 18,
-    "name": "Pidgeot Default",
+    "name": "Pidgeot",
     "region": "kanto",
     "types": [
       "1",
@@ -156,7 +156,7 @@
   },
   {
     "id": 19,
-    "name": "Rattata Default",
+    "name": "Rattata",
     "region": "kanto",
     "types": [
       "1"
@@ -164,7 +164,7 @@
   },
   {
     "id": 20,
-    "name": "Raticate Default",
+    "name": "Raticate",
     "region": "kanto",
     "types": [
       "1"
@@ -172,7 +172,7 @@
   },
   {
     "id": 21,
-    "name": "Spearow Default",
+    "name": "Spearow",
     "region": "kanto",
     "types": [
       "1",
@@ -181,7 +181,7 @@
   },
   {
     "id": 22,
-    "name": "Fearow Default",
+    "name": "Fearow",
     "region": "kanto",
     "types": [
       "1",
@@ -190,7 +190,7 @@
   },
   {
     "id": 23,
-    "name": "Ekans Default",
+    "name": "Ekans",
     "region": "kanto",
     "types": [
       "4"
@@ -198,7 +198,7 @@
   },
   {
     "id": 24,
-    "name": "Arbok Default",
+    "name": "Arbok",
     "region": "kanto",
     "types": [
       "4"
@@ -206,7 +206,7 @@
   },
   {
     "id": 25,
-    "name": "Pikachu Default",
+    "name": "Pikachu",
     "region": "kanto",
     "types": [
       "13"
@@ -214,7 +214,7 @@
   },
   {
     "id": 26,
-    "name": "Raichu Default",
+    "name": "Raichu",
     "region": "kanto",
     "types": [
       "13"
@@ -222,7 +222,7 @@
   },
   {
     "id": 27,
-    "name": "Sandshrew Default",
+    "name": "Sandshrew",
     "region": "kanto",
     "types": [
       "5"
@@ -230,7 +230,7 @@
   },
   {
     "id": 28,
-    "name": "Sandslash Default",
+    "name": "Sandslash",
     "region": "kanto",
     "types": [
       "5"
@@ -238,7 +238,7 @@
   },
   {
     "id": 29,
-    "name": "Nidoran F Default",
+    "name": "Nidoran F",
     "region": "kanto",
     "types": [
       "4"
@@ -246,7 +246,7 @@
   },
   {
     "id": 30,
-    "name": "Nidorina Default",
+    "name": "Nidorina",
     "region": "kanto",
     "types": [
       "4"
@@ -254,7 +254,7 @@
   },
   {
     "id": 31,
-    "name": "Nidoqueen Default",
+    "name": "Nidoqueen",
     "region": "kanto",
     "types": [
       "4",
@@ -263,7 +263,7 @@
   },
   {
     "id": 32,
-    "name": "Nidoran M Default",
+    "name": "Nidoran M",
     "region": "kanto",
     "types": [
       "4"
@@ -271,7 +271,7 @@
   },
   {
     "id": 33,
-    "name": "Nidorino Default",
+    "name": "Nidorino",
     "region": "kanto",
     "types": [
       "4"
@@ -279,7 +279,7 @@
   },
   {
     "id": 34,
-    "name": "Nidoking Default",
+    "name": "Nidoking",
     "region": "kanto",
     "types": [
       "4",
@@ -288,7 +288,7 @@
   },
   {
     "id": 35,
-    "name": "Clefairy Default",
+    "name": "Clefairy",
     "region": "kanto",
     "types": [
       "18"
@@ -296,7 +296,7 @@
   },
   {
     "id": 36,
-    "name": "Clefable Default",
+    "name": "Clefable",
     "region": "kanto",
     "types": [
       "18"
@@ -304,7 +304,7 @@
   },
   {
     "id": 37,
-    "name": "Vulpix Default",
+    "name": "Vulpix",
     "region": "kanto",
     "types": [
       "10"
@@ -312,7 +312,7 @@
   },
   {
     "id": 38,
-    "name": "Ninetales Default",
+    "name": "Ninetales",
     "region": "kanto",
     "types": [
       "10"
@@ -320,7 +320,7 @@
   },
   {
     "id": 39,
-    "name": "Jigglypuff Default",
+    "name": "Jigglypuff",
     "region": "kanto",
     "types": [
       "1",
@@ -329,7 +329,7 @@
   },
   {
     "id": 40,
-    "name": "Wigglytuff Default",
+    "name": "Wigglytuff",
     "region": "kanto",
     "types": [
       "1",
@@ -338,7 +338,7 @@
   },
   {
     "id": 41,
-    "name": "Zubat Default",
+    "name": "Zubat",
     "region": "kanto",
     "types": [
       "4",
@@ -347,7 +347,7 @@
   },
   {
     "id": 42,
-    "name": "Golbat Default",
+    "name": "Golbat",
     "region": "kanto",
     "types": [
       "4",
@@ -356,7 +356,7 @@
   },
   {
     "id": 43,
-    "name": "Oddish Default",
+    "name": "Oddish",
     "region": "kanto",
     "types": [
       "12",
@@ -365,7 +365,7 @@
   },
   {
     "id": 44,
-    "name": "Gloom Default",
+    "name": "Gloom",
     "region": "kanto",
     "types": [
       "12",
@@ -374,7 +374,7 @@
   },
   {
     "id": 45,
-    "name": "Vileplume Default",
+    "name": "Vileplume",
     "region": "kanto",
     "types": [
       "12",
@@ -383,7 +383,7 @@
   },
   {
     "id": 46,
-    "name": "Paras Default",
+    "name": "Paras",
     "region": "kanto",
     "types": [
       "7",
@@ -392,7 +392,7 @@
   },
   {
     "id": 47,
-    "name": "Parasect Default",
+    "name": "Parasect",
     "region": "kanto",
     "types": [
       "7",
@@ -401,7 +401,7 @@
   },
   {
     "id": 48,
-    "name": "Venonat Default",
+    "name": "Venonat",
     "region": "kanto",
     "types": [
       "7",
@@ -410,7 +410,7 @@
   },
   {
     "id": 49,
-    "name": "Venomoth Default",
+    "name": "Venomoth",
     "region": "kanto",
     "types": [
       "7",
@@ -419,7 +419,7 @@
   },
   {
     "id": 50,
-    "name": "Diglett Default",
+    "name": "Diglett",
     "region": "kanto",
     "types": [
       "5"
@@ -427,7 +427,7 @@
   },
   {
     "id": 51,
-    "name": "Dugtrio Default",
+    "name": "Dugtrio",
     "region": "kanto",
     "types": [
       "5"
@@ -435,7 +435,7 @@
   },
   {
     "id": 52,
-    "name": "Meowth Default",
+    "name": "Meowth",
     "region": "kanto",
     "types": [
       "1"
@@ -443,7 +443,7 @@
   },
   {
     "id": 53,
-    "name": "Persian Default",
+    "name": "Persian",
     "region": "kanto",
     "types": [
       "1"
@@ -451,7 +451,7 @@
   },
   {
     "id": 54,
-    "name": "Psyduck Default",
+    "name": "Psyduck",
     "region": "kanto",
     "types": [
       "11"
@@ -459,7 +459,7 @@
   },
   {
     "id": 55,
-    "name": "Golduck Default",
+    "name": "Golduck",
     "region": "kanto",
     "types": [
       "11"
@@ -467,7 +467,7 @@
   },
   {
     "id": 56,
-    "name": "Mankey Default",
+    "name": "Mankey",
     "region": "kanto",
     "types": [
       "2"
@@ -475,7 +475,7 @@
   },
   {
     "id": 57,
-    "name": "Primeape Default",
+    "name": "Primeape",
     "region": "kanto",
     "types": [
       "2"
@@ -483,7 +483,7 @@
   },
   {
     "id": 58,
-    "name": "Growlithe Default",
+    "name": "Growlithe",
     "region": "kanto",
     "types": [
       "10"
@@ -491,7 +491,7 @@
   },
   {
     "id": 59,
-    "name": "Arcanine Default",
+    "name": "Arcanine",
     "region": "kanto",
     "types": [
       "10"
@@ -499,7 +499,7 @@
   },
   {
     "id": 60,
-    "name": "Poliwag Default",
+    "name": "Poliwag",
     "region": "kanto",
     "types": [
       "11"
@@ -507,7 +507,7 @@
   },
   {
     "id": 61,
-    "name": "Poliwhirl Default",
+    "name": "Poliwhirl",
     "region": "kanto",
     "types": [
       "11"
@@ -515,7 +515,7 @@
   },
   {
     "id": 62,
-    "name": "Poliwrath Default",
+    "name": "Poliwrath",
     "region": "kanto",
     "types": [
       "11",
@@ -524,7 +524,7 @@
   },
   {
     "id": 63,
-    "name": "Abra Default",
+    "name": "Abra",
     "region": "kanto",
     "types": [
       "14"
@@ -532,7 +532,7 @@
   },
   {
     "id": 64,
-    "name": "Kadabra Default",
+    "name": "Kadabra",
     "region": "kanto",
     "types": [
       "14"
@@ -540,7 +540,7 @@
   },
   {
     "id": 65,
-    "name": "Alakazam Default",
+    "name": "Alakazam",
     "region": "kanto",
     "types": [
       "14"
@@ -548,7 +548,7 @@
   },
   {
     "id": 66,
-    "name": "Machop Default",
+    "name": "Machop",
     "region": "kanto",
     "types": [
       "2"
@@ -556,7 +556,7 @@
   },
   {
     "id": 67,
-    "name": "Machoke Default",
+    "name": "Machoke",
     "region": "kanto",
     "types": [
       "2"
@@ -564,7 +564,7 @@
   },
   {
     "id": 68,
-    "name": "Machamp Default",
+    "name": "Machamp",
     "region": "kanto",
     "types": [
       "2"
@@ -572,7 +572,7 @@
   },
   {
     "id": 69,
-    "name": "Bellsprout Default",
+    "name": "Bellsprout",
     "region": "kanto",
     "types": [
       "12",
@@ -581,7 +581,7 @@
   },
   {
     "id": 70,
-    "name": "Weepinbell Default",
+    "name": "Weepinbell",
     "region": "kanto",
     "types": [
       "12",
@@ -590,7 +590,7 @@
   },
   {
     "id": 71,
-    "name": "Victreebel Default",
+    "name": "Victreebel",
     "region": "kanto",
     "types": [
       "12",
@@ -599,7 +599,7 @@
   },
   {
     "id": 72,
-    "name": "Tentacool Default",
+    "name": "Tentacool",
     "region": "kanto",
     "types": [
       "11",
@@ -608,7 +608,7 @@
   },
   {
     "id": 73,
-    "name": "Tentacruel Default",
+    "name": "Tentacruel",
     "region": "kanto",
     "types": [
       "11",
@@ -617,7 +617,7 @@
   },
   {
     "id": 74,
-    "name": "Geodude Default",
+    "name": "Geodude",
     "region": "kanto",
     "types": [
       "6",
@@ -626,7 +626,7 @@
   },
   {
     "id": 75,
-    "name": "Graveler Default",
+    "name": "Graveler",
     "region": "kanto",
     "types": [
       "6",
@@ -635,7 +635,7 @@
   },
   {
     "id": 76,
-    "name": "Golem Default",
+    "name": "Golem",
     "region": "kanto",
     "types": [
       "6",
@@ -644,7 +644,7 @@
   },
   {
     "id": 77,
-    "name": "Ponyta Default",
+    "name": "Ponyta",
     "region": "kanto",
     "types": [
       "10"
@@ -652,7 +652,7 @@
   },
   {
     "id": 78,
-    "name": "Rapidash Default",
+    "name": "Rapidash",
     "region": "kanto",
     "types": [
       "10"
@@ -660,7 +660,7 @@
   },
   {
     "id": 79,
-    "name": "Slowpoke Default",
+    "name": "Slowpoke",
     "region": "kanto",
     "types": [
       "11",
@@ -669,7 +669,7 @@
   },
   {
     "id": 80,
-    "name": "Slowbro Default",
+    "name": "Slowbro",
     "region": "kanto",
     "types": [
       "11",
@@ -678,7 +678,7 @@
   },
   {
     "id": 81,
-    "name": "Magnemite Default",
+    "name": "Magnemite",
     "region": "kanto",
     "types": [
       "13",
@@ -687,7 +687,7 @@
   },
   {
     "id": 82,
-    "name": "Magneton Default",
+    "name": "Magneton",
     "region": "kanto",
     "types": [
       "13",
@@ -696,7 +696,7 @@
   },
   {
     "id": 83,
-    "name": "Farfetchd Default",
+    "name": "Farfetchd",
     "region": "kanto",
     "types": [
       "1",
@@ -705,7 +705,7 @@
   },
   {
     "id": 84,
-    "name": "Doduo Default",
+    "name": "Doduo",
     "region": "kanto",
     "types": [
       "1",
@@ -714,7 +714,7 @@
   },
   {
     "id": 85,
-    "name": "Dodrio Default",
+    "name": "Dodrio",
     "region": "kanto",
     "types": [
       "1",
@@ -723,7 +723,7 @@
   },
   {
     "id": 86,
-    "name": "Seel Default",
+    "name": "Seel",
     "region": "kanto",
     "types": [
       "11"
@@ -731,7 +731,7 @@
   },
   {
     "id": 87,
-    "name": "Dewgong Default",
+    "name": "Dewgong",
     "region": "kanto",
     "types": [
       "11",
@@ -740,7 +740,7 @@
   },
   {
     "id": 88,
-    "name": "Grimer Default",
+    "name": "Grimer",
     "region": "kanto",
     "types": [
       "4"
@@ -748,7 +748,7 @@
   },
   {
     "id": 89,
-    "name": "Muk Default",
+    "name": "Muk",
     "region": "kanto",
     "types": [
       "4"
@@ -756,7 +756,7 @@
   },
   {
     "id": 90,
-    "name": "Shellder Default",
+    "name": "Shellder",
     "region": "kanto",
     "types": [
       "11"
@@ -764,7 +764,7 @@
   },
   {
     "id": 91,
-    "name": "Cloyster Default",
+    "name": "Cloyster",
     "region": "kanto",
     "types": [
       "11",
@@ -773,7 +773,7 @@
   },
   {
     "id": 92,
-    "name": "Gastly Default",
+    "name": "Gastly",
     "region": "kanto",
     "types": [
       "8",
@@ -782,7 +782,7 @@
   },
   {
     "id": 93,
-    "name": "Haunter Default",
+    "name": "Haunter",
     "region": "kanto",
     "types": [
       "8",
@@ -791,7 +791,7 @@
   },
   {
     "id": 94,
-    "name": "Gengar Default",
+    "name": "Gengar",
     "region": "kanto",
     "types": [
       "8",
@@ -800,7 +800,7 @@
   },
   {
     "id": 95,
-    "name": "Onix Default",
+    "name": "Onix",
     "region": "kanto",
     "types": [
       "6",
@@ -809,7 +809,7 @@
   },
   {
     "id": 96,
-    "name": "Drowzee Default",
+    "name": "Drowzee",
     "region": "kanto",
     "types": [
       "14"
@@ -817,7 +817,7 @@
   },
   {
     "id": 97,
-    "name": "Hypno Default",
+    "name": "Hypno",
     "region": "kanto",
     "types": [
       "14"
@@ -825,7 +825,7 @@
   },
   {
     "id": 98,
-    "name": "Krabby Default",
+    "name": "Krabby",
     "region": "kanto",
     "types": [
       "11"
@@ -833,7 +833,7 @@
   },
   {
     "id": 99,
-    "name": "Kingler Default",
+    "name": "Kingler",
     "region": "kanto",
     "types": [
       "11"
@@ -841,7 +841,7 @@
   },
   {
     "id": 100,
-    "name": "Voltorb Default",
+    "name": "Voltorb",
     "region": "kanto",
     "types": [
       "13"
@@ -849,7 +849,7 @@
   },
   {
     "id": 101,
-    "name": "Electrode Default",
+    "name": "Electrode",
     "region": "kanto",
     "types": [
       "13"
@@ -857,7 +857,7 @@
   },
   {
     "id": 102,
-    "name": "Exeggcute Default",
+    "name": "Exeggcute",
     "region": "kanto",
     "types": [
       "12",
@@ -866,7 +866,7 @@
   },
   {
     "id": 103,
-    "name": "Exeggutor Default",
+    "name": "Exeggutor",
     "region": "kanto",
     "types": [
       "12",
@@ -875,7 +875,7 @@
   },
   {
     "id": 104,
-    "name": "Cubone Default",
+    "name": "Cubone",
     "region": "kanto",
     "types": [
       "5"
@@ -883,7 +883,7 @@
   },
   {
     "id": 105,
-    "name": "Marowak Default",
+    "name": "Marowak",
     "region": "kanto",
     "types": [
       "5"
@@ -891,7 +891,7 @@
   },
   {
     "id": 106,
-    "name": "Hitmonlee Default",
+    "name": "Hitmonlee",
     "region": "kanto",
     "types": [
       "2"
@@ -899,7 +899,7 @@
   },
   {
     "id": 107,
-    "name": "Hitmonchan Default",
+    "name": "Hitmonchan",
     "region": "kanto",
     "types": [
       "2"
@@ -907,7 +907,7 @@
   },
   {
     "id": 108,
-    "name": "Lickitung Default",
+    "name": "Lickitung",
     "region": "kanto",
     "types": [
       "1"
@@ -915,7 +915,7 @@
   },
   {
     "id": 109,
-    "name": "Koffing Default",
+    "name": "Koffing",
     "region": "kanto",
     "types": [
       "4"
@@ -923,7 +923,7 @@
   },
   {
     "id": 110,
-    "name": "Weezing Default",
+    "name": "Weezing",
     "region": "kanto",
     "types": [
       "4"
@@ -931,7 +931,7 @@
   },
   {
     "id": 111,
-    "name": "Rhyhorn Default",
+    "name": "Rhyhorn",
     "region": "kanto",
     "types": [
       "5",
@@ -940,7 +940,7 @@
   },
   {
     "id": 112,
-    "name": "Rhydon Default",
+    "name": "Rhydon",
     "region": "kanto",
     "types": [
       "5",
@@ -949,7 +949,7 @@
   },
   {
     "id": 113,
-    "name": "Chansey Default",
+    "name": "Chansey",
     "region": "kanto",
     "types": [
       "1"
@@ -957,7 +957,7 @@
   },
   {
     "id": 114,
-    "name": "Tangela Default",
+    "name": "Tangela",
     "region": "kanto",
     "types": [
       "12"
@@ -965,7 +965,7 @@
   },
   {
     "id": 115,
-    "name": "Kangaskhan Default",
+    "name": "Kangaskhan",
     "region": "kanto",
     "types": [
       "1"
@@ -973,7 +973,7 @@
   },
   {
     "id": 116,
-    "name": "Horsea Default",
+    "name": "Horsea",
     "region": "kanto",
     "types": [
       "11"
@@ -981,7 +981,7 @@
   },
   {
     "id": 117,
-    "name": "Seadra Default",
+    "name": "Seadra",
     "region": "kanto",
     "types": [
       "11"
@@ -989,7 +989,7 @@
   },
   {
     "id": 118,
-    "name": "Goldeen Default",
+    "name": "Goldeen",
     "region": "kanto",
     "types": [
       "11"
@@ -997,7 +997,7 @@
   },
   {
     "id": 119,
-    "name": "Seaking Default",
+    "name": "Seaking",
     "region": "kanto",
     "types": [
       "11"
@@ -1005,7 +1005,7 @@
   },
   {
     "id": 120,
-    "name": "Staryu Default",
+    "name": "Staryu",
     "region": "kanto",
     "types": [
       "11"
@@ -1013,7 +1013,7 @@
   },
   {
     "id": 121,
-    "name": "Starmie Default",
+    "name": "Starmie",
     "region": "kanto",
     "types": [
       "11",
@@ -1022,7 +1022,7 @@
   },
   {
     "id": 122,
-    "name": "Mr Mime Default",
+    "name": "Mr Mime",
     "region": "kanto",
     "types": [
       "14",
@@ -1031,7 +1031,7 @@
   },
   {
     "id": 123,
-    "name": "Scyther Default",
+    "name": "Scyther",
     "region": "kanto",
     "types": [
       "7",
@@ -1040,7 +1040,7 @@
   },
   {
     "id": 124,
-    "name": "Jynx Default",
+    "name": "Jynx",
     "region": "kanto",
     "types": [
       "15",
@@ -1049,7 +1049,7 @@
   },
   {
     "id": 125,
-    "name": "Electabuzz Default",
+    "name": "Electabuzz",
     "region": "kanto",
     "types": [
       "13"
@@ -1057,7 +1057,7 @@
   },
   {
     "id": 126,
-    "name": "Magmar Default",
+    "name": "Magmar",
     "region": "kanto",
     "types": [
       "10"
@@ -1065,7 +1065,7 @@
   },
   {
     "id": 127,
-    "name": "Pinsir Default",
+    "name": "Pinsir",
     "region": "kanto",
     "types": [
       "7"
@@ -1073,7 +1073,7 @@
   },
   {
     "id": 128,
-    "name": "Tauros Default",
+    "name": "Tauros",
     "region": "kanto",
     "types": [
       "1"
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 129,
-    "name": "Magikarp Default",
+    "name": "Magikarp",
     "region": "kanto",
     "types": [
       "11"
@@ -1089,7 +1089,7 @@
   },
   {
     "id": 130,
-    "name": "Gyarados Default",
+    "name": "Gyarados",
     "region": "kanto",
     "types": [
       "11",
@@ -1098,7 +1098,7 @@
   },
   {
     "id": 131,
-    "name": "Lapras Default",
+    "name": "Lapras",
     "region": "kanto",
     "types": [
       "11",
@@ -1107,7 +1107,7 @@
   },
   {
     "id": 132,
-    "name": "Ditto Default",
+    "name": "Ditto",
     "region": "kanto",
     "types": [
       "1"
@@ -1115,7 +1115,7 @@
   },
   {
     "id": 133,
-    "name": "Eevee Default",
+    "name": "Eevee",
     "region": "kanto",
     "types": [
       "1"
@@ -1123,7 +1123,7 @@
   },
   {
     "id": 134,
-    "name": "Vaporeon Default",
+    "name": "Vaporeon",
     "region": "kanto",
     "types": [
       "11"
@@ -1131,7 +1131,7 @@
   },
   {
     "id": 135,
-    "name": "Jolteon Default",
+    "name": "Jolteon",
     "region": "kanto",
     "types": [
       "13"
@@ -1139,7 +1139,7 @@
   },
   {
     "id": 136,
-    "name": "Flareon Default",
+    "name": "Flareon",
     "region": "kanto",
     "types": [
       "10"
@@ -1147,7 +1147,7 @@
   },
   {
     "id": 137,
-    "name": "Porygon Default",
+    "name": "Porygon",
     "region": "kanto",
     "types": [
       "1"
@@ -1155,7 +1155,7 @@
   },
   {
     "id": 138,
-    "name": "Omanyte Default",
+    "name": "Omanyte",
     "region": "kanto",
     "types": [
       "6",
@@ -1164,7 +1164,7 @@
   },
   {
     "id": 139,
-    "name": "Omastar Default",
+    "name": "Omastar",
     "region": "kanto",
     "types": [
       "6",
@@ -1173,7 +1173,7 @@
   },
   {
     "id": 140,
-    "name": "Kabuto Default",
+    "name": "Kabuto",
     "region": "kanto",
     "types": [
       "6",
@@ -1182,7 +1182,7 @@
   },
   {
     "id": 141,
-    "name": "Kabutops Default",
+    "name": "Kabutops",
     "region": "kanto",
     "types": [
       "6",
@@ -1191,7 +1191,7 @@
   },
   {
     "id": 142,
-    "name": "Aerodactyl Default",
+    "name": "Aerodactyl",
     "region": "kanto",
     "types": [
       "6",
@@ -1200,7 +1200,7 @@
   },
   {
     "id": 143,
-    "name": "Snorlax Default",
+    "name": "Snorlax",
     "region": "kanto",
     "types": [
       "1"
@@ -1208,7 +1208,7 @@
   },
   {
     "id": 144,
-    "name": "Articuno Default",
+    "name": "Articuno",
     "region": "kanto",
     "types": [
       "15",
@@ -1217,7 +1217,7 @@
   },
   {
     "id": 145,
-    "name": "Zapdos Default",
+    "name": "Zapdos",
     "region": "kanto",
     "types": [
       "13",
@@ -1226,7 +1226,7 @@
   },
   {
     "id": 146,
-    "name": "Moltres Default",
+    "name": "Moltres",
     "region": "kanto",
     "types": [
       "10",
@@ -1235,7 +1235,7 @@
   },
   {
     "id": 147,
-    "name": "Dratini Default",
+    "name": "Dratini",
     "region": "kanto",
     "types": [
       "16"
@@ -1243,7 +1243,7 @@
   },
   {
     "id": 148,
-    "name": "Dragonair Default",
+    "name": "Dragonair",
     "region": "kanto",
     "types": [
       "16"
@@ -1251,7 +1251,7 @@
   },
   {
     "id": 149,
-    "name": "Dragonite Default",
+    "name": "Dragonite",
     "region": "kanto",
     "types": [
       "16",
@@ -1260,7 +1260,7 @@
   },
   {
     "id": 150,
-    "name": "Mewtwo Default",
+    "name": "Mewtwo",
     "region": "kanto",
     "types": [
       "14"
@@ -1268,7 +1268,7 @@
   },
   {
     "id": 151,
-    "name": "Mew Default",
+    "name": "Mew",
     "region": "kanto",
     "types": [
       "14"
@@ -1276,7 +1276,7 @@
   },
   {
     "id": 152,
-    "name": "Chikorita Default",
+    "name": "Chikorita",
     "region": "johto",
     "types": [
       "12"
@@ -1284,7 +1284,7 @@
   },
   {
     "id": 153,
-    "name": "Bayleef Default",
+    "name": "Bayleef",
     "region": "johto",
     "types": [
       "12"
@@ -1292,7 +1292,7 @@
   },
   {
     "id": 154,
-    "name": "Meganium Default",
+    "name": "Meganium",
     "region": "johto",
     "types": [
       "12"
@@ -1300,7 +1300,7 @@
   },
   {
     "id": 155,
-    "name": "Cyndaquil Default",
+    "name": "Cyndaquil",
     "region": "johto",
     "types": [
       "10"
@@ -1308,7 +1308,7 @@
   },
   {
     "id": 156,
-    "name": "Quilava Default",
+    "name": "Quilava",
     "region": "johto",
     "types": [
       "10"
@@ -1316,7 +1316,7 @@
   },
   {
     "id": 157,
-    "name": "Typhlosion Default",
+    "name": "Typhlosion",
     "region": "johto",
     "types": [
       "10"
@@ -1324,7 +1324,7 @@
   },
   {
     "id": 158,
-    "name": "Totodile Default",
+    "name": "Totodile",
     "region": "johto",
     "types": [
       "11"
@@ -1332,7 +1332,7 @@
   },
   {
     "id": 159,
-    "name": "Croconaw Default",
+    "name": "Croconaw",
     "region": "johto",
     "types": [
       "11"
@@ -1340,7 +1340,7 @@
   },
   {
     "id": 160,
-    "name": "Feraligatr Default",
+    "name": "Feraligatr",
     "region": "johto",
     "types": [
       "11"
@@ -1348,7 +1348,7 @@
   },
   {
     "id": 161,
-    "name": "Sentret Default",
+    "name": "Sentret",
     "region": "johto",
     "types": [
       "1"
@@ -1356,7 +1356,7 @@
   },
   {
     "id": 162,
-    "name": "Furret Default",
+    "name": "Furret",
     "region": "johto",
     "types": [
       "1"
@@ -1364,7 +1364,7 @@
   },
   {
     "id": 163,
-    "name": "Hoothoot Default",
+    "name": "Hoothoot",
     "region": "johto",
     "types": [
       "1",
@@ -1373,7 +1373,7 @@
   },
   {
     "id": 164,
-    "name": "Noctowl Default",
+    "name": "Noctowl",
     "region": "johto",
     "types": [
       "1",
@@ -1382,7 +1382,7 @@
   },
   {
     "id": 165,
-    "name": "Ledyba Default",
+    "name": "Ledyba",
     "region": "johto",
     "types": [
       "7",
@@ -1391,7 +1391,7 @@
   },
   {
     "id": 166,
-    "name": "Ledian Default",
+    "name": "Ledian",
     "region": "johto",
     "types": [
       "7",
@@ -1400,7 +1400,7 @@
   },
   {
     "id": 167,
-    "name": "Spinarak Default",
+    "name": "Spinarak",
     "region": "johto",
     "types": [
       "7",
@@ -1409,7 +1409,7 @@
   },
   {
     "id": 168,
-    "name": "Ariados Default",
+    "name": "Ariados",
     "region": "johto",
     "types": [
       "7",
@@ -1418,7 +1418,7 @@
   },
   {
     "id": 169,
-    "name": "Crobat Default",
+    "name": "Crobat",
     "region": "johto",
     "types": [
       "4",
@@ -1427,7 +1427,7 @@
   },
   {
     "id": 170,
-    "name": "Chinchou Default",
+    "name": "Chinchou",
     "region": "johto",
     "types": [
       "11",
@@ -1436,7 +1436,7 @@
   },
   {
     "id": 171,
-    "name": "Lanturn Default",
+    "name": "Lanturn",
     "region": "johto",
     "types": [
       "11",
@@ -1445,7 +1445,7 @@
   },
   {
     "id": 172,
-    "name": "Pichu Default",
+    "name": "Pichu",
     "region": "johto",
     "types": [
       "13"
@@ -1453,7 +1453,7 @@
   },
   {
     "id": 173,
-    "name": "Cleffa Default",
+    "name": "Cleffa",
     "region": "johto",
     "types": [
       "18"
@@ -1461,7 +1461,7 @@
   },
   {
     "id": 174,
-    "name": "Igglybuff Default",
+    "name": "Igglybuff",
     "region": "johto",
     "types": [
       "1",
@@ -1470,7 +1470,7 @@
   },
   {
     "id": 175,
-    "name": "Togepi Default",
+    "name": "Togepi",
     "region": "johto",
     "types": [
       "18"
@@ -1478,7 +1478,7 @@
   },
   {
     "id": 176,
-    "name": "Togetic Default",
+    "name": "Togetic",
     "region": "johto",
     "types": [
       "18",
@@ -1487,7 +1487,7 @@
   },
   {
     "id": 177,
-    "name": "Natu Default",
+    "name": "Natu",
     "region": "johto",
     "types": [
       "14",
@@ -1496,7 +1496,7 @@
   },
   {
     "id": 178,
-    "name": "Xatu Default",
+    "name": "Xatu",
     "region": "johto",
     "types": [
       "14",
@@ -1505,7 +1505,7 @@
   },
   {
     "id": 179,
-    "name": "Mareep Default",
+    "name": "Mareep",
     "region": "johto",
     "types": [
       "13"
@@ -1513,7 +1513,7 @@
   },
   {
     "id": 180,
-    "name": "Flaaffy Default",
+    "name": "Flaaffy",
     "region": "johto",
     "types": [
       "13"
@@ -1521,7 +1521,7 @@
   },
   {
     "id": 181,
-    "name": "Ampharos Default",
+    "name": "Ampharos",
     "region": "johto",
     "types": [
       "13"
@@ -1529,7 +1529,7 @@
   },
   {
     "id": 182,
-    "name": "Bellossom Default",
+    "name": "Bellossom",
     "region": "johto",
     "types": [
       "12"
@@ -1537,7 +1537,7 @@
   },
   {
     "id": 183,
-    "name": "Marill Default",
+    "name": "Marill",
     "region": "johto",
     "types": [
       "11",
@@ -1546,7 +1546,7 @@
   },
   {
     "id": 184,
-    "name": "Azumarill Default",
+    "name": "Azumarill",
     "region": "johto",
     "types": [
       "11",
@@ -1555,7 +1555,7 @@
   },
   {
     "id": 185,
-    "name": "Sudowoodo Default",
+    "name": "Sudowoodo",
     "region": "johto",
     "types": [
       "6"
@@ -1563,7 +1563,7 @@
   },
   {
     "id": 186,
-    "name": "Politoed Default",
+    "name": "Politoed",
     "region": "johto",
     "types": [
       "11"
@@ -1571,7 +1571,7 @@
   },
   {
     "id": 187,
-    "name": "Hoppip Default",
+    "name": "Hoppip",
     "region": "johto",
     "types": [
       "12",
@@ -1580,7 +1580,7 @@
   },
   {
     "id": 188,
-    "name": "Skiploom Default",
+    "name": "Skiploom",
     "region": "johto",
     "types": [
       "12",
@@ -1589,7 +1589,7 @@
   },
   {
     "id": 189,
-    "name": "Jumpluff Default",
+    "name": "Jumpluff",
     "region": "johto",
     "types": [
       "12",
@@ -1598,7 +1598,7 @@
   },
   {
     "id": 190,
-    "name": "Aipom Default",
+    "name": "Aipom",
     "region": "johto",
     "types": [
       "1"
@@ -1606,7 +1606,7 @@
   },
   {
     "id": 191,
-    "name": "Sunkern Default",
+    "name": "Sunkern",
     "region": "johto",
     "types": [
       "12"
@@ -1614,7 +1614,7 @@
   },
   {
     "id": 192,
-    "name": "Sunflora Default",
+    "name": "Sunflora",
     "region": "johto",
     "types": [
       "12"
@@ -1622,7 +1622,7 @@
   },
   {
     "id": 193,
-    "name": "Yanma Default",
+    "name": "Yanma",
     "region": "johto",
     "types": [
       "7",
@@ -1631,7 +1631,7 @@
   },
   {
     "id": 194,
-    "name": "Wooper Default",
+    "name": "Wooper",
     "region": "johto",
     "types": [
       "11",
@@ -1640,7 +1640,7 @@
   },
   {
     "id": 195,
-    "name": "Quagsire Default",
+    "name": "Quagsire",
     "region": "johto",
     "types": [
       "11",
@@ -1649,7 +1649,7 @@
   },
   {
     "id": 196,
-    "name": "Espeon Default",
+    "name": "Espeon",
     "region": "johto",
     "types": [
       "14"
@@ -1657,7 +1657,7 @@
   },
   {
     "id": 197,
-    "name": "Umbreon Default",
+    "name": "Umbreon",
     "region": "johto",
     "types": [
       "17"
@@ -1665,7 +1665,7 @@
   },
   {
     "id": 198,
-    "name": "Murkrow Default",
+    "name": "Murkrow",
     "region": "johto",
     "types": [
       "17",
@@ -1674,7 +1674,7 @@
   },
   {
     "id": 199,
-    "name": "Slowking Default",
+    "name": "Slowking",
     "region": "johto",
     "types": [
       "11",
@@ -1683,7 +1683,7 @@
   },
   {
     "id": 200,
-    "name": "Misdreavus Default",
+    "name": "Misdreavus",
     "region": "johto",
     "types": [
       "8"
@@ -1691,7 +1691,7 @@
   },
   {
     "id": 201,
-    "name": "Unown Default",
+    "name": "Unown",
     "region": "johto",
     "types": [
       "14"
@@ -1699,7 +1699,7 @@
   },
   {
     "id": 202,
-    "name": "Wobbuffet Default",
+    "name": "Wobbuffet",
     "region": "johto",
     "types": [
       "14"
@@ -1707,7 +1707,7 @@
   },
   {
     "id": 203,
-    "name": "Girafarig Default",
+    "name": "Girafarig",
     "region": "johto",
     "types": [
       "1",
@@ -1716,7 +1716,7 @@
   },
   {
     "id": 204,
-    "name": "Pineco Default",
+    "name": "Pineco",
     "region": "johto",
     "types": [
       "7"
@@ -1724,7 +1724,7 @@
   },
   {
     "id": 205,
-    "name": "Forretress Default",
+    "name": "Forretress",
     "region": "johto",
     "types": [
       "7",
@@ -1733,7 +1733,7 @@
   },
   {
     "id": 206,
-    "name": "Dunsparce Default",
+    "name": "Dunsparce",
     "region": "johto",
     "types": [
       "1"
@@ -1741,7 +1741,7 @@
   },
   {
     "id": 207,
-    "name": "Gligar Default",
+    "name": "Gligar",
     "region": "johto",
     "types": [
       "5",
@@ -1750,7 +1750,7 @@
   },
   {
     "id": 208,
-    "name": "Steelix Default",
+    "name": "Steelix",
     "region": "johto",
     "types": [
       "9",
@@ -1759,7 +1759,7 @@
   },
   {
     "id": 209,
-    "name": "Snubbull Default",
+    "name": "Snubbull",
     "region": "johto",
     "types": [
       "18"
@@ -1767,7 +1767,7 @@
   },
   {
     "id": 210,
-    "name": "Granbull Default",
+    "name": "Granbull",
     "region": "johto",
     "types": [
       "18"
@@ -1775,7 +1775,7 @@
   },
   {
     "id": 211,
-    "name": "Qwilfish Default",
+    "name": "Qwilfish",
     "region": "johto",
     "types": [
       "11",
@@ -1784,7 +1784,7 @@
   },
   {
     "id": 212,
-    "name": "Scizor Default",
+    "name": "Scizor",
     "region": "johto",
     "types": [
       "7",
@@ -1793,7 +1793,7 @@
   },
   {
     "id": 213,
-    "name": "Shuckle Default",
+    "name": "Shuckle",
     "region": "johto",
     "types": [
       "7",
@@ -1802,7 +1802,7 @@
   },
   {
     "id": 214,
-    "name": "Heracross Default",
+    "name": "Heracross",
     "region": "johto",
     "types": [
       "7",
@@ -1811,7 +1811,7 @@
   },
   {
     "id": 215,
-    "name": "Sneasel Default",
+    "name": "Sneasel",
     "region": "johto",
     "types": [
       "17",
@@ -1820,7 +1820,7 @@
   },
   {
     "id": 216,
-    "name": "Teddiursa Default",
+    "name": "Teddiursa",
     "region": "johto",
     "types": [
       "1"
@@ -1828,7 +1828,7 @@
   },
   {
     "id": 217,
-    "name": "Ursaring Default",
+    "name": "Ursaring",
     "region": "johto",
     "types": [
       "1"
@@ -1836,7 +1836,7 @@
   },
   {
     "id": 218,
-    "name": "Slugma Default",
+    "name": "Slugma",
     "region": "johto",
     "types": [
       "10"
@@ -1844,7 +1844,7 @@
   },
   {
     "id": 219,
-    "name": "Magcargo Default",
+    "name": "Magcargo",
     "region": "johto",
     "types": [
       "10",
@@ -1853,7 +1853,7 @@
   },
   {
     "id": 220,
-    "name": "Swinub Default",
+    "name": "Swinub",
     "region": "johto",
     "types": [
       "15",
@@ -1862,7 +1862,7 @@
   },
   {
     "id": 221,
-    "name": "Piloswine Default",
+    "name": "Piloswine",
     "region": "johto",
     "types": [
       "15",
@@ -1871,7 +1871,7 @@
   },
   {
     "id": 222,
-    "name": "Corsola Default",
+    "name": "Corsola",
     "region": "johto",
     "types": [
       "11",
@@ -1880,7 +1880,7 @@
   },
   {
     "id": 223,
-    "name": "Remoraid Default",
+    "name": "Remoraid",
     "region": "johto",
     "types": [
       "11"
@@ -1888,7 +1888,7 @@
   },
   {
     "id": 224,
-    "name": "Octillery Default",
+    "name": "Octillery",
     "region": "johto",
     "types": [
       "11"
@@ -1896,7 +1896,7 @@
   },
   {
     "id": 225,
-    "name": "Delibird Default",
+    "name": "Delibird",
     "region": "johto",
     "types": [
       "15",
@@ -1905,7 +1905,7 @@
   },
   {
     "id": 226,
-    "name": "Mantine Default",
+    "name": "Mantine",
     "region": "johto",
     "types": [
       "11",
@@ -1914,7 +1914,7 @@
   },
   {
     "id": 227,
-    "name": "Skarmory Default",
+    "name": "Skarmory",
     "region": "johto",
     "types": [
       "9",
@@ -1923,7 +1923,7 @@
   },
   {
     "id": 228,
-    "name": "Houndour Default",
+    "name": "Houndour",
     "region": "johto",
     "types": [
       "17",
@@ -1932,7 +1932,7 @@
   },
   {
     "id": 229,
-    "name": "Houndoom Default",
+    "name": "Houndoom",
     "region": "johto",
     "types": [
       "17",
@@ -1941,7 +1941,7 @@
   },
   {
     "id": 230,
-    "name": "Kingdra Default",
+    "name": "Kingdra",
     "region": "johto",
     "types": [
       "11",
@@ -1950,7 +1950,7 @@
   },
   {
     "id": 231,
-    "name": "Phanpy Default",
+    "name": "Phanpy",
     "region": "johto",
     "types": [
       "5"
@@ -1958,7 +1958,7 @@
   },
   {
     "id": 232,
-    "name": "Donphan Default",
+    "name": "Donphan",
     "region": "johto",
     "types": [
       "5"
@@ -1966,7 +1966,7 @@
   },
   {
     "id": 233,
-    "name": "Porygon2 Default",
+    "name": "Porygon2",
     "region": "johto",
     "types": [
       "1"
@@ -1974,7 +1974,7 @@
   },
   {
     "id": 234,
-    "name": "Stantler Default",
+    "name": "Stantler",
     "region": "johto",
     "types": [
       "1"
@@ -1982,7 +1982,7 @@
   },
   {
     "id": 235,
-    "name": "Smeargle Default",
+    "name": "Smeargle",
     "region": "johto",
     "types": [
       "1"
@@ -1990,7 +1990,7 @@
   },
   {
     "id": 236,
-    "name": "Tyrogue Default",
+    "name": "Tyrogue",
     "region": "johto",
     "types": [
       "2"
@@ -1998,7 +1998,7 @@
   },
   {
     "id": 237,
-    "name": "Hitmontop Default",
+    "name": "Hitmontop",
     "region": "johto",
     "types": [
       "2"
@@ -2006,7 +2006,7 @@
   },
   {
     "id": 238,
-    "name": "Smoochum Default",
+    "name": "Smoochum",
     "region": "johto",
     "types": [
       "15",
@@ -2015,7 +2015,7 @@
   },
   {
     "id": 239,
-    "name": "Elekid Default",
+    "name": "Elekid",
     "region": "johto",
     "types": [
       "13"
@@ -2023,7 +2023,7 @@
   },
   {
     "id": 240,
-    "name": "Magby Default",
+    "name": "Magby",
     "region": "johto",
     "types": [
       "10"
@@ -2031,7 +2031,7 @@
   },
   {
     "id": 241,
-    "name": "Miltank Default",
+    "name": "Miltank",
     "region": "johto",
     "types": [
       "1"
@@ -2039,7 +2039,7 @@
   },
   {
     "id": 242,
-    "name": "Blissey Default",
+    "name": "Blissey",
     "region": "johto",
     "types": [
       "1"
@@ -2047,7 +2047,7 @@
   },
   {
     "id": 243,
-    "name": "Raikou Default",
+    "name": "Raikou",
     "region": "johto",
     "types": [
       "13"
@@ -2055,7 +2055,7 @@
   },
   {
     "id": 244,
-    "name": "Entei Default",
+    "name": "Entei",
     "region": "johto",
     "types": [
       "10"
@@ -2063,7 +2063,7 @@
   },
   {
     "id": 245,
-    "name": "Suicune Default",
+    "name": "Suicune",
     "region": "johto",
     "types": [
       "11"
@@ -2071,7 +2071,7 @@
   },
   {
     "id": 246,
-    "name": "Larvitar Default",
+    "name": "Larvitar",
     "region": "johto",
     "types": [
       "6",
@@ -2080,7 +2080,7 @@
   },
   {
     "id": 247,
-    "name": "Pupitar Default",
+    "name": "Pupitar",
     "region": "johto",
     "types": [
       "6",
@@ -2089,7 +2089,7 @@
   },
   {
     "id": 248,
-    "name": "Tyranitar Default",
+    "name": "Tyranitar",
     "region": "johto",
     "types": [
       "6",
@@ -2098,7 +2098,7 @@
   },
   {
     "id": 249,
-    "name": "Lugia Default",
+    "name": "Lugia",
     "region": "johto",
     "types": [
       "14",
@@ -2107,7 +2107,7 @@
   },
   {
     "id": 250,
-    "name": "Ho Oh Default",
+    "name": "Ho Oh",
     "region": "johto",
     "types": [
       "10",
@@ -2116,7 +2116,7 @@
   },
   {
     "id": 251,
-    "name": "Celebi Default",
+    "name": "Celebi",
     "region": "johto",
     "types": [
       "14",
@@ -2125,7 +2125,7 @@
   },
   {
     "id": 252,
-    "name": "Treecko Default",
+    "name": "Treecko",
     "region": "hoenn",
     "types": [
       "12"
@@ -2133,7 +2133,7 @@
   },
   {
     "id": 253,
-    "name": "Grovyle Default",
+    "name": "Grovyle",
     "region": "hoenn",
     "types": [
       "12"
@@ -2141,7 +2141,7 @@
   },
   {
     "id": 254,
-    "name": "Sceptile Default",
+    "name": "Sceptile",
     "region": "hoenn",
     "types": [
       "12"
@@ -2149,7 +2149,7 @@
   },
   {
     "id": 255,
-    "name": "Torchic Default",
+    "name": "Torchic",
     "region": "hoenn",
     "types": [
       "10"
@@ -2157,7 +2157,7 @@
   },
   {
     "id": 256,
-    "name": "Combusken Default",
+    "name": "Combusken",
     "region": "hoenn",
     "types": [
       "10",
@@ -2166,7 +2166,7 @@
   },
   {
     "id": 257,
-    "name": "Blaziken Default",
+    "name": "Blaziken",
     "region": "hoenn",
     "types": [
       "10",
@@ -2175,7 +2175,7 @@
   },
   {
     "id": 258,
-    "name": "Mudkip Default",
+    "name": "Mudkip",
     "region": "hoenn",
     "types": [
       "11"
@@ -2183,7 +2183,7 @@
   },
   {
     "id": 259,
-    "name": "Marshtomp Default",
+    "name": "Marshtomp",
     "region": "hoenn",
     "types": [
       "11",
@@ -2192,7 +2192,7 @@
   },
   {
     "id": 260,
-    "name": "Swampert Default",
+    "name": "Swampert",
     "region": "hoenn",
     "types": [
       "11",
@@ -2201,7 +2201,7 @@
   },
   {
     "id": 261,
-    "name": "Poochyena Default",
+    "name": "Poochyena",
     "region": "hoenn",
     "types": [
       "17"
@@ -2209,7 +2209,7 @@
   },
   {
     "id": 262,
-    "name": "Mightyena Default",
+    "name": "Mightyena",
     "region": "hoenn",
     "types": [
       "17"
@@ -2217,7 +2217,7 @@
   },
   {
     "id": 263,
-    "name": "Zigzagoon Default",
+    "name": "Zigzagoon",
     "region": "hoenn",
     "types": [
       "1"
@@ -2225,7 +2225,7 @@
   },
   {
     "id": 264,
-    "name": "Linoone Default",
+    "name": "Linoone",
     "region": "hoenn",
     "types": [
       "1"
@@ -2233,7 +2233,7 @@
   },
   {
     "id": 265,
-    "name": "Wurmple Default",
+    "name": "Wurmple",
     "region": "hoenn",
     "types": [
       "7"
@@ -2241,7 +2241,7 @@
   },
   {
     "id": 266,
-    "name": "Silcoon Default",
+    "name": "Silcoon",
     "region": "hoenn",
     "types": [
       "7"
@@ -2249,7 +2249,7 @@
   },
   {
     "id": 267,
-    "name": "Beautifly Default",
+    "name": "Beautifly",
     "region": "hoenn",
     "types": [
       "7",
@@ -2258,7 +2258,7 @@
   },
   {
     "id": 268,
-    "name": "Cascoon Default",
+    "name": "Cascoon",
     "region": "hoenn",
     "types": [
       "7"
@@ -2266,7 +2266,7 @@
   },
   {
     "id": 269,
-    "name": "Dustox Default",
+    "name": "Dustox",
     "region": "hoenn",
     "types": [
       "7",
@@ -2275,7 +2275,7 @@
   },
   {
     "id": 270,
-    "name": "Lotad Default",
+    "name": "Lotad",
     "region": "hoenn",
     "types": [
       "11",
@@ -2284,7 +2284,7 @@
   },
   {
     "id": 271,
-    "name": "Lombre Default",
+    "name": "Lombre",
     "region": "hoenn",
     "types": [
       "11",
@@ -2293,7 +2293,7 @@
   },
   {
     "id": 272,
-    "name": "Ludicolo Default",
+    "name": "Ludicolo",
     "region": "hoenn",
     "types": [
       "11",
@@ -2302,7 +2302,7 @@
   },
   {
     "id": 273,
-    "name": "Seedot Default",
+    "name": "Seedot",
     "region": "hoenn",
     "types": [
       "12"
@@ -2310,7 +2310,7 @@
   },
   {
     "id": 274,
-    "name": "Nuzleaf Default",
+    "name": "Nuzleaf",
     "region": "hoenn",
     "types": [
       "12",
@@ -2319,7 +2319,7 @@
   },
   {
     "id": 275,
-    "name": "Shiftry Default",
+    "name": "Shiftry",
     "region": "hoenn",
     "types": [
       "12",
@@ -2328,7 +2328,7 @@
   },
   {
     "id": 276,
-    "name": "Taillow Default",
+    "name": "Taillow",
     "region": "hoenn",
     "types": [
       "1",
@@ -2337,7 +2337,7 @@
   },
   {
     "id": 277,
-    "name": "Swellow Default",
+    "name": "Swellow",
     "region": "hoenn",
     "types": [
       "1",
@@ -2346,7 +2346,7 @@
   },
   {
     "id": 278,
-    "name": "Wingull Default",
+    "name": "Wingull",
     "region": "hoenn",
     "types": [
       "11",
@@ -2355,7 +2355,7 @@
   },
   {
     "id": 279,
-    "name": "Pelipper Default",
+    "name": "Pelipper",
     "region": "hoenn",
     "types": [
       "11",
@@ -2364,7 +2364,7 @@
   },
   {
     "id": 280,
-    "name": "Ralts Default",
+    "name": "Ralts",
     "region": "hoenn",
     "types": [
       "14",
@@ -2373,7 +2373,7 @@
   },
   {
     "id": 281,
-    "name": "Kirlia Default",
+    "name": "Kirlia",
     "region": "hoenn",
     "types": [
       "14",
@@ -2382,7 +2382,7 @@
   },
   {
     "id": 282,
-    "name": "Gardevoir Default",
+    "name": "Gardevoir",
     "region": "hoenn",
     "types": [
       "14",
@@ -2391,7 +2391,7 @@
   },
   {
     "id": 283,
-    "name": "Surskit Default",
+    "name": "Surskit",
     "region": "hoenn",
     "types": [
       "7",
@@ -2400,7 +2400,7 @@
   },
   {
     "id": 284,
-    "name": "Masquerain Default",
+    "name": "Masquerain",
     "region": "hoenn",
     "types": [
       "7",
@@ -2409,7 +2409,7 @@
   },
   {
     "id": 285,
-    "name": "Shroomish Default",
+    "name": "Shroomish",
     "region": "hoenn",
     "types": [
       "12"
@@ -2417,7 +2417,7 @@
   },
   {
     "id": 286,
-    "name": "Breloom Default",
+    "name": "Breloom",
     "region": "hoenn",
     "types": [
       "12",
@@ -2426,7 +2426,7 @@
   },
   {
     "id": 287,
-    "name": "Slakoth Default",
+    "name": "Slakoth",
     "region": "hoenn",
     "types": [
       "1"
@@ -2434,7 +2434,7 @@
   },
   {
     "id": 288,
-    "name": "Vigoroth Default",
+    "name": "Vigoroth",
     "region": "hoenn",
     "types": [
       "1"
@@ -2442,7 +2442,7 @@
   },
   {
     "id": 289,
-    "name": "Slaking Default",
+    "name": "Slaking",
     "region": "hoenn",
     "types": [
       "1"
@@ -2450,7 +2450,7 @@
   },
   {
     "id": 290,
-    "name": "Nincada Default",
+    "name": "Nincada",
     "region": "hoenn",
     "types": [
       "7",
@@ -2459,7 +2459,7 @@
   },
   {
     "id": 291,
-    "name": "Ninjask Default",
+    "name": "Ninjask",
     "region": "hoenn",
     "types": [
       "7",
@@ -2468,7 +2468,7 @@
   },
   {
     "id": 292,
-    "name": "Shedinja Default",
+    "name": "Shedinja",
     "region": "hoenn",
     "types": [
       "7",
@@ -2477,7 +2477,7 @@
   },
   {
     "id": 293,
-    "name": "Whismur Default",
+    "name": "Whismur",
     "region": "hoenn",
     "types": [
       "1"
@@ -2485,7 +2485,7 @@
   },
   {
     "id": 294,
-    "name": "Loudred Default",
+    "name": "Loudred",
     "region": "hoenn",
     "types": [
       "1"
@@ -2493,7 +2493,7 @@
   },
   {
     "id": 295,
-    "name": "Exploud Default",
+    "name": "Exploud",
     "region": "hoenn",
     "types": [
       "1"
@@ -2501,7 +2501,7 @@
   },
   {
     "id": 296,
-    "name": "Makuhita Default",
+    "name": "Makuhita",
     "region": "hoenn",
     "types": [
       "2"
@@ -2509,7 +2509,7 @@
   },
   {
     "id": 297,
-    "name": "Hariyama Default",
+    "name": "Hariyama",
     "region": "hoenn",
     "types": [
       "2"
@@ -2517,7 +2517,7 @@
   },
   {
     "id": 298,
-    "name": "Azurill Default",
+    "name": "Azurill",
     "region": "hoenn",
     "types": [
       "1",
@@ -2526,7 +2526,7 @@
   },
   {
     "id": 299,
-    "name": "Nosepass Default",
+    "name": "Nosepass",
     "region": "hoenn",
     "types": [
       "6"
@@ -2534,7 +2534,7 @@
   },
   {
     "id": 300,
-    "name": "Skitty Default",
+    "name": "Skitty",
     "region": "hoenn",
     "types": [
       "1"
@@ -2542,7 +2542,7 @@
   },
   {
     "id": 301,
-    "name": "Delcatty Default",
+    "name": "Delcatty",
     "region": "hoenn",
     "types": [
       "1"
@@ -2550,7 +2550,7 @@
   },
   {
     "id": 302,
-    "name": "Sableye Default",
+    "name": "Sableye",
     "region": "hoenn",
     "types": [
       "17",
@@ -2559,7 +2559,7 @@
   },
   {
     "id": 303,
-    "name": "Mawile Default",
+    "name": "Mawile",
     "region": "hoenn",
     "types": [
       "9",
@@ -2568,7 +2568,7 @@
   },
   {
     "id": 304,
-    "name": "Aron Default",
+    "name": "Aron",
     "region": "hoenn",
     "types": [
       "9",
@@ -2577,7 +2577,7 @@
   },
   {
     "id": 305,
-    "name": "Lairon Default",
+    "name": "Lairon",
     "region": "hoenn",
     "types": [
       "9",
@@ -2586,7 +2586,7 @@
   },
   {
     "id": 306,
-    "name": "Aggron Default",
+    "name": "Aggron",
     "region": "hoenn",
     "types": [
       "9",
@@ -2595,7 +2595,7 @@
   },
   {
     "id": 307,
-    "name": "Meditite Default",
+    "name": "Meditite",
     "region": "hoenn",
     "types": [
       "2",
@@ -2604,7 +2604,7 @@
   },
   {
     "id": 308,
-    "name": "Medicham Default",
+    "name": "Medicham",
     "region": "hoenn",
     "types": [
       "2",
@@ -2613,7 +2613,7 @@
   },
   {
     "id": 309,
-    "name": "Electrike Default",
+    "name": "Electrike",
     "region": "hoenn",
     "types": [
       "13"
@@ -2621,7 +2621,7 @@
   },
   {
     "id": 310,
-    "name": "Manectric Default",
+    "name": "Manectric",
     "region": "hoenn",
     "types": [
       "13"
@@ -2629,7 +2629,7 @@
   },
   {
     "id": 311,
-    "name": "Plusle Default",
+    "name": "Plusle",
     "region": "hoenn",
     "types": [
       "13"
@@ -2637,7 +2637,7 @@
   },
   {
     "id": 312,
-    "name": "Minun Default",
+    "name": "Minun",
     "region": "hoenn",
     "types": [
       "13"
@@ -2645,7 +2645,7 @@
   },
   {
     "id": 313,
-    "name": "Volbeat Default",
+    "name": "Volbeat",
     "region": "hoenn",
     "types": [
       "7"
@@ -2653,7 +2653,7 @@
   },
   {
     "id": 314,
-    "name": "Illumise Default",
+    "name": "Illumise",
     "region": "hoenn",
     "types": [
       "7"
@@ -2661,7 +2661,7 @@
   },
   {
     "id": 315,
-    "name": "Roselia Default",
+    "name": "Roselia",
     "region": "hoenn",
     "types": [
       "12",
@@ -2670,7 +2670,7 @@
   },
   {
     "id": 316,
-    "name": "Gulpin Default",
+    "name": "Gulpin",
     "region": "hoenn",
     "types": [
       "4"
@@ -2678,7 +2678,7 @@
   },
   {
     "id": 317,
-    "name": "Swalot Default",
+    "name": "Swalot",
     "region": "hoenn",
     "types": [
       "4"
@@ -2686,7 +2686,7 @@
   },
   {
     "id": 318,
-    "name": "Carvanha Default",
+    "name": "Carvanha",
     "region": "hoenn",
     "types": [
       "11",
@@ -2695,7 +2695,7 @@
   },
   {
     "id": 319,
-    "name": "Sharpedo Default",
+    "name": "Sharpedo",
     "region": "hoenn",
     "types": [
       "11",
@@ -2704,7 +2704,7 @@
   },
   {
     "id": 320,
-    "name": "Wailmer Default",
+    "name": "Wailmer",
     "region": "hoenn",
     "types": [
       "11"
@@ -2712,7 +2712,7 @@
   },
   {
     "id": 321,
-    "name": "Wailord Default",
+    "name": "Wailord",
     "region": "hoenn",
     "types": [
       "11"
@@ -2720,7 +2720,7 @@
   },
   {
     "id": 322,
-    "name": "Numel Default",
+    "name": "Numel",
     "region": "hoenn",
     "types": [
       "10",
@@ -2729,7 +2729,7 @@
   },
   {
     "id": 323,
-    "name": "Camerupt Default",
+    "name": "Camerupt",
     "region": "hoenn",
     "types": [
       "10",
@@ -2738,7 +2738,7 @@
   },
   {
     "id": 324,
-    "name": "Torkoal Default",
+    "name": "Torkoal",
     "region": "hoenn",
     "types": [
       "10"
@@ -2746,7 +2746,7 @@
   },
   {
     "id": 325,
-    "name": "Spoink Default",
+    "name": "Spoink",
     "region": "hoenn",
     "types": [
       "14"
@@ -2754,7 +2754,7 @@
   },
   {
     "id": 326,
-    "name": "Grumpig Default",
+    "name": "Grumpig",
     "region": "hoenn",
     "types": [
       "14"
@@ -2762,7 +2762,7 @@
   },
   {
     "id": 327,
-    "name": "Spinda Default",
+    "name": "Spinda",
     "region": "hoenn",
     "types": [
       "1"
@@ -2770,7 +2770,7 @@
   },
   {
     "id": 328,
-    "name": "Trapinch Default",
+    "name": "Trapinch",
     "region": "hoenn",
     "types": [
       "5"
@@ -2778,7 +2778,7 @@
   },
   {
     "id": 329,
-    "name": "Vibrava Default",
+    "name": "Vibrava",
     "region": "hoenn",
     "types": [
       "5",
@@ -2787,7 +2787,7 @@
   },
   {
     "id": 330,
-    "name": "Flygon Default",
+    "name": "Flygon",
     "region": "hoenn",
     "types": [
       "5",
@@ -2796,7 +2796,7 @@
   },
   {
     "id": 331,
-    "name": "Cacnea Default",
+    "name": "Cacnea",
     "region": "hoenn",
     "types": [
       "12"
@@ -2804,7 +2804,7 @@
   },
   {
     "id": 332,
-    "name": "Cacturne Default",
+    "name": "Cacturne",
     "region": "hoenn",
     "types": [
       "12",
@@ -2813,7 +2813,7 @@
   },
   {
     "id": 333,
-    "name": "Swablu Default",
+    "name": "Swablu",
     "region": "hoenn",
     "types": [
       "1",
@@ -2822,7 +2822,7 @@
   },
   {
     "id": 334,
-    "name": "Altaria Default",
+    "name": "Altaria",
     "region": "hoenn",
     "types": [
       "16",
@@ -2831,7 +2831,7 @@
   },
   {
     "id": 335,
-    "name": "Zangoose Default",
+    "name": "Zangoose",
     "region": "hoenn",
     "types": [
       "1"
@@ -2839,7 +2839,7 @@
   },
   {
     "id": 336,
-    "name": "Seviper Default",
+    "name": "Seviper",
     "region": "hoenn",
     "types": [
       "4"
@@ -2847,7 +2847,7 @@
   },
   {
     "id": 337,
-    "name": "Lunatone Default",
+    "name": "Lunatone",
     "region": "hoenn",
     "types": [
       "6",
@@ -2856,7 +2856,7 @@
   },
   {
     "id": 338,
-    "name": "Solrock Default",
+    "name": "Solrock",
     "region": "hoenn",
     "types": [
       "6",
@@ -2865,7 +2865,7 @@
   },
   {
     "id": 339,
-    "name": "Barboach Default",
+    "name": "Barboach",
     "region": "hoenn",
     "types": [
       "11",
@@ -2874,7 +2874,7 @@
   },
   {
     "id": 340,
-    "name": "Whiscash Default",
+    "name": "Whiscash",
     "region": "hoenn",
     "types": [
       "11",
@@ -2883,7 +2883,7 @@
   },
   {
     "id": 341,
-    "name": "Corphish Default",
+    "name": "Corphish",
     "region": "hoenn",
     "types": [
       "11"
@@ -2891,7 +2891,7 @@
   },
   {
     "id": 342,
-    "name": "Crawdaunt Default",
+    "name": "Crawdaunt",
     "region": "hoenn",
     "types": [
       "11",
@@ -2900,7 +2900,7 @@
   },
   {
     "id": 343,
-    "name": "Baltoy Default",
+    "name": "Baltoy",
     "region": "hoenn",
     "types": [
       "5",
@@ -2909,7 +2909,7 @@
   },
   {
     "id": 344,
-    "name": "Claydol Default",
+    "name": "Claydol",
     "region": "hoenn",
     "types": [
       "5",
@@ -2918,7 +2918,7 @@
   },
   {
     "id": 345,
-    "name": "Lileep Default",
+    "name": "Lileep",
     "region": "hoenn",
     "types": [
       "6",
@@ -2927,7 +2927,7 @@
   },
   {
     "id": 346,
-    "name": "Cradily Default",
+    "name": "Cradily",
     "region": "hoenn",
     "types": [
       "6",
@@ -2936,7 +2936,7 @@
   },
   {
     "id": 347,
-    "name": "Anorith Default",
+    "name": "Anorith",
     "region": "hoenn",
     "types": [
       "6",
@@ -2945,7 +2945,7 @@
   },
   {
     "id": 348,
-    "name": "Armaldo Default",
+    "name": "Armaldo",
     "region": "hoenn",
     "types": [
       "6",
@@ -2954,7 +2954,7 @@
   },
   {
     "id": 349,
-    "name": "Feebas Default",
+    "name": "Feebas",
     "region": "hoenn",
     "types": [
       "11"
@@ -2962,7 +2962,7 @@
   },
   {
     "id": 350,
-    "name": "Milotic Default",
+    "name": "Milotic",
     "region": "hoenn",
     "types": [
       "11"
@@ -2970,7 +2970,7 @@
   },
   {
     "id": 351,
-    "name": "Castform Default",
+    "name": "Castform",
     "region": "hoenn",
     "types": [
       "1"
@@ -2978,7 +2978,7 @@
   },
   {
     "id": 352,
-    "name": "Kecleon Default",
+    "name": "Kecleon",
     "region": "hoenn",
     "types": [
       "1"
@@ -2986,7 +2986,7 @@
   },
   {
     "id": 353,
-    "name": "Shuppet Default",
+    "name": "Shuppet",
     "region": "hoenn",
     "types": [
       "8"
@@ -2994,7 +2994,7 @@
   },
   {
     "id": 354,
-    "name": "Banette Default",
+    "name": "Banette",
     "region": "hoenn",
     "types": [
       "8"
@@ -3002,7 +3002,7 @@
   },
   {
     "id": 355,
-    "name": "Duskull Default",
+    "name": "Duskull",
     "region": "hoenn",
     "types": [
       "8"
@@ -3010,7 +3010,7 @@
   },
   {
     "id": 356,
-    "name": "Dusclops Default",
+    "name": "Dusclops",
     "region": "hoenn",
     "types": [
       "8"
@@ -3018,7 +3018,7 @@
   },
   {
     "id": 357,
-    "name": "Tropius Default",
+    "name": "Tropius",
     "region": "hoenn",
     "types": [
       "12",
@@ -3027,7 +3027,7 @@
   },
   {
     "id": 358,
-    "name": "Chimecho Default",
+    "name": "Chimecho",
     "region": "hoenn",
     "types": [
       "14"
@@ -3035,7 +3035,7 @@
   },
   {
     "id": 359,
-    "name": "Absol Default",
+    "name": "Absol",
     "region": "hoenn",
     "types": [
       "17"
@@ -3043,7 +3043,7 @@
   },
   {
     "id": 360,
-    "name": "Wynaut Default",
+    "name": "Wynaut",
     "region": "hoenn",
     "types": [
       "14"
@@ -3051,7 +3051,7 @@
   },
   {
     "id": 361,
-    "name": "Snorunt Default",
+    "name": "Snorunt",
     "region": "hoenn",
     "types": [
       "15"
@@ -3059,7 +3059,7 @@
   },
   {
     "id": 362,
-    "name": "Glalie Default",
+    "name": "Glalie",
     "region": "hoenn",
     "types": [
       "15"
@@ -3067,7 +3067,7 @@
   },
   {
     "id": 363,
-    "name": "Spheal Default",
+    "name": "Spheal",
     "region": "hoenn",
     "types": [
       "15",
@@ -3076,7 +3076,7 @@
   },
   {
     "id": 364,
-    "name": "Sealeo Default",
+    "name": "Sealeo",
     "region": "hoenn",
     "types": [
       "15",
@@ -3085,7 +3085,7 @@
   },
   {
     "id": 365,
-    "name": "Walrein Default",
+    "name": "Walrein",
     "region": "hoenn",
     "types": [
       "15",
@@ -3094,7 +3094,7 @@
   },
   {
     "id": 366,
-    "name": "Clamperl Default",
+    "name": "Clamperl",
     "region": "hoenn",
     "types": [
       "11"
@@ -3102,7 +3102,7 @@
   },
   {
     "id": 367,
-    "name": "Huntail Default",
+    "name": "Huntail",
     "region": "hoenn",
     "types": [
       "11"
@@ -3110,7 +3110,7 @@
   },
   {
     "id": 368,
-    "name": "Gorebyss Default",
+    "name": "Gorebyss",
     "region": "hoenn",
     "types": [
       "11"
@@ -3118,7 +3118,7 @@
   },
   {
     "id": 369,
-    "name": "Relicanth Default",
+    "name": "Relicanth",
     "region": "hoenn",
     "types": [
       "11",
@@ -3127,7 +3127,7 @@
   },
   {
     "id": 370,
-    "name": "Luvdisc Default",
+    "name": "Luvdisc",
     "region": "hoenn",
     "types": [
       "11"
@@ -3135,7 +3135,7 @@
   },
   {
     "id": 371,
-    "name": "Bagon Default",
+    "name": "Bagon",
     "region": "hoenn",
     "types": [
       "16"
@@ -3143,7 +3143,7 @@
   },
   {
     "id": 372,
-    "name": "Shelgon Default",
+    "name": "Shelgon",
     "region": "hoenn",
     "types": [
       "16"
@@ -3151,7 +3151,7 @@
   },
   {
     "id": 373,
-    "name": "Salamence Default",
+    "name": "Salamence",
     "region": "hoenn",
     "types": [
       "16",
@@ -3160,7 +3160,7 @@
   },
   {
     "id": 374,
-    "name": "Beldum Default",
+    "name": "Beldum",
     "region": "hoenn",
     "types": [
       "9",
@@ -3169,7 +3169,7 @@
   },
   {
     "id": 375,
-    "name": "Metang Default",
+    "name": "Metang",
     "region": "hoenn",
     "types": [
       "9",
@@ -3178,7 +3178,7 @@
   },
   {
     "id": 376,
-    "name": "Metagross Default",
+    "name": "Metagross",
     "region": "hoenn",
     "types": [
       "9",
@@ -3187,7 +3187,7 @@
   },
   {
     "id": 377,
-    "name": "Regirock Default",
+    "name": "Regirock",
     "region": "hoenn",
     "types": [
       "6"
@@ -3195,7 +3195,7 @@
   },
   {
     "id": 378,
-    "name": "Regice Default",
+    "name": "Regice",
     "region": "hoenn",
     "types": [
       "15"
@@ -3203,7 +3203,7 @@
   },
   {
     "id": 379,
-    "name": "Registeel Default",
+    "name": "Registeel",
     "region": "hoenn",
     "types": [
       "9"
@@ -3211,7 +3211,7 @@
   },
   {
     "id": 380,
-    "name": "Latias Default",
+    "name": "Latias",
     "region": "hoenn",
     "types": [
       "16",
@@ -3220,7 +3220,7 @@
   },
   {
     "id": 381,
-    "name": "Latios Default",
+    "name": "Latios",
     "region": "hoenn",
     "types": [
       "16",
@@ -3229,7 +3229,7 @@
   },
   {
     "id": 382,
-    "name": "Kyogre Default",
+    "name": "Kyogre",
     "region": "hoenn",
     "types": [
       "11"
@@ -3237,7 +3237,7 @@
   },
   {
     "id": 383,
-    "name": "Groudon Default",
+    "name": "Groudon",
     "region": "hoenn",
     "types": [
       "5"
@@ -3245,7 +3245,7 @@
   },
   {
     "id": 384,
-    "name": "Rayquaza Default",
+    "name": "Rayquaza",
     "region": "hoenn",
     "types": [
       "16",
@@ -3254,7 +3254,7 @@
   },
   {
     "id": 385,
-    "name": "Jirachi Default",
+    "name": "Jirachi",
     "region": "hoenn",
     "types": [
       "9",
@@ -3263,7 +3263,7 @@
   },
   {
     "id": 386,
-    "name": "Deoxys Default",
+    "name": "Deoxys",
     "region": "hoenn",
     "types": [
       "14"
@@ -3271,7 +3271,7 @@
   },
   {
     "id": 387,
-    "name": "Turtwig Default",
+    "name": "Turtwig",
     "region": "sinnoh",
     "types": [
       "12"
@@ -3279,7 +3279,7 @@
   },
   {
     "id": 388,
-    "name": "Grotle Default",
+    "name": "Grotle",
     "region": "sinnoh",
     "types": [
       "12"
@@ -3287,7 +3287,7 @@
   },
   {
     "id": 389,
-    "name": "Torterra Default",
+    "name": "Torterra",
     "region": "sinnoh",
     "types": [
       "12",
@@ -3296,7 +3296,7 @@
   },
   {
     "id": 390,
-    "name": "Chimchar Default",
+    "name": "Chimchar",
     "region": "sinnoh",
     "types": [
       "10"
@@ -3304,7 +3304,7 @@
   },
   {
     "id": 391,
-    "name": "Monferno Default",
+    "name": "Monferno",
     "region": "sinnoh",
     "types": [
       "10",
@@ -3313,7 +3313,7 @@
   },
   {
     "id": 392,
-    "name": "Infernape Default",
+    "name": "Infernape",
     "region": "sinnoh",
     "types": [
       "10",
@@ -3322,7 +3322,7 @@
   },
   {
     "id": 393,
-    "name": "Piplup Default",
+    "name": "Piplup",
     "region": "sinnoh",
     "types": [
       "11"
@@ -3330,7 +3330,7 @@
   },
   {
     "id": 394,
-    "name": "Prinplup Default",
+    "name": "Prinplup",
     "region": "sinnoh",
     "types": [
       "11"
@@ -3338,7 +3338,7 @@
   },
   {
     "id": 395,
-    "name": "Empoleon Default",
+    "name": "Empoleon",
     "region": "sinnoh",
     "types": [
       "11",
@@ -3347,7 +3347,7 @@
   },
   {
     "id": 396,
-    "name": "Starly Default",
+    "name": "Starly",
     "region": "sinnoh",
     "types": [
       "1",
@@ -3356,7 +3356,7 @@
   },
   {
     "id": 397,
-    "name": "Staravia Default",
+    "name": "Staravia",
     "region": "sinnoh",
     "types": [
       "1",
@@ -3365,7 +3365,7 @@
   },
   {
     "id": 398,
-    "name": "Staraptor Default",
+    "name": "Staraptor",
     "region": "sinnoh",
     "types": [
       "1",
@@ -3374,7 +3374,7 @@
   },
   {
     "id": 399,
-    "name": "Bidoof Default",
+    "name": "Bidoof",
     "region": "sinnoh",
     "types": [
       "1"
@@ -3382,7 +3382,7 @@
   },
   {
     "id": 400,
-    "name": "Bibarel Default",
+    "name": "Bibarel",
     "region": "sinnoh",
     "types": [
       "1",
@@ -3391,7 +3391,7 @@
   },
   {
     "id": 401,
-    "name": "Kricketot Default",
+    "name": "Kricketot",
     "region": "sinnoh",
     "types": [
       "7"
@@ -3399,7 +3399,7 @@
   },
   {
     "id": 402,
-    "name": "Kricketune Default",
+    "name": "Kricketune",
     "region": "sinnoh",
     "types": [
       "7"
@@ -3407,7 +3407,7 @@
   },
   {
     "id": 403,
-    "name": "Shinx Default",
+    "name": "Shinx",
     "region": "sinnoh",
     "types": [
       "13"
@@ -3415,7 +3415,7 @@
   },
   {
     "id": 404,
-    "name": "Luxio Default",
+    "name": "Luxio",
     "region": "sinnoh",
     "types": [
       "13"
@@ -3423,7 +3423,7 @@
   },
   {
     "id": 405,
-    "name": "Luxray Default",
+    "name": "Luxray",
     "region": "sinnoh",
     "types": [
       "13"
@@ -3431,7 +3431,7 @@
   },
   {
     "id": 406,
-    "name": "Budew Default",
+    "name": "Budew",
     "region": "sinnoh",
     "types": [
       "12",
@@ -3440,7 +3440,7 @@
   },
   {
     "id": 407,
-    "name": "Roserade Default",
+    "name": "Roserade",
     "region": "sinnoh",
     "types": [
       "12",
@@ -3449,7 +3449,7 @@
   },
   {
     "id": 408,
-    "name": "Cranidos Default",
+    "name": "Cranidos",
     "region": "sinnoh",
     "types": [
       "6"
@@ -3457,7 +3457,7 @@
   },
   {
     "id": 409,
-    "name": "Rampardos Default",
+    "name": "Rampardos",
     "region": "sinnoh",
     "types": [
       "6"
@@ -3465,7 +3465,7 @@
   },
   {
     "id": 410,
-    "name": "Shieldon Default",
+    "name": "Shieldon",
     "region": "sinnoh",
     "types": [
       "6",
@@ -3474,7 +3474,7 @@
   },
   {
     "id": 411,
-    "name": "Bastiodon Default",
+    "name": "Bastiodon",
     "region": "sinnoh",
     "types": [
       "6",
@@ -3500,7 +3500,7 @@
   },
   {
     "id": 414,
-    "name": "Mothim Default",
+    "name": "Mothim",
     "region": "sinnoh",
     "types": [
       "7",
@@ -3509,7 +3509,7 @@
   },
   {
     "id": 415,
-    "name": "Combee Default",
+    "name": "Combee",
     "region": "sinnoh",
     "types": [
       "7",
@@ -3518,7 +3518,7 @@
   },
   {
     "id": 416,
-    "name": "Vespiquen Default",
+    "name": "Vespiquen",
     "region": "sinnoh",
     "types": [
       "7",
@@ -3527,7 +3527,7 @@
   },
   {
     "id": 417,
-    "name": "Pachirisu Default",
+    "name": "Pachirisu",
     "region": "sinnoh",
     "types": [
       "13"
@@ -3535,7 +3535,7 @@
   },
   {
     "id": 418,
-    "name": "Buizel Default",
+    "name": "Buizel",
     "region": "sinnoh",
     "types": [
       "11"
@@ -3543,7 +3543,7 @@
   },
   {
     "id": 419,
-    "name": "Floatzel Default",
+    "name": "Floatzel",
     "region": "sinnoh",
     "types": [
       "11"
@@ -3551,7 +3551,7 @@
   },
   {
     "id": 420,
-    "name": "Cherubi Default",
+    "name": "Cherubi",
     "region": "sinnoh",
     "types": [
       "12"
@@ -3584,7 +3584,7 @@
   },
   {
     "id": 424,
-    "name": "Ambipom Default",
+    "name": "Ambipom",
     "region": "sinnoh",
     "types": [
       "1"
@@ -3592,7 +3592,7 @@
   },
   {
     "id": 425,
-    "name": "Drifloon Default",
+    "name": "Drifloon",
     "region": "sinnoh",
     "types": [
       "8",
@@ -3601,7 +3601,7 @@
   },
   {
     "id": 426,
-    "name": "Drifblim Default",
+    "name": "Drifblim",
     "region": "sinnoh",
     "types": [
       "8",
@@ -3610,7 +3610,7 @@
   },
   {
     "id": 427,
-    "name": "Buneary Default",
+    "name": "Buneary",
     "region": "sinnoh",
     "types": [
       "1"
@@ -3618,7 +3618,7 @@
   },
   {
     "id": 428,
-    "name": "Lopunny Default",
+    "name": "Lopunny",
     "region": "sinnoh",
     "types": [
       "1"
@@ -3626,7 +3626,7 @@
   },
   {
     "id": 429,
-    "name": "Mismagius Default",
+    "name": "Mismagius",
     "region": "sinnoh",
     "types": [
       "8"
@@ -3634,7 +3634,7 @@
   },
   {
     "id": 430,
-    "name": "Honchkrow Default",
+    "name": "Honchkrow",
     "region": "sinnoh",
     "types": [
       "17",
@@ -3643,7 +3643,7 @@
   },
   {
     "id": 431,
-    "name": "Glameow Default",
+    "name": "Glameow",
     "region": "sinnoh",
     "types": [
       "1"
@@ -3651,7 +3651,7 @@
   },
   {
     "id": 432,
-    "name": "Purugly Default",
+    "name": "Purugly",
     "region": "sinnoh",
     "types": [
       "1"
@@ -3659,7 +3659,7 @@
   },
   {
     "id": 433,
-    "name": "Chingling Default",
+    "name": "Chingling",
     "region": "sinnoh",
     "types": [
       "14"
@@ -3667,7 +3667,7 @@
   },
   {
     "id": 434,
-    "name": "Stunky Default",
+    "name": "Stunky",
     "region": "sinnoh",
     "types": [
       "4",
@@ -3676,7 +3676,7 @@
   },
   {
     "id": 435,
-    "name": "Skuntank Default",
+    "name": "Skuntank",
     "region": "sinnoh",
     "types": [
       "4",
@@ -3685,7 +3685,7 @@
   },
   {
     "id": 436,
-    "name": "Bronzor Default",
+    "name": "Bronzor",
     "region": "sinnoh",
     "types": [
       "9",
@@ -3694,7 +3694,7 @@
   },
   {
     "id": 437,
-    "name": "Bronzong Default",
+    "name": "Bronzong",
     "region": "sinnoh",
     "types": [
       "9",
@@ -3703,7 +3703,7 @@
   },
   {
     "id": 438,
-    "name": "Bonsly Default",
+    "name": "Bonsly",
     "region": "sinnoh",
     "types": [
       "6"
@@ -3711,7 +3711,7 @@
   },
   {
     "id": 439,
-    "name": "Mime Jr Default",
+    "name": "Mime Jr",
     "region": "sinnoh",
     "types": [
       "14",
@@ -3720,7 +3720,7 @@
   },
   {
     "id": 440,
-    "name": "Happiny Default",
+    "name": "Happiny",
     "region": "sinnoh",
     "types": [
       "1"
@@ -3728,7 +3728,7 @@
   },
   {
     "id": 441,
-    "name": "Chatot Default",
+    "name": "Chatot",
     "region": "sinnoh",
     "types": [
       "1",
@@ -3737,7 +3737,7 @@
   },
   {
     "id": 442,
-    "name": "Spiritomb Default",
+    "name": "Spiritomb",
     "region": "sinnoh",
     "types": [
       "8",
@@ -3746,7 +3746,7 @@
   },
   {
     "id": 443,
-    "name": "Gible Default",
+    "name": "Gible",
     "region": "sinnoh",
     "types": [
       "16",
@@ -3755,7 +3755,7 @@
   },
   {
     "id": 444,
-    "name": "Gabite Default",
+    "name": "Gabite",
     "region": "sinnoh",
     "types": [
       "16",
@@ -3764,7 +3764,7 @@
   },
   {
     "id": 445,
-    "name": "Garchomp Default",
+    "name": "Garchomp",
     "region": "sinnoh",
     "types": [
       "16",
@@ -3773,7 +3773,7 @@
   },
   {
     "id": 446,
-    "name": "Munchlax Default",
+    "name": "Munchlax",
     "region": "sinnoh",
     "types": [
       "1"
@@ -3781,7 +3781,7 @@
   },
   {
     "id": 447,
-    "name": "Riolu Default",
+    "name": "Riolu",
     "region": "sinnoh",
     "types": [
       "2"
@@ -3789,7 +3789,7 @@
   },
   {
     "id": 448,
-    "name": "Lucario Default",
+    "name": "Lucario",
     "region": "sinnoh",
     "types": [
       "2",
@@ -3798,7 +3798,7 @@
   },
   {
     "id": 449,
-    "name": "Hippopotas Default",
+    "name": "Hippopotas",
     "region": "sinnoh",
     "types": [
       "5"
@@ -3806,7 +3806,7 @@
   },
   {
     "id": 450,
-    "name": "Hippowdon Default",
+    "name": "Hippowdon",
     "region": "sinnoh",
     "types": [
       "5"
@@ -3814,7 +3814,7 @@
   },
   {
     "id": 451,
-    "name": "Skorupi Default",
+    "name": "Skorupi",
     "region": "sinnoh",
     "types": [
       "4",
@@ -3823,7 +3823,7 @@
   },
   {
     "id": 452,
-    "name": "Drapion Default",
+    "name": "Drapion",
     "region": "sinnoh",
     "types": [
       "4",
@@ -3832,7 +3832,7 @@
   },
   {
     "id": 453,
-    "name": "Croagunk Default",
+    "name": "Croagunk",
     "region": "sinnoh",
     "types": [
       "4",
@@ -3841,7 +3841,7 @@
   },
   {
     "id": 454,
-    "name": "Toxicroak Default",
+    "name": "Toxicroak",
     "region": "sinnoh",
     "types": [
       "4",
@@ -3850,7 +3850,7 @@
   },
   {
     "id": 455,
-    "name": "Carnivine Default",
+    "name": "Carnivine",
     "region": "sinnoh",
     "types": [
       "12"
@@ -3858,7 +3858,7 @@
   },
   {
     "id": 456,
-    "name": "Finneon Default",
+    "name": "Finneon",
     "region": "sinnoh",
     "types": [
       "11"
@@ -3866,7 +3866,7 @@
   },
   {
     "id": 457,
-    "name": "Lumineon Default",
+    "name": "Lumineon",
     "region": "sinnoh",
     "types": [
       "11"
@@ -3874,7 +3874,7 @@
   },
   {
     "id": 458,
-    "name": "Mantyke Default",
+    "name": "Mantyke",
     "region": "sinnoh",
     "types": [
       "11",
@@ -3883,7 +3883,7 @@
   },
   {
     "id": 459,
-    "name": "Snover Default",
+    "name": "Snover",
     "region": "sinnoh",
     "types": [
       "12",
@@ -3892,7 +3892,7 @@
   },
   {
     "id": 460,
-    "name": "Abomasnow Default",
+    "name": "Abomasnow",
     "region": "sinnoh",
     "types": [
       "12",
@@ -3901,7 +3901,7 @@
   },
   {
     "id": 461,
-    "name": "Weavile Default",
+    "name": "Weavile",
     "region": "sinnoh",
     "types": [
       "17",
@@ -3910,7 +3910,7 @@
   },
   {
     "id": 462,
-    "name": "Magnezone Default",
+    "name": "Magnezone",
     "region": "sinnoh",
     "types": [
       "13",
@@ -3919,7 +3919,7 @@
   },
   {
     "id": 463,
-    "name": "Lickilicky Default",
+    "name": "Lickilicky",
     "region": "sinnoh",
     "types": [
       "1"
@@ -3927,7 +3927,7 @@
   },
   {
     "id": 464,
-    "name": "Rhyperior Default",
+    "name": "Rhyperior",
     "region": "sinnoh",
     "types": [
       "5",
@@ -3936,7 +3936,7 @@
   },
   {
     "id": 465,
-    "name": "Tangrowth Default",
+    "name": "Tangrowth",
     "region": "sinnoh",
     "types": [
       "12"
@@ -3944,7 +3944,7 @@
   },
   {
     "id": 466,
-    "name": "Electivire Default",
+    "name": "Electivire",
     "region": "sinnoh",
     "types": [
       "13"
@@ -3952,7 +3952,7 @@
   },
   {
     "id": 467,
-    "name": "Magmortar Default",
+    "name": "Magmortar",
     "region": "sinnoh",
     "types": [
       "10"
@@ -3960,7 +3960,7 @@
   },
   {
     "id": 468,
-    "name": "Togekiss Default",
+    "name": "Togekiss",
     "region": "sinnoh",
     "types": [
       "18",
@@ -3969,7 +3969,7 @@
   },
   {
     "id": 469,
-    "name": "Yanmega Default",
+    "name": "Yanmega",
     "region": "sinnoh",
     "types": [
       "7",
@@ -3978,7 +3978,7 @@
   },
   {
     "id": 470,
-    "name": "Leafeon Default",
+    "name": "Leafeon",
     "region": "sinnoh",
     "types": [
       "12"
@@ -3986,7 +3986,7 @@
   },
   {
     "id": 471,
-    "name": "Glaceon Default",
+    "name": "Glaceon",
     "region": "sinnoh",
     "types": [
       "15"
@@ -3994,7 +3994,7 @@
   },
   {
     "id": 472,
-    "name": "Gliscor Default",
+    "name": "Gliscor",
     "region": "sinnoh",
     "types": [
       "5",
@@ -4003,7 +4003,7 @@
   },
   {
     "id": 473,
-    "name": "Mamoswine Default",
+    "name": "Mamoswine",
     "region": "sinnoh",
     "types": [
       "15",
@@ -4012,7 +4012,7 @@
   },
   {
     "id": 474,
-    "name": "Porygon Z Default",
+    "name": "Porygon Z",
     "region": "sinnoh",
     "types": [
       "1"
@@ -4020,7 +4020,7 @@
   },
   {
     "id": 475,
-    "name": "Gallade Default",
+    "name": "Gallade",
     "region": "sinnoh",
     "types": [
       "14",
@@ -4029,7 +4029,7 @@
   },
   {
     "id": 476,
-    "name": "Probopass Default",
+    "name": "Probopass",
     "region": "sinnoh",
     "types": [
       "6",
@@ -4038,7 +4038,7 @@
   },
   {
     "id": 477,
-    "name": "Dusknoir Default",
+    "name": "Dusknoir",
     "region": "sinnoh",
     "types": [
       "8"
@@ -4046,7 +4046,7 @@
   },
   {
     "id": 478,
-    "name": "Froslass Default",
+    "name": "Froslass",
     "region": "sinnoh",
     "types": [
       "15",
@@ -4055,7 +4055,7 @@
   },
   {
     "id": 479,
-    "name": "Rotom Default",
+    "name": "Rotom",
     "region": "sinnoh",
     "types": [
       "13",
@@ -4064,7 +4064,7 @@
   },
   {
     "id": 480,
-    "name": "Uxie Default",
+    "name": "Uxie",
     "region": "sinnoh",
     "types": [
       "14"
@@ -4072,7 +4072,7 @@
   },
   {
     "id": 481,
-    "name": "Mesprit Default",
+    "name": "Mesprit",
     "region": "sinnoh",
     "types": [
       "14"
@@ -4080,7 +4080,7 @@
   },
   {
     "id": 482,
-    "name": "Azelf Default",
+    "name": "Azelf",
     "region": "sinnoh",
     "types": [
       "14"
@@ -4088,7 +4088,7 @@
   },
   {
     "id": 483,
-    "name": "Dialga Default",
+    "name": "Dialga",
     "region": "sinnoh",
     "types": [
       "9",
@@ -4097,7 +4097,7 @@
   },
   {
     "id": 484,
-    "name": "Palkia Default",
+    "name": "Palkia",
     "region": "sinnoh",
     "types": [
       "11",
@@ -4106,7 +4106,7 @@
   },
   {
     "id": 485,
-    "name": "Heatran Default",
+    "name": "Heatran",
     "region": "sinnoh",
     "types": [
       "10",
@@ -4115,7 +4115,7 @@
   },
   {
     "id": 486,
-    "name": "Regigigas Default",
+    "name": "Regigigas",
     "region": "sinnoh",
     "types": [
       "1"
@@ -4132,7 +4132,7 @@
   },
   {
     "id": 488,
-    "name": "Cresselia Default",
+    "name": "Cresselia",
     "region": "sinnoh",
     "types": [
       "14"
@@ -4140,7 +4140,7 @@
   },
   {
     "id": 489,
-    "name": "Phione Default",
+    "name": "Phione",
     "region": "sinnoh",
     "types": [
       "11"
@@ -4148,7 +4148,7 @@
   },
   {
     "id": 490,
-    "name": "Manaphy Default",
+    "name": "Manaphy",
     "region": "sinnoh",
     "types": [
       "11"
@@ -4156,7 +4156,7 @@
   },
   {
     "id": 491,
-    "name": "Darkrai Default",
+    "name": "Darkrai",
     "region": "sinnoh",
     "types": [
       "17"
@@ -4172,7 +4172,7 @@
   },
   {
     "id": 493,
-    "name": "Arceus Default",
+    "name": "Arceus",
     "region": "sinnoh",
     "types": [
       "1"
@@ -4180,7 +4180,7 @@
   },
   {
     "id": 494,
-    "name": "Victini Default",
+    "name": "Victini",
     "region": "unova",
     "types": [
       "14",
@@ -4189,7 +4189,7 @@
   },
   {
     "id": 495,
-    "name": "Snivy Default",
+    "name": "Snivy",
     "region": "unova",
     "types": [
       "12"
@@ -4197,7 +4197,7 @@
   },
   {
     "id": 496,
-    "name": "Servine Default",
+    "name": "Servine",
     "region": "unova",
     "types": [
       "12"
@@ -4205,7 +4205,7 @@
   },
   {
     "id": 497,
-    "name": "Serperior Default",
+    "name": "Serperior",
     "region": "unova",
     "types": [
       "12"
@@ -4213,7 +4213,7 @@
   },
   {
     "id": 498,
-    "name": "Tepig Default",
+    "name": "Tepig",
     "region": "unova",
     "types": [
       "10"
@@ -4221,7 +4221,7 @@
   },
   {
     "id": 499,
-    "name": "Pignite Default",
+    "name": "Pignite",
     "region": "unova",
     "types": [
       "10",
@@ -4230,7 +4230,7 @@
   },
   {
     "id": 500,
-    "name": "Emboar Default",
+    "name": "Emboar",
     "region": "unova",
     "types": [
       "10",
@@ -4239,7 +4239,7 @@
   },
   {
     "id": 501,
-    "name": "Oshawott Default",
+    "name": "Oshawott",
     "region": "unova",
     "types": [
       "11"
@@ -4247,7 +4247,7 @@
   },
   {
     "id": 502,
-    "name": "Dewott Default",
+    "name": "Dewott",
     "region": "unova",
     "types": [
       "11"
@@ -4255,7 +4255,7 @@
   },
   {
     "id": 503,
-    "name": "Samurott Default",
+    "name": "Samurott",
     "region": "unova",
     "types": [
       "11"
@@ -4263,7 +4263,7 @@
   },
   {
     "id": 504,
-    "name": "Patrat Default",
+    "name": "Patrat",
     "region": "unova",
     "types": [
       "1"
@@ -4271,7 +4271,7 @@
   },
   {
     "id": 505,
-    "name": "Watchog Default",
+    "name": "Watchog",
     "region": "unova",
     "types": [
       "1"
@@ -4279,7 +4279,7 @@
   },
   {
     "id": 506,
-    "name": "Lillipup Default",
+    "name": "Lillipup",
     "region": "unova",
     "types": [
       "1"
@@ -4287,7 +4287,7 @@
   },
   {
     "id": 507,
-    "name": "Herdier Default",
+    "name": "Herdier",
     "region": "unova",
     "types": [
       "1"
@@ -4295,7 +4295,7 @@
   },
   {
     "id": 508,
-    "name": "Stoutland Default",
+    "name": "Stoutland",
     "region": "unova",
     "types": [
       "1"
@@ -4303,7 +4303,7 @@
   },
   {
     "id": 509,
-    "name": "Purrloin Default",
+    "name": "Purrloin",
     "region": "unova",
     "types": [
       "17"
@@ -4311,7 +4311,7 @@
   },
   {
     "id": 510,
-    "name": "Liepard Default",
+    "name": "Liepard",
     "region": "unova",
     "types": [
       "17"
@@ -4319,7 +4319,7 @@
   },
   {
     "id": 511,
-    "name": "Pansage Default",
+    "name": "Pansage",
     "region": "unova",
     "types": [
       "12"
@@ -4327,7 +4327,7 @@
   },
   {
     "id": 512,
-    "name": "Simisage Default",
+    "name": "Simisage",
     "region": "unova",
     "types": [
       "12"
@@ -4335,7 +4335,7 @@
   },
   {
     "id": 513,
-    "name": "Pansear Default",
+    "name": "Pansear",
     "region": "unova",
     "types": [
       "10"
@@ -4343,7 +4343,7 @@
   },
   {
     "id": 514,
-    "name": "Simisear Default",
+    "name": "Simisear",
     "region": "unova",
     "types": [
       "10"
@@ -4351,7 +4351,7 @@
   },
   {
     "id": 515,
-    "name": "Panpour Default",
+    "name": "Panpour",
     "region": "unova",
     "types": [
       "11"
@@ -4359,7 +4359,7 @@
   },
   {
     "id": 516,
-    "name": "Simipour Default",
+    "name": "Simipour",
     "region": "unova",
     "types": [
       "11"
@@ -4367,7 +4367,7 @@
   },
   {
     "id": 517,
-    "name": "Munna Default",
+    "name": "Munna",
     "region": "unova",
     "types": [
       "14"
@@ -4375,7 +4375,7 @@
   },
   {
     "id": 518,
-    "name": "Musharna Default",
+    "name": "Musharna",
     "region": "unova",
     "types": [
       "14"
@@ -4383,7 +4383,7 @@
   },
   {
     "id": 519,
-    "name": "Pidove Default",
+    "name": "Pidove",
     "region": "unova",
     "types": [
       "1",
@@ -4392,7 +4392,7 @@
   },
   {
     "id": 520,
-    "name": "Tranquill Default",
+    "name": "Tranquill",
     "region": "unova",
     "types": [
       "1",
@@ -4410,7 +4410,7 @@
   },
   {
     "id": 522,
-    "name": "Blitzle Default",
+    "name": "Blitzle",
     "region": "unova",
     "types": [
       "13"
@@ -4418,7 +4418,7 @@
   },
   {
     "id": 523,
-    "name": "Zebstrika Default",
+    "name": "Zebstrika",
     "region": "unova",
     "types": [
       "13"
@@ -4426,7 +4426,7 @@
   },
   {
     "id": 524,
-    "name": "Roggenrola Default",
+    "name": "Roggenrola",
     "region": "unova",
     "types": [
       "6"
@@ -4434,7 +4434,7 @@
   },
   {
     "id": 525,
-    "name": "Boldore Default",
+    "name": "Boldore",
     "region": "unova",
     "types": [
       "6"
@@ -4442,7 +4442,7 @@
   },
   {
     "id": 526,
-    "name": "Gigalith Default",
+    "name": "Gigalith",
     "region": "unova",
     "types": [
       "6"
@@ -4450,7 +4450,7 @@
   },
   {
     "id": 527,
-    "name": "Woobat Default",
+    "name": "Woobat",
     "region": "unova",
     "types": [
       "14",
@@ -4459,7 +4459,7 @@
   },
   {
     "id": 528,
-    "name": "Swoobat Default",
+    "name": "Swoobat",
     "region": "unova",
     "types": [
       "14",
@@ -4468,7 +4468,7 @@
   },
   {
     "id": 529,
-    "name": "Drilbur Default",
+    "name": "Drilbur",
     "region": "unova",
     "types": [
       "5"
@@ -4476,7 +4476,7 @@
   },
   {
     "id": 530,
-    "name": "Excadrill Default",
+    "name": "Excadrill",
     "region": "unova",
     "types": [
       "5",
@@ -4485,7 +4485,7 @@
   },
   {
     "id": 531,
-    "name": "Audino Default",
+    "name": "Audino",
     "region": "unova",
     "types": [
       "1"
@@ -4493,7 +4493,7 @@
   },
   {
     "id": 532,
-    "name": "Timburr Default",
+    "name": "Timburr",
     "region": "unova",
     "types": [
       "2"
@@ -4501,7 +4501,7 @@
   },
   {
     "id": 533,
-    "name": "Gurdurr Default",
+    "name": "Gurdurr",
     "region": "unova",
     "types": [
       "2"
@@ -4509,7 +4509,7 @@
   },
   {
     "id": 534,
-    "name": "Conkeldurr Default",
+    "name": "Conkeldurr",
     "region": "unova",
     "types": [
       "2"
@@ -4517,7 +4517,7 @@
   },
   {
     "id": 535,
-    "name": "Tympole Default",
+    "name": "Tympole",
     "region": "unova",
     "types": [
       "11"
@@ -4525,7 +4525,7 @@
   },
   {
     "id": 536,
-    "name": "Palpitoad Default",
+    "name": "Palpitoad",
     "region": "unova",
     "types": [
       "11",
@@ -4534,7 +4534,7 @@
   },
   {
     "id": 537,
-    "name": "Seismitoad Default",
+    "name": "Seismitoad",
     "region": "unova",
     "types": [
       "11",
@@ -4543,7 +4543,7 @@
   },
   {
     "id": 538,
-    "name": "Throh Default",
+    "name": "Throh",
     "region": "unova",
     "types": [
       "2"
@@ -4551,7 +4551,7 @@
   },
   {
     "id": 539,
-    "name": "Sawk Default",
+    "name": "Sawk",
     "region": "unova",
     "types": [
       "2"
@@ -4559,7 +4559,7 @@
   },
   {
     "id": 540,
-    "name": "Sewaddle Default",
+    "name": "Sewaddle",
     "region": "unova",
     "types": [
       "7",
@@ -4568,7 +4568,7 @@
   },
   {
     "id": 541,
-    "name": "Swadloon Default",
+    "name": "Swadloon",
     "region": "unova",
     "types": [
       "7",
@@ -4577,7 +4577,7 @@
   },
   {
     "id": 542,
-    "name": "Leavanny Default",
+    "name": "Leavanny",
     "region": "unova",
     "types": [
       "7",
@@ -4586,7 +4586,7 @@
   },
   {
     "id": 543,
-    "name": "Venipede Default",
+    "name": "Venipede",
     "region": "unova",
     "types": [
       "7",
@@ -4595,7 +4595,7 @@
   },
   {
     "id": 544,
-    "name": "Whirlipede Default",
+    "name": "Whirlipede",
     "region": "unova",
     "types": [
       "7",
@@ -4604,7 +4604,7 @@
   },
   {
     "id": 545,
-    "name": "Scolipede Default",
+    "name": "Scolipede",
     "region": "unova",
     "types": [
       "7",
@@ -4613,7 +4613,7 @@
   },
   {
     "id": 546,
-    "name": "Cottonee Default",
+    "name": "Cottonee",
     "region": "unova",
     "types": [
       "12",
@@ -4622,7 +4622,7 @@
   },
   {
     "id": 547,
-    "name": "Whimsicott Default",
+    "name": "Whimsicott",
     "region": "unova",
     "types": [
       "12",
@@ -4631,7 +4631,7 @@
   },
   {
     "id": 548,
-    "name": "Petilil Default",
+    "name": "Petilil",
     "region": "unova",
     "types": [
       "12"
@@ -4639,7 +4639,7 @@
   },
   {
     "id": 549,
-    "name": "Lilligant Default",
+    "name": "Lilligant",
     "region": "unova",
     "types": [
       "12"
@@ -4655,7 +4655,7 @@
   },
   {
     "id": 551,
-    "name": "Sandile Default",
+    "name": "Sandile",
     "region": "unova",
     "types": [
       "5",
@@ -4664,7 +4664,7 @@
   },
   {
     "id": 552,
-    "name": "Krokorok Default",
+    "name": "Krokorok",
     "region": "unova",
     "types": [
       "5",
@@ -4673,7 +4673,7 @@
   },
   {
     "id": 553,
-    "name": "Krookodile Default",
+    "name": "Krookodile",
     "region": "unova",
     "types": [
       "5",
@@ -4682,7 +4682,7 @@
   },
   {
     "id": 554,
-    "name": "Darumaka Default",
+    "name": "Darumaka",
     "region": "unova",
     "types": [
       "10"
@@ -4698,7 +4698,7 @@
   },
   {
     "id": 556,
-    "name": "Maractus Default",
+    "name": "Maractus",
     "region": "unova",
     "types": [
       "12"
@@ -4706,7 +4706,7 @@
   },
   {
     "id": 557,
-    "name": "Dwebble Default",
+    "name": "Dwebble",
     "region": "unova",
     "types": [
       "7",
@@ -4715,7 +4715,7 @@
   },
   {
     "id": 558,
-    "name": "Crustle Default",
+    "name": "Crustle",
     "region": "unova",
     "types": [
       "7",
@@ -4724,7 +4724,7 @@
   },
   {
     "id": 559,
-    "name": "Scraggy Default",
+    "name": "Scraggy",
     "region": "unova",
     "types": [
       "17",
@@ -4733,7 +4733,7 @@
   },
   {
     "id": 560,
-    "name": "Scrafty Default",
+    "name": "Scrafty",
     "region": "unova",
     "types": [
       "17",
@@ -4742,7 +4742,7 @@
   },
   {
     "id": 561,
-    "name": "Sigilyph Default",
+    "name": "Sigilyph",
     "region": "unova",
     "types": [
       "14",
@@ -4751,7 +4751,7 @@
   },
   {
     "id": 562,
-    "name": "Yamask Default",
+    "name": "Yamask",
     "region": "unova",
     "types": [
       "8"
@@ -4759,7 +4759,7 @@
   },
   {
     "id": 563,
-    "name": "Cofagrigus Default",
+    "name": "Cofagrigus",
     "region": "unova",
     "types": [
       "8"
@@ -4767,7 +4767,7 @@
   },
   {
     "id": 564,
-    "name": "Tirtouga Default",
+    "name": "Tirtouga",
     "region": "unova",
     "types": [
       "11",
@@ -4776,7 +4776,7 @@
   },
   {
     "id": 565,
-    "name": "Carracosta Default",
+    "name": "Carracosta",
     "region": "unova",
     "types": [
       "11",
@@ -4785,7 +4785,7 @@
   },
   {
     "id": 566,
-    "name": "Archen Default",
+    "name": "Archen",
     "region": "unova",
     "types": [
       "6",
@@ -4794,7 +4794,7 @@
   },
   {
     "id": 567,
-    "name": "Archeops Default",
+    "name": "Archeops",
     "region": "unova",
     "types": [
       "6",
@@ -4803,7 +4803,7 @@
   },
   {
     "id": 568,
-    "name": "Trubbish Default",
+    "name": "Trubbish",
     "region": "unova",
     "types": [
       "4"
@@ -4811,7 +4811,7 @@
   },
   {
     "id": 569,
-    "name": "Garbodor Default",
+    "name": "Garbodor",
     "region": "unova",
     "types": [
       "4"
@@ -4819,7 +4819,7 @@
   },
   {
     "id": 570,
-    "name": "Zorua Default",
+    "name": "Zorua",
     "region": "unova",
     "types": [
       "17"
@@ -4827,7 +4827,7 @@
   },
   {
     "id": 571,
-    "name": "Zoroark Default",
+    "name": "Zoroark",
     "region": "unova",
     "types": [
       "17"
@@ -4835,7 +4835,7 @@
   },
   {
     "id": 572,
-    "name": "Minccino Default",
+    "name": "Minccino",
     "region": "unova",
     "types": [
       "1"
@@ -4843,7 +4843,7 @@
   },
   {
     "id": 573,
-    "name": "Cinccino Default",
+    "name": "Cinccino",
     "region": "unova",
     "types": [
       "1"
@@ -4851,7 +4851,7 @@
   },
   {
     "id": 574,
-    "name": "Gothita Default",
+    "name": "Gothita",
     "region": "unova",
     "types": [
       "14"
@@ -4859,7 +4859,7 @@
   },
   {
     "id": 575,
-    "name": "Gothorita Default",
+    "name": "Gothorita",
     "region": "unova",
     "types": [
       "14"
@@ -4867,7 +4867,7 @@
   },
   {
     "id": 576,
-    "name": "Gothitelle Default",
+    "name": "Gothitelle",
     "region": "unova",
     "types": [
       "14"
@@ -4875,7 +4875,7 @@
   },
   {
     "id": 577,
-    "name": "Solosis Default",
+    "name": "Solosis",
     "region": "unova",
     "types": [
       "14"
@@ -4883,7 +4883,7 @@
   },
   {
     "id": 578,
-    "name": "Duosion Default",
+    "name": "Duosion",
     "region": "unova",
     "types": [
       "14"
@@ -4891,7 +4891,7 @@
   },
   {
     "id": 579,
-    "name": "Reuniclus Default",
+    "name": "Reuniclus",
     "region": "unova",
     "types": [
       "14"
@@ -4899,7 +4899,7 @@
   },
   {
     "id": 580,
-    "name": "Ducklett Default",
+    "name": "Ducklett",
     "region": "unova",
     "types": [
       "11",
@@ -4908,7 +4908,7 @@
   },
   {
     "id": 581,
-    "name": "Swanna Default",
+    "name": "Swanna",
     "region": "unova",
     "types": [
       "11",
@@ -4917,7 +4917,7 @@
   },
   {
     "id": 582,
-    "name": "Vanillite Default",
+    "name": "Vanillite",
     "region": "unova",
     "types": [
       "15"
@@ -4925,7 +4925,7 @@
   },
   {
     "id": 583,
-    "name": "Vanillish Default",
+    "name": "Vanillish",
     "region": "unova",
     "types": [
       "15"
@@ -4933,7 +4933,7 @@
   },
   {
     "id": 584,
-    "name": "Vanilluxe Default",
+    "name": "Vanilluxe",
     "region": "unova",
     "types": [
       "15"
@@ -4959,7 +4959,7 @@
   },
   {
     "id": 587,
-    "name": "Emolga Default",
+    "name": "Emolga",
     "region": "unova",
     "types": [
       "13",
@@ -4968,7 +4968,7 @@
   },
   {
     "id": 588,
-    "name": "Karrablast Default",
+    "name": "Karrablast",
     "region": "unova",
     "types": [
       "7"
@@ -4976,7 +4976,7 @@
   },
   {
     "id": 589,
-    "name": "Escavalier Default",
+    "name": "Escavalier",
     "region": "unova",
     "types": [
       "7",
@@ -4985,7 +4985,7 @@
   },
   {
     "id": 590,
-    "name": "Foongus Default",
+    "name": "Foongus",
     "region": "unova",
     "types": [
       "12",
@@ -4994,7 +4994,7 @@
   },
   {
     "id": 591,
-    "name": "Amoonguss Default",
+    "name": "Amoonguss",
     "region": "unova",
     "types": [
       "12",
@@ -5021,7 +5021,7 @@
   },
   {
     "id": 594,
-    "name": "Alomomola Default",
+    "name": "Alomomola",
     "region": "unova",
     "types": [
       "11"
@@ -5029,7 +5029,7 @@
   },
   {
     "id": 595,
-    "name": "Joltik Default",
+    "name": "Joltik",
     "region": "unova",
     "types": [
       "7",
@@ -5038,7 +5038,7 @@
   },
   {
     "id": 596,
-    "name": "Galvantula Default",
+    "name": "Galvantula",
     "region": "unova",
     "types": [
       "7",
@@ -5047,7 +5047,7 @@
   },
   {
     "id": 597,
-    "name": "Ferroseed Default",
+    "name": "Ferroseed",
     "region": "unova",
     "types": [
       "12",
@@ -5056,7 +5056,7 @@
   },
   {
     "id": 598,
-    "name": "Ferrothorn Default",
+    "name": "Ferrothorn",
     "region": "unova",
     "types": [
       "12",
@@ -5065,7 +5065,7 @@
   },
   {
     "id": 599,
-    "name": "Klink Default",
+    "name": "Klink",
     "region": "unova",
     "types": [
       "9"
@@ -5073,7 +5073,7 @@
   },
   {
     "id": 600,
-    "name": "Klang Default",
+    "name": "Klang",
     "region": "unova",
     "types": [
       "9"
@@ -5081,7 +5081,7 @@
   },
   {
     "id": 601,
-    "name": "Klinklang Default",
+    "name": "Klinklang",
     "region": "unova",
     "types": [
       "9"
@@ -5089,7 +5089,7 @@
   },
   {
     "id": 602,
-    "name": "Tynamo Default",
+    "name": "Tynamo",
     "region": "unova",
     "types": [
       "13"
@@ -5097,7 +5097,7 @@
   },
   {
     "id": 603,
-    "name": "Eelektrik Default",
+    "name": "Eelektrik",
     "region": "unova",
     "types": [
       "13"
@@ -5105,7 +5105,7 @@
   },
   {
     "id": 604,
-    "name": "Eelektross Default",
+    "name": "Eelektross",
     "region": "unova",
     "types": [
       "13"
@@ -5113,7 +5113,7 @@
   },
   {
     "id": 605,
-    "name": "Elgyem Default",
+    "name": "Elgyem",
     "region": "unova",
     "types": [
       "14"
@@ -5121,7 +5121,7 @@
   },
   {
     "id": 606,
-    "name": "Beheeyem Default",
+    "name": "Beheeyem",
     "region": "unova",
     "types": [
       "14"
@@ -5129,7 +5129,7 @@
   },
   {
     "id": 607,
-    "name": "Litwick Default",
+    "name": "Litwick",
     "region": "unova",
     "types": [
       "8",
@@ -5138,7 +5138,7 @@
   },
   {
     "id": 608,
-    "name": "Lampent Default",
+    "name": "Lampent",
     "region": "unova",
     "types": [
       "8",
@@ -5147,7 +5147,7 @@
   },
   {
     "id": 609,
-    "name": "Chandelure Default",
+    "name": "Chandelure",
     "region": "unova",
     "types": [
       "8",
@@ -5156,7 +5156,7 @@
   },
   {
     "id": 610,
-    "name": "Axew Default",
+    "name": "Axew",
     "region": "unova",
     "types": [
       "16"
@@ -5164,7 +5164,7 @@
   },
   {
     "id": 611,
-    "name": "Fraxure Default",
+    "name": "Fraxure",
     "region": "unova",
     "types": [
       "16"
@@ -5172,7 +5172,7 @@
   },
   {
     "id": 612,
-    "name": "Haxorus Default",
+    "name": "Haxorus",
     "region": "unova",
     "types": [
       "16"
@@ -5180,7 +5180,7 @@
   },
   {
     "id": 613,
-    "name": "Cubchoo Default",
+    "name": "Cubchoo",
     "region": "unova",
     "types": [
       "15"
@@ -5188,7 +5188,7 @@
   },
   {
     "id": 614,
-    "name": "Beartic Default",
+    "name": "Beartic",
     "region": "unova",
     "types": [
       "15"
@@ -5196,7 +5196,7 @@
   },
   {
     "id": 615,
-    "name": "Cryogonal Default",
+    "name": "Cryogonal",
     "region": "unova",
     "types": [
       "15"
@@ -5204,7 +5204,7 @@
   },
   {
     "id": 616,
-    "name": "Shelmet Default",
+    "name": "Shelmet",
     "region": "unova",
     "types": [
       "7"
@@ -5212,7 +5212,7 @@
   },
   {
     "id": 617,
-    "name": "Accelgor Default",
+    "name": "Accelgor",
     "region": "unova",
     "types": [
       "7"
@@ -5220,7 +5220,7 @@
   },
   {
     "id": 618,
-    "name": "Stunfisk Default",
+    "name": "Stunfisk",
     "region": "unova",
     "types": [
       "5",
@@ -5229,7 +5229,7 @@
   },
   {
     "id": 619,
-    "name": "Mienfoo Default",
+    "name": "Mienfoo",
     "region": "unova",
     "types": [
       "2"
@@ -5237,7 +5237,7 @@
   },
   {
     "id": 620,
-    "name": "Mienshao Default",
+    "name": "Mienshao",
     "region": "unova",
     "types": [
       "2"
@@ -5245,7 +5245,7 @@
   },
   {
     "id": 621,
-    "name": "Druddigon Default",
+    "name": "Druddigon",
     "region": "unova",
     "types": [
       "16"
@@ -5253,7 +5253,7 @@
   },
   {
     "id": 622,
-    "name": "Golett Default",
+    "name": "Golett",
     "region": "unova",
     "types": [
       "5",
@@ -5262,7 +5262,7 @@
   },
   {
     "id": 623,
-    "name": "Golurk Default",
+    "name": "Golurk",
     "region": "unova",
     "types": [
       "5",
@@ -5271,7 +5271,7 @@
   },
   {
     "id": 624,
-    "name": "Pawniard Default",
+    "name": "Pawniard",
     "region": "unova",
     "types": [
       "17",
@@ -5280,7 +5280,7 @@
   },
   {
     "id": 625,
-    "name": "Bisharp Default",
+    "name": "Bisharp",
     "region": "unova",
     "types": [
       "17",
@@ -5289,7 +5289,7 @@
   },
   {
     "id": 626,
-    "name": "Bouffalant Default",
+    "name": "Bouffalant",
     "region": "unova",
     "types": [
       "1"
@@ -5297,7 +5297,7 @@
   },
   {
     "id": 627,
-    "name": "Rufflet Default",
+    "name": "Rufflet",
     "region": "unova",
     "types": [
       "1",
@@ -5306,7 +5306,7 @@
   },
   {
     "id": 628,
-    "name": "Braviary Default",
+    "name": "Braviary",
     "region": "unova",
     "types": [
       "1",
@@ -5315,7 +5315,7 @@
   },
   {
     "id": 629,
-    "name": "Vullaby Default",
+    "name": "Vullaby",
     "region": "unova",
     "types": [
       "17",
@@ -5324,7 +5324,7 @@
   },
   {
     "id": 630,
-    "name": "Mandibuzz Default",
+    "name": "Mandibuzz",
     "region": "unova",
     "types": [
       "17",
@@ -5333,7 +5333,7 @@
   },
   {
     "id": 631,
-    "name": "Heatmor Default",
+    "name": "Heatmor",
     "region": "unova",
     "types": [
       "10"
@@ -5341,7 +5341,7 @@
   },
   {
     "id": 632,
-    "name": "Durant Default",
+    "name": "Durant",
     "region": "unova",
     "types": [
       "7",
@@ -5350,7 +5350,7 @@
   },
   {
     "id": 633,
-    "name": "Deino Default",
+    "name": "Deino",
     "region": "unova",
     "types": [
       "17",
@@ -5359,7 +5359,7 @@
   },
   {
     "id": 634,
-    "name": "Zweilous Default",
+    "name": "Zweilous",
     "region": "unova",
     "types": [
       "17",
@@ -5368,7 +5368,7 @@
   },
   {
     "id": 635,
-    "name": "Hydreigon Default",
+    "name": "Hydreigon",
     "region": "unova",
     "types": [
       "17",
@@ -5377,7 +5377,7 @@
   },
   {
     "id": 636,
-    "name": "Larvesta Default",
+    "name": "Larvesta",
     "region": "unova",
     "types": [
       "7",
@@ -5386,7 +5386,7 @@
   },
   {
     "id": 637,
-    "name": "Volcarona Default",
+    "name": "Volcarona",
     "region": "unova",
     "types": [
       "7",
@@ -5395,7 +5395,7 @@
   },
   {
     "id": 638,
-    "name": "Cobalion Default",
+    "name": "Cobalion",
     "region": "unova",
     "types": [
       "9",
@@ -5404,7 +5404,7 @@
   },
   {
     "id": 639,
-    "name": "Terrakion Default",
+    "name": "Terrakion",
     "region": "unova",
     "types": [
       "6",
@@ -5413,7 +5413,7 @@
   },
   {
     "id": 640,
-    "name": "Virizion Default",
+    "name": "Virizion",
     "region": "unova",
     "types": [
       "12",
@@ -5439,7 +5439,7 @@
   },
   {
     "id": 643,
-    "name": "Reshiram Default",
+    "name": "Reshiram",
     "region": "unova",
     "types": [
       "16",
@@ -5448,7 +5448,7 @@
   },
   {
     "id": 644,
-    "name": "Zekrom Default",
+    "name": "Zekrom",
     "region": "unova",
     "types": [
       "16",
@@ -5466,7 +5466,7 @@
   },
   {
     "id": 646,
-    "name": "Kyurem Default",
+    "name": "Kyurem",
     "region": "unova",
     "types": [
       "16",
@@ -5493,7 +5493,7 @@
   },
   {
     "id": 649,
-    "name": "Genesect Default",
+    "name": "Genesect",
     "region": "unova",
     "types": [
       "7",
@@ -5502,7 +5502,7 @@
   },
   {
     "id": 650,
-    "name": "Chespin Default",
+    "name": "Chespin",
     "region": "kalos",
     "types": [
       "12"
@@ -5510,7 +5510,7 @@
   },
   {
     "id": 651,
-    "name": "Quilladin Default",
+    "name": "Quilladin",
     "region": "kalos",
     "types": [
       "12"
@@ -5518,7 +5518,7 @@
   },
   {
     "id": 652,
-    "name": "Chesnaught Default",
+    "name": "Chesnaught",
     "region": "kalos",
     "types": [
       "12",
@@ -5527,7 +5527,7 @@
   },
   {
     "id": 653,
-    "name": "Fennekin Default",
+    "name": "Fennekin",
     "region": "kalos",
     "types": [
       "10"
@@ -5535,7 +5535,7 @@
   },
   {
     "id": 654,
-    "name": "Braixen Default",
+    "name": "Braixen",
     "region": "kalos",
     "types": [
       "10"
@@ -5543,7 +5543,7 @@
   },
   {
     "id": 655,
-    "name": "Delphox Default",
+    "name": "Delphox",
     "region": "kalos",
     "types": [
       "10",
@@ -5552,7 +5552,7 @@
   },
   {
     "id": 656,
-    "name": "Froakie Default",
+    "name": "Froakie",
     "region": "kalos",
     "types": [
       "11"
@@ -5560,7 +5560,7 @@
   },
   {
     "id": 657,
-    "name": "Frogadier Default",
+    "name": "Frogadier",
     "region": "kalos",
     "types": [
       "11"
@@ -5568,7 +5568,7 @@
   },
   {
     "id": 658,
-    "name": "Greninja Default",
+    "name": "Greninja",
     "region": "kalos",
     "types": [
       "11",
@@ -5577,7 +5577,7 @@
   },
   {
     "id": 659,
-    "name": "Bunnelby Default",
+    "name": "Bunnelby",
     "region": "kalos",
     "types": [
       "1"
@@ -5585,7 +5585,7 @@
   },
   {
     "id": 660,
-    "name": "Diggersby Default",
+    "name": "Diggersby",
     "region": "kalos",
     "types": [
       "1",
@@ -5594,7 +5594,7 @@
   },
   {
     "id": 661,
-    "name": "Fletchling Default",
+    "name": "Fletchling",
     "region": "kalos",
     "types": [
       "1",
@@ -5603,7 +5603,7 @@
   },
   {
     "id": 662,
-    "name": "Fletchinder Default",
+    "name": "Fletchinder",
     "region": "kalos",
     "types": [
       "10",
@@ -5612,7 +5612,7 @@
   },
   {
     "id": 663,
-    "name": "Talonflame Default",
+    "name": "Talonflame",
     "region": "kalos",
     "types": [
       "10",
@@ -5621,7 +5621,7 @@
   },
   {
     "id": 664,
-    "name": "Scatterbug Default",
+    "name": "Scatterbug",
     "region": "kalos",
     "types": [
       "7"
@@ -5629,7 +5629,7 @@
   },
   {
     "id": 665,
-    "name": "Spewpa Default",
+    "name": "Spewpa",
     "region": "kalos",
     "types": [
       "7"
@@ -5646,7 +5646,7 @@
   },
   {
     "id": 667,
-    "name": "Litleo Default",
+    "name": "Litleo",
     "region": "kalos",
     "types": [
       "10",
@@ -5688,7 +5688,7 @@
   },
   {
     "id": 672,
-    "name": "Skiddo Default",
+    "name": "Skiddo",
     "region": "kalos",
     "types": [
       "12"
@@ -5696,7 +5696,7 @@
   },
   {
     "id": 673,
-    "name": "Gogoat Default",
+    "name": "Gogoat",
     "region": "kalos",
     "types": [
       "12"
@@ -5704,7 +5704,7 @@
   },
   {
     "id": 674,
-    "name": "Pancham Default",
+    "name": "Pancham",
     "region": "kalos",
     "types": [
       "2"
@@ -5712,7 +5712,7 @@
   },
   {
     "id": 675,
-    "name": "Pangoro Default",
+    "name": "Pangoro",
     "region": "kalos",
     "types": [
       "2",
@@ -5729,7 +5729,7 @@
   },
   {
     "id": 677,
-    "name": "Espurr Default",
+    "name": "Espurr",
     "region": "kalos",
     "types": [
       "14"
@@ -5745,7 +5745,7 @@
   },
   {
     "id": 679,
-    "name": "Honedge Default",
+    "name": "Honedge",
     "region": "kalos",
     "types": [
       "9",
@@ -5754,7 +5754,7 @@
   },
   {
     "id": 680,
-    "name": "Doublade Default",
+    "name": "Doublade",
     "region": "kalos",
     "types": [
       "9",
@@ -5772,7 +5772,7 @@
   },
   {
     "id": 682,
-    "name": "Spritzee Default",
+    "name": "Spritzee",
     "region": "kalos",
     "types": [
       "18"
@@ -5780,7 +5780,7 @@
   },
   {
     "id": 683,
-    "name": "Aromatisse Default",
+    "name": "Aromatisse",
     "region": "kalos",
     "types": [
       "18"
@@ -5788,7 +5788,7 @@
   },
   {
     "id": 684,
-    "name": "Swirlix Default",
+    "name": "Swirlix",
     "region": "kalos",
     "types": [
       "18"
@@ -5796,7 +5796,7 @@
   },
   {
     "id": 685,
-    "name": "Slurpuff Default",
+    "name": "Slurpuff",
     "region": "kalos",
     "types": [
       "18"
@@ -5804,7 +5804,7 @@
   },
   {
     "id": 686,
-    "name": "Inkay Default",
+    "name": "Inkay",
     "region": "kalos",
     "types": [
       "17",
@@ -5813,7 +5813,7 @@
   },
   {
     "id": 687,
-    "name": "Malamar Default",
+    "name": "Malamar",
     "region": "kalos",
     "types": [
       "17",
@@ -5822,7 +5822,7 @@
   },
   {
     "id": 688,
-    "name": "Binacle Default",
+    "name": "Binacle",
     "region": "kalos",
     "types": [
       "6",
@@ -5831,7 +5831,7 @@
   },
   {
     "id": 689,
-    "name": "Barbaracle Default",
+    "name": "Barbaracle",
     "region": "kalos",
     "types": [
       "6",
@@ -5840,7 +5840,7 @@
   },
   {
     "id": 690,
-    "name": "Skrelp Default",
+    "name": "Skrelp",
     "region": "kalos",
     "types": [
       "4",
@@ -5849,7 +5849,7 @@
   },
   {
     "id": 691,
-    "name": "Dragalge Default",
+    "name": "Dragalge",
     "region": "kalos",
     "types": [
       "4",
@@ -5858,7 +5858,7 @@
   },
   {
     "id": 692,
-    "name": "Clauncher Default",
+    "name": "Clauncher",
     "region": "kalos",
     "types": [
       "11"
@@ -5866,7 +5866,7 @@
   },
   {
     "id": 693,
-    "name": "Clawitzer Default",
+    "name": "Clawitzer",
     "region": "kalos",
     "types": [
       "11"
@@ -5874,7 +5874,7 @@
   },
   {
     "id": 694,
-    "name": "Helioptile Default",
+    "name": "Helioptile",
     "region": "kalos",
     "types": [
       "13",
@@ -5883,7 +5883,7 @@
   },
   {
     "id": 695,
-    "name": "Heliolisk Default",
+    "name": "Heliolisk",
     "region": "kalos",
     "types": [
       "13",
@@ -5892,7 +5892,7 @@
   },
   {
     "id": 696,
-    "name": "Tyrunt Default",
+    "name": "Tyrunt",
     "region": "kalos",
     "types": [
       "6",
@@ -5901,7 +5901,7 @@
   },
   {
     "id": 697,
-    "name": "Tyrantrum Default",
+    "name": "Tyrantrum",
     "region": "kalos",
     "types": [
       "6",
@@ -5910,7 +5910,7 @@
   },
   {
     "id": 698,
-    "name": "Amaura Default",
+    "name": "Amaura",
     "region": "kalos",
     "types": [
       "6",
@@ -5919,7 +5919,7 @@
   },
   {
     "id": 699,
-    "name": "Aurorus Default",
+    "name": "Aurorus",
     "region": "kalos",
     "types": [
       "6",
@@ -5928,7 +5928,7 @@
   },
   {
     "id": 700,
-    "name": "Sylveon Default",
+    "name": "Sylveon",
     "region": "kalos",
     "types": [
       "18"
@@ -5936,7 +5936,7 @@
   },
   {
     "id": 701,
-    "name": "Hawlucha Default",
+    "name": "Hawlucha",
     "region": "kalos",
     "types": [
       "2",
@@ -5945,7 +5945,7 @@
   },
   {
     "id": 702,
-    "name": "Dedenne Default",
+    "name": "Dedenne",
     "region": "kalos",
     "types": [
       "13",
@@ -5954,7 +5954,7 @@
   },
   {
     "id": 703,
-    "name": "Carbink Default",
+    "name": "Carbink",
     "region": "kalos",
     "types": [
       "6",
@@ -5963,7 +5963,7 @@
   },
   {
     "id": 704,
-    "name": "Goomy Default",
+    "name": "Goomy",
     "region": "kalos",
     "types": [
       "16"
@@ -5971,7 +5971,7 @@
   },
   {
     "id": 705,
-    "name": "Sliggoo Default",
+    "name": "Sliggoo",
     "region": "kalos",
     "types": [
       "16"
@@ -5988,7 +5988,7 @@
   },
   {
     "id": 707,
-    "name": "Klefki Default",
+    "name": "Klefki",
     "region": "kalos",
     "types": [
       "9",
@@ -5997,7 +5997,7 @@
   },
   {
     "id": 708,
-    "name": "Phantump Default",
+    "name": "Phantump",
     "region": "kalos",
     "types": [
       "8",
@@ -6006,7 +6006,7 @@
   },
   {
     "id": 709,
-    "name": "Trevenant Default",
+    "name": "Trevenant",
     "region": "kalos",
     "types": [
       "8",
@@ -6033,7 +6033,7 @@
   },
   {
     "id": 712,
-    "name": "Bergmite Default",
+    "name": "Bergmite",
     "region": "kalos",
     "types": [
       "15"
@@ -6041,7 +6041,7 @@
   },
   {
     "id": 713,
-    "name": "Avalugg Default",
+    "name": "Avalugg",
     "region": "kalos",
     "types": [
       "15"
@@ -6049,7 +6049,7 @@
   },
   {
     "id": 714,
-    "name": "Noibat Default",
+    "name": "Noibat",
     "region": "kalos",
     "types": [
       "3",
@@ -6058,7 +6058,7 @@
   },
   {
     "id": 715,
-    "name": "Noivern Default",
+    "name": "Noivern",
     "region": "kalos",
     "types": [
       "3",
@@ -6075,7 +6075,7 @@
   },
   {
     "id": 717,
-    "name": "Yveltal Default",
+    "name": "Yveltal",
     "region": "kalos",
     "types": [
       "17",
@@ -6093,7 +6093,7 @@
   },
   {
     "id": 719,
-    "name": "Diancie Default",
+    "name": "Diancie",
     "region": "kalos",
     "types": [
       "6",
@@ -6111,7 +6111,7 @@
   },
   {
     "id": 721,
-    "name": "Volcanion Default",
+    "name": "Volcanion",
     "region": "kalos",
     "types": [
       "10",
@@ -6120,7 +6120,7 @@
   },
   {
     "id": 722,
-    "name": "Rowlet Default",
+    "name": "Rowlet",
     "region": "alola",
     "types": [
       "12",
@@ -6129,7 +6129,7 @@
   },
   {
     "id": 723,
-    "name": "Dartrix Default",
+    "name": "Dartrix",
     "region": "alola",
     "types": [
       "12",
@@ -6138,7 +6138,7 @@
   },
   {
     "id": 724,
-    "name": "Decidueye Default",
+    "name": "Decidueye",
     "region": "alola",
     "types": [
       "12",
@@ -6147,7 +6147,7 @@
   },
   {
     "id": 725,
-    "name": "Litten Default",
+    "name": "Litten",
     "region": "alola",
     "types": [
       "10"
@@ -6155,7 +6155,7 @@
   },
   {
     "id": 726,
-    "name": "Torracat Default",
+    "name": "Torracat",
     "region": "alola",
     "types": [
       "10"
@@ -6163,7 +6163,7 @@
   },
   {
     "id": 727,
-    "name": "Incineroar Default",
+    "name": "Incineroar",
     "region": "alola",
     "types": [
       "10",
@@ -6172,7 +6172,7 @@
   },
   {
     "id": 728,
-    "name": "Popplio Default",
+    "name": "Popplio",
     "region": "alola",
     "types": [
       "11"
@@ -6180,7 +6180,7 @@
   },
   {
     "id": 729,
-    "name": "Brionne Default",
+    "name": "Brionne",
     "region": "alola",
     "types": [
       "11"
@@ -6188,7 +6188,7 @@
   },
   {
     "id": 730,
-    "name": "Primarina Default",
+    "name": "Primarina",
     "region": "alola",
     "types": [
       "11",
@@ -6197,7 +6197,7 @@
   },
   {
     "id": 731,
-    "name": "Pikipek Default",
+    "name": "Pikipek",
     "region": "alola",
     "types": [
       "1",
@@ -6206,7 +6206,7 @@
   },
   {
     "id": 732,
-    "name": "Trumbeak Default",
+    "name": "Trumbeak",
     "region": "alola",
     "types": [
       "1",
@@ -6215,7 +6215,7 @@
   },
   {
     "id": 733,
-    "name": "Toucannon Default",
+    "name": "Toucannon",
     "region": "alola",
     "types": [
       "1",
@@ -6224,7 +6224,7 @@
   },
   {
     "id": 734,
-    "name": "Yungoos Default",
+    "name": "Yungoos",
     "region": "alola",
     "types": [
       "1"
@@ -6232,7 +6232,7 @@
   },
   {
     "id": 735,
-    "name": "Gumshoos Default",
+    "name": "Gumshoos",
     "region": "alola",
     "types": [
       "1"
@@ -6240,7 +6240,7 @@
   },
   {
     "id": 736,
-    "name": "Grubbin Default",
+    "name": "Grubbin",
     "region": "alola",
     "types": [
       "7"
@@ -6248,7 +6248,7 @@
   },
   {
     "id": 737,
-    "name": "Charjabug Default",
+    "name": "Charjabug",
     "region": "alola",
     "types": [
       "7",
@@ -6257,7 +6257,7 @@
   },
   {
     "id": 738,
-    "name": "Vikavolt Default",
+    "name": "Vikavolt",
     "region": "alola",
     "types": [
       "7",
@@ -6266,7 +6266,7 @@
   },
   {
     "id": 739,
-    "name": "Crabrawler Default",
+    "name": "Crabrawler",
     "region": "alola",
     "types": [
       "2"
@@ -6274,7 +6274,7 @@
   },
   {
     "id": 740,
-    "name": "Crabominable Default",
+    "name": "Crabominable",
     "region": "alola",
     "types": [
       "2",
@@ -6292,7 +6292,7 @@
   },
   {
     "id": 742,
-    "name": "Cutiefly Default",
+    "name": "Cutiefly",
     "region": "alola",
     "types": [
       "7",
@@ -6301,7 +6301,7 @@
   },
   {
     "id": 743,
-    "name": "Ribombee Default",
+    "name": "Ribombee",
     "region": "alola",
     "types": [
       "7",
@@ -6310,7 +6310,7 @@
   },
   {
     "id": 744,
-    "name": "Rockruff Default",
+    "name": "Rockruff",
     "region": "alola",
     "types": [
       "6"
@@ -6334,7 +6334,7 @@
   },
   {
     "id": 747,
-    "name": "Mareanie Default",
+    "name": "Mareanie",
     "region": "alola",
     "types": [
       "4",
@@ -6343,7 +6343,7 @@
   },
   {
     "id": 748,
-    "name": "Toxapex Default",
+    "name": "Toxapex",
     "region": "alola",
     "types": [
       "4",
@@ -6352,7 +6352,7 @@
   },
   {
     "id": 749,
-    "name": "Mudbray Default",
+    "name": "Mudbray",
     "region": "alola",
     "types": [
       "5"
@@ -6360,7 +6360,7 @@
   },
   {
     "id": 750,
-    "name": "Mudsdale Default",
+    "name": "Mudsdale",
     "region": "alola",
     "types": [
       "5"
@@ -6368,7 +6368,7 @@
   },
   {
     "id": 751,
-    "name": "Dewpider Default",
+    "name": "Dewpider",
     "region": "alola",
     "types": [
       "11",
@@ -6377,7 +6377,7 @@
   },
   {
     "id": 752,
-    "name": "Araquanid Default",
+    "name": "Araquanid",
     "region": "alola",
     "types": [
       "11",
@@ -6386,7 +6386,7 @@
   },
   {
     "id": 753,
-    "name": "Fomantis Default",
+    "name": "Fomantis",
     "region": "alola",
     "types": [
       "12"
@@ -6394,7 +6394,7 @@
   },
   {
     "id": 754,
-    "name": "Lurantis Default",
+    "name": "Lurantis",
     "region": "alola",
     "types": [
       "12"
@@ -6402,7 +6402,7 @@
   },
   {
     "id": 755,
-    "name": "Morelull Default",
+    "name": "Morelull",
     "region": "alola",
     "types": [
       "12",
@@ -6411,7 +6411,7 @@
   },
   {
     "id": 756,
-    "name": "Shiinotic Default",
+    "name": "Shiinotic",
     "region": "alola",
     "types": [
       "12",
@@ -6420,7 +6420,7 @@
   },
   {
     "id": 757,
-    "name": "Salandit Default",
+    "name": "Salandit",
     "region": "alola",
     "types": [
       "4",
@@ -6429,7 +6429,7 @@
   },
   {
     "id": 758,
-    "name": "Salazzle Default",
+    "name": "Salazzle",
     "region": "alola",
     "types": [
       "4",
@@ -6438,7 +6438,7 @@
   },
   {
     "id": 759,
-    "name": "Stufful Default",
+    "name": "Stufful",
     "region": "alola",
     "types": [
       "1",
@@ -6447,7 +6447,7 @@
   },
   {
     "id": 760,
-    "name": "Bewear Default",
+    "name": "Bewear",
     "region": "alola",
     "types": [
       "1",
@@ -6456,7 +6456,7 @@
   },
   {
     "id": 761,
-    "name": "Bounsweet Default",
+    "name": "Bounsweet",
     "region": "alola",
     "types": [
       "12"
@@ -6464,7 +6464,7 @@
   },
   {
     "id": 762,
-    "name": "Steenee Default",
+    "name": "Steenee",
     "region": "alola",
     "types": [
       "12"
@@ -6472,7 +6472,7 @@
   },
   {
     "id": 763,
-    "name": "Tsareena Default",
+    "name": "Tsareena",
     "region": "alola",
     "types": [
       "12"
@@ -6480,7 +6480,7 @@
   },
   {
     "id": 764,
-    "name": "Comfey Default",
+    "name": "Comfey",
     "region": "alola",
     "types": [
       "18"
@@ -6488,7 +6488,7 @@
   },
   {
     "id": 765,
-    "name": "Oranguru Default",
+    "name": "Oranguru",
     "region": "alola",
     "types": [
       "1",
@@ -6497,7 +6497,7 @@
   },
   {
     "id": 766,
-    "name": "Passimian Default",
+    "name": "Passimian",
     "region": "alola",
     "types": [
       "2"
@@ -6505,7 +6505,7 @@
   },
   {
     "id": 767,
-    "name": "Wimpod Default",
+    "name": "Wimpod",
     "region": "alola",
     "types": [
       "7",
@@ -6514,7 +6514,7 @@
   },
   {
     "id": 768,
-    "name": "Golisopod Default",
+    "name": "Golisopod",
     "region": "alola",
     "types": [
       "7",
@@ -6523,7 +6523,7 @@
   },
   {
     "id": 769,
-    "name": "Sandygast Default",
+    "name": "Sandygast",
     "region": "alola",
     "types": [
       "8",
@@ -6532,7 +6532,7 @@
   },
   {
     "id": 770,
-    "name": "Palossand Default",
+    "name": "Palossand",
     "region": "alola",
     "types": [
       "8",
@@ -6541,7 +6541,7 @@
   },
   {
     "id": 771,
-    "name": "Pyukumuku Default",
+    "name": "Pyukumuku",
     "region": "alola",
     "types": [
       "11"
@@ -6549,7 +6549,7 @@
   },
   {
     "id": 772,
-    "name": "Type Null Default",
+    "name": "Type Null",
     "region": "alola",
     "types": [
       "1"
@@ -6557,7 +6557,7 @@
   },
   {
     "id": 773,
-    "name": "Silvally Default",
+    "name": "Silvally",
     "region": "alola",
     "types": [
       "1"
@@ -6574,7 +6574,7 @@
   },
   {
     "id": 775,
-    "name": "Komala Default",
+    "name": "Komala",
     "region": "alola",
     "types": [
       "1"
@@ -6582,7 +6582,7 @@
   },
   {
     "id": 776,
-    "name": "Turtonator Default",
+    "name": "Turtonator",
     "region": "alola",
     "types": [
       "10",
@@ -6591,7 +6591,7 @@
   },
   {
     "id": 777,
-    "name": "Togedemaru Default",
+    "name": "Togedemaru",
     "region": "alola",
     "types": [
       "13",
@@ -6609,7 +6609,7 @@
   },
   {
     "id": 779,
-    "name": "Bruxish Default",
+    "name": "Bruxish",
     "region": "alola",
     "types": [
       "11",
@@ -6618,7 +6618,7 @@
   },
   {
     "id": 780,
-    "name": "Drampa Default",
+    "name": "Drampa",
     "region": "alola",
     "types": [
       "1",
@@ -6627,7 +6627,7 @@
   },
   {
     "id": 781,
-    "name": "Dhelmise Default",
+    "name": "Dhelmise",
     "region": "alola",
     "types": [
       "8",
@@ -6636,7 +6636,7 @@
   },
   {
     "id": 782,
-    "name": "Jangmo O Default",
+    "name": "Jangmo O",
     "region": "alola",
     "types": [
       "16"
@@ -6644,7 +6644,7 @@
   },
   {
     "id": 783,
-    "name": "Hakamo O Default",
+    "name": "Hakamo O",
     "region": "alola",
     "types": [
       "16",
@@ -6653,7 +6653,7 @@
   },
   {
     "id": 784,
-    "name": "Kommo O Default",
+    "name": "Kommo O",
     "region": "alola",
     "types": [
       "16",
@@ -6662,7 +6662,7 @@
   },
   {
     "id": 785,
-    "name": "Tapu Koko Default",
+    "name": "Tapu Koko",
     "region": "alola",
     "types": [
       "13",
@@ -6671,7 +6671,7 @@
   },
   {
     "id": 786,
-    "name": "Tapu Lele Default",
+    "name": "Tapu Lele",
     "region": "alola",
     "types": [
       "14",
@@ -6680,7 +6680,7 @@
   },
   {
     "id": 787,
-    "name": "Tapu Bulu Default",
+    "name": "Tapu Bulu",
     "region": "alola",
     "types": [
       "12",
@@ -6689,7 +6689,7 @@
   },
   {
     "id": 788,
-    "name": "Tapu Fini Default",
+    "name": "Tapu Fini",
     "region": "alola",
     "types": [
       "11",
@@ -6698,7 +6698,7 @@
   },
   {
     "id": 789,
-    "name": "Cosmog Default",
+    "name": "Cosmog",
     "region": "alola",
     "types": [
       "14"
@@ -6706,7 +6706,7 @@
   },
   {
     "id": 790,
-    "name": "Cosmoem Default",
+    "name": "Cosmoem",
     "region": "alola",
     "types": [
       "14"
@@ -6714,7 +6714,7 @@
   },
   {
     "id": 791,
-    "name": "Solgaleo Default",
+    "name": "Solgaleo",
     "region": "alola",
     "types": [
       "14",
@@ -6723,7 +6723,7 @@
   },
   {
     "id": 792,
-    "name": "Lunala Default",
+    "name": "Lunala",
     "region": "alola",
     "types": [
       "14",
@@ -6732,7 +6732,7 @@
   },
   {
     "id": 793,
-    "name": "Nihilego Default",
+    "name": "Nihilego",
     "region": "alola",
     "types": [
       "6",
@@ -6741,7 +6741,7 @@
   },
   {
     "id": 794,
-    "name": "Buzzwole Default",
+    "name": "Buzzwole",
     "region": "alola",
     "types": [
       "7",
@@ -6750,7 +6750,7 @@
   },
   {
     "id": 795,
-    "name": "Pheromosa Default",
+    "name": "Pheromosa",
     "region": "alola",
     "types": [
       "7",
@@ -6759,7 +6759,7 @@
   },
   {
     "id": 796,
-    "name": "Xurkitree Default",
+    "name": "Xurkitree",
     "region": "alola",
     "types": [
       "13"
@@ -6767,7 +6767,7 @@
   },
   {
     "id": 797,
-    "name": "Celesteela Default",
+    "name": "Celesteela",
     "region": "alola",
     "types": [
       "9",
@@ -6776,7 +6776,7 @@
   },
   {
     "id": 798,
-    "name": "Kartana Default",
+    "name": "Kartana",
     "region": "alola",
     "types": [
       "12",
@@ -6785,7 +6785,7 @@
   },
   {
     "id": 799,
-    "name": "Guzzlord Default",
+    "name": "Guzzlord",
     "region": "alola",
     "types": [
       "17",
@@ -6794,7 +6794,7 @@
   },
   {
     "id": 800,
-    "name": "Necrozma Default",
+    "name": "Necrozma",
     "region": "alola",
     "types": [
       "14"
@@ -6802,7 +6802,7 @@
   },
   {
     "id": 801,
-    "name": "Magearna Default",
+    "name": "Magearna",
     "region": "alola",
     "types": [
       "9",
@@ -6811,7 +6811,7 @@
   },
   {
     "id": 802,
-    "name": "Marshadow Default",
+    "name": "Marshadow",
     "region": "alola",
     "types": [
       "2",
@@ -6820,7 +6820,7 @@
   },
   {
     "id": 803,
-    "name": "Poipole Default",
+    "name": "Poipole",
     "region": "alola",
     "types": [
       "4"
@@ -6828,7 +6828,7 @@
   },
   {
     "id": 804,
-    "name": "Naganadel Default",
+    "name": "Naganadel",
     "region": "alola",
     "types": [
       "4",
@@ -6837,7 +6837,7 @@
   },
   {
     "id": 805,
-    "name": "Stakataka Default",
+    "name": "Stakataka",
     "region": "alola",
     "types": [
       "6",
@@ -6846,7 +6846,7 @@
   },
   {
     "id": 806,
-    "name": "Blacephalon Default",
+    "name": "Blacephalon",
     "region": "alola",
     "types": [
       "10",
@@ -6855,7 +6855,7 @@
   },
   {
     "id": 807,
-    "name": "Zeraora Default",
+    "name": "Zeraora",
     "region": "alola",
     "types": [
       "13"
@@ -6863,7 +6863,7 @@
   },
   {
     "id": 808,
-    "name": "Meltan Default",
+    "name": "Meltan",
     "region": "alola",
     "types": [
       "9"
@@ -6871,7 +6871,7 @@
   },
   {
     "id": 809,
-    "name": "Melmetal Default",
+    "name": "Melmetal",
     "region": "alola",
     "types": [
       "9"
@@ -6879,7 +6879,7 @@
   },
   {
     "id": 810,
-    "name": "Grookey Default",
+    "name": "Grookey",
     "region": "galar",
     "types": [
       "12"
@@ -6887,7 +6887,7 @@
   },
   {
     "id": 811,
-    "name": "Thwackey Default",
+    "name": "Thwackey",
     "region": "galar",
     "types": [
       "12"
@@ -6895,7 +6895,7 @@
   },
   {
     "id": 812,
-    "name": "Rillaboom Default",
+    "name": "Rillaboom",
     "region": "galar",
     "types": [
       "12"
@@ -6903,7 +6903,7 @@
   },
   {
     "id": 813,
-    "name": "Scorbunny Default",
+    "name": "Scorbunny",
     "region": "galar",
     "types": [
       "10"
@@ -6911,7 +6911,7 @@
   },
   {
     "id": 814,
-    "name": "Raboot Default",
+    "name": "Raboot",
     "region": "galar",
     "types": [
       "10"
@@ -6919,7 +6919,7 @@
   },
   {
     "id": 815,
-    "name": "Cinderace Default",
+    "name": "Cinderace",
     "region": "galar",
     "types": [
       "10"
@@ -6927,7 +6927,7 @@
   },
   {
     "id": 816,
-    "name": "Sobble Default",
+    "name": "Sobble",
     "region": "galar",
     "types": [
       "11"
@@ -6935,7 +6935,7 @@
   },
   {
     "id": 817,
-    "name": "Drizzile Default",
+    "name": "Drizzile",
     "region": "galar",
     "types": [
       "11"
@@ -6943,7 +6943,7 @@
   },
   {
     "id": 818,
-    "name": "Inteleon Default",
+    "name": "Inteleon",
     "region": "galar",
     "types": [
       "11"
@@ -6951,7 +6951,7 @@
   },
   {
     "id": 819,
-    "name": "Skwovet Default",
+    "name": "Skwovet",
     "region": "galar",
     "types": [
       "1"
@@ -6959,7 +6959,7 @@
   },
   {
     "id": 820,
-    "name": "Greedent Default",
+    "name": "Greedent",
     "region": "galar",
     "types": [
       "1"
@@ -6967,7 +6967,7 @@
   },
   {
     "id": 821,
-    "name": "Rookidee Default",
+    "name": "Rookidee",
     "region": "galar",
     "types": [
       "3"
@@ -6975,7 +6975,7 @@
   },
   {
     "id": 822,
-    "name": "Corvisquire Default",
+    "name": "Corvisquire",
     "region": "galar",
     "types": [
       "3"
@@ -6983,7 +6983,7 @@
   },
   {
     "id": 823,
-    "name": "Corviknight Default",
+    "name": "Corviknight",
     "region": "galar",
     "types": [
       "3",
@@ -6992,7 +6992,7 @@
   },
   {
     "id": 824,
-    "name": "Blipbug Default",
+    "name": "Blipbug",
     "region": "galar",
     "types": [
       "7"
@@ -7000,7 +7000,7 @@
   },
   {
     "id": 825,
-    "name": "Dottler Default",
+    "name": "Dottler",
     "region": "galar",
     "types": [
       "7",
@@ -7009,7 +7009,7 @@
   },
   {
     "id": 826,
-    "name": "Orbeetle Default",
+    "name": "Orbeetle",
     "region": "galar",
     "types": [
       "7",
@@ -7018,7 +7018,7 @@
   },
   {
     "id": 827,
-    "name": "Nickit Default",
+    "name": "Nickit",
     "region": "galar",
     "types": [
       "17"
@@ -7026,7 +7026,7 @@
   },
   {
     "id": 828,
-    "name": "Thievul Default",
+    "name": "Thievul",
     "region": "galar",
     "types": [
       "17"
@@ -7034,7 +7034,7 @@
   },
   {
     "id": 829,
-    "name": "Gossifleur Default",
+    "name": "Gossifleur",
     "region": "galar",
     "types": [
       "12"
@@ -7042,7 +7042,7 @@
   },
   {
     "id": 830,
-    "name": "Eldegoss Default",
+    "name": "Eldegoss",
     "region": "galar",
     "types": [
       "12"
@@ -7050,7 +7050,7 @@
   },
   {
     "id": 831,
-    "name": "Wooloo Default",
+    "name": "Wooloo",
     "region": "galar",
     "types": [
       "1"
@@ -7058,7 +7058,7 @@
   },
   {
     "id": 832,
-    "name": "Dubwool Default",
+    "name": "Dubwool",
     "region": "galar",
     "types": [
       "1"
@@ -7066,7 +7066,7 @@
   },
   {
     "id": 833,
-    "name": "Chewtle Default",
+    "name": "Chewtle",
     "region": "galar",
     "types": [
       "11"
@@ -7074,7 +7074,7 @@
   },
   {
     "id": 834,
-    "name": "Drednaw Default",
+    "name": "Drednaw",
     "region": "galar",
     "types": [
       "11",
@@ -7083,7 +7083,7 @@
   },
   {
     "id": 835,
-    "name": "Yamper Default",
+    "name": "Yamper",
     "region": "galar",
     "types": [
       "13"
@@ -7091,7 +7091,7 @@
   },
   {
     "id": 836,
-    "name": "Boltund Default",
+    "name": "Boltund",
     "region": "galar",
     "types": [
       "13"
@@ -7099,7 +7099,7 @@
   },
   {
     "id": 837,
-    "name": "Rolycoly Default",
+    "name": "Rolycoly",
     "region": "galar",
     "types": [
       "6"
@@ -7107,7 +7107,7 @@
   },
   {
     "id": 838,
-    "name": "Carkol Default",
+    "name": "Carkol",
     "region": "galar",
     "types": [
       "6",
@@ -7116,7 +7116,7 @@
   },
   {
     "id": 839,
-    "name": "Coalossal Default",
+    "name": "Coalossal",
     "region": "galar",
     "types": [
       "6",
@@ -7125,7 +7125,7 @@
   },
   {
     "id": 840,
-    "name": "Applin Default",
+    "name": "Applin",
     "region": "galar",
     "types": [
       "12",
@@ -7134,7 +7134,7 @@
   },
   {
     "id": 841,
-    "name": "Flapple Default",
+    "name": "Flapple",
     "region": "galar",
     "types": [
       "12",
@@ -7143,7 +7143,7 @@
   },
   {
     "id": 842,
-    "name": "Appletun Default",
+    "name": "Appletun",
     "region": "galar",
     "types": [
       "12",
@@ -7152,7 +7152,7 @@
   },
   {
     "id": 843,
-    "name": "Silicobra Default",
+    "name": "Silicobra",
     "region": "galar",
     "types": [
       "5"
@@ -7160,7 +7160,7 @@
   },
   {
     "id": 844,
-    "name": "Sandaconda Default",
+    "name": "Sandaconda",
     "region": "galar",
     "types": [
       "5"
@@ -7168,7 +7168,7 @@
   },
   {
     "id": 845,
-    "name": "Cramorant Default",
+    "name": "Cramorant",
     "region": "galar",
     "types": [
       "3",
@@ -7177,7 +7177,7 @@
   },
   {
     "id": 846,
-    "name": "Arrokuda Default",
+    "name": "Arrokuda",
     "region": "galar",
     "types": [
       "11"
@@ -7185,7 +7185,7 @@
   },
   {
     "id": 847,
-    "name": "Barraskewda Default",
+    "name": "Barraskewda",
     "region": "galar",
     "types": [
       "11"
@@ -7193,7 +7193,7 @@
   },
   {
     "id": 848,
-    "name": "Toxel Default",
+    "name": "Toxel",
     "region": "galar",
     "types": [
       "13",
@@ -7211,7 +7211,7 @@
   },
   {
     "id": 850,
-    "name": "Sizzlipede Default",
+    "name": "Sizzlipede",
     "region": "galar",
     "types": [
       "10",
@@ -7220,7 +7220,7 @@
   },
   {
     "id": 851,
-    "name": "Centiskorch Default",
+    "name": "Centiskorch",
     "region": "galar",
     "types": [
       "10",
@@ -7229,7 +7229,7 @@
   },
   {
     "id": 852,
-    "name": "Clobbopus Default",
+    "name": "Clobbopus",
     "region": "galar",
     "types": [
       "2"
@@ -7237,7 +7237,7 @@
   },
   {
     "id": 853,
-    "name": "Grapploct Default",
+    "name": "Grapploct",
     "region": "galar",
     "types": [
       "2"
@@ -7261,7 +7261,7 @@
   },
   {
     "id": 856,
-    "name": "Hatenna Default",
+    "name": "Hatenna",
     "region": "galar",
     "types": [
       "14"
@@ -7269,7 +7269,7 @@
   },
   {
     "id": 857,
-    "name": "Hattrem Default",
+    "name": "Hattrem",
     "region": "galar",
     "types": [
       "14"
@@ -7277,7 +7277,7 @@
   },
   {
     "id": 858,
-    "name": "Hatterene Default",
+    "name": "Hatterene",
     "region": "galar",
     "types": [
       "14",
@@ -7286,7 +7286,7 @@
   },
   {
     "id": 859,
-    "name": "Impidimp Default",
+    "name": "Impidimp",
     "region": "galar",
     "types": [
       "17",
@@ -7295,7 +7295,7 @@
   },
   {
     "id": 860,
-    "name": "Morgrem Default",
+    "name": "Morgrem",
     "region": "galar",
     "types": [
       "17",
@@ -7304,7 +7304,7 @@
   },
   {
     "id": 861,
-    "name": "Grimmsnarl Default",
+    "name": "Grimmsnarl",
     "region": "galar",
     "types": [
       "17",
@@ -7313,7 +7313,7 @@
   },
   {
     "id": 862,
-    "name": "Obstagoon Default",
+    "name": "Obstagoon",
     "region": "galar",
     "types": [
       "17",
@@ -7322,7 +7322,7 @@
   },
   {
     "id": 863,
-    "name": "Perrserker Default",
+    "name": "Perrserker",
     "region": "galar",
     "types": [
       "9"
@@ -7330,7 +7330,7 @@
   },
   {
     "id": 864,
-    "name": "Cursola Default",
+    "name": "Cursola",
     "region": "galar",
     "types": [
       "8"
@@ -7338,7 +7338,7 @@
   },
   {
     "id": 865,
-    "name": "Sirfetchd Default",
+    "name": "Sirfetchd",
     "region": "galar",
     "types": [
       "2"
@@ -7346,7 +7346,7 @@
   },
   {
     "id": 866,
-    "name": "Mr Rime Default",
+    "name": "Mr Rime",
     "region": "galar",
     "types": [
       "15",
@@ -7355,7 +7355,7 @@
   },
   {
     "id": 867,
-    "name": "Runerigus Default",
+    "name": "Runerigus",
     "region": "galar",
     "types": [
       "5",
@@ -7364,7 +7364,7 @@
   },
   {
     "id": 868,
-    "name": "Milcery Default",
+    "name": "Milcery",
     "region": "galar",
     "types": [
       "18"
@@ -7372,7 +7372,7 @@
   },
   {
     "id": 869,
-    "name": "Alcremie Default",
+    "name": "Alcremie",
     "region": "galar",
     "types": [
       "18"
@@ -7380,7 +7380,7 @@
   },
   {
     "id": 870,
-    "name": "Falinks Default",
+    "name": "Falinks",
     "region": "galar",
     "types": [
       "2"
@@ -7388,7 +7388,7 @@
   },
   {
     "id": 871,
-    "name": "Pincurchin Default",
+    "name": "Pincurchin",
     "region": "galar",
     "types": [
       "13"
@@ -7396,7 +7396,7 @@
   },
   {
     "id": 872,
-    "name": "Snom Default",
+    "name": "Snom",
     "region": "galar",
     "types": [
       "15",
@@ -7405,7 +7405,7 @@
   },
   {
     "id": 873,
-    "name": "Frosmoth Default",
+    "name": "Frosmoth",
     "region": "galar",
     "types": [
       "15",
@@ -7414,7 +7414,7 @@
   },
   {
     "id": 874,
-    "name": "Stonjourner Default",
+    "name": "Stonjourner",
     "region": "galar",
     "types": [
       "6"
@@ -7448,7 +7448,7 @@
   },
   {
     "id": 878,
-    "name": "Cufant Default",
+    "name": "Cufant",
     "region": "galar",
     "types": [
       "9"
@@ -7456,7 +7456,7 @@
   },
   {
     "id": 879,
-    "name": "Copperajah Default",
+    "name": "Copperajah",
     "region": "galar",
     "types": [
       "9"
@@ -7464,7 +7464,7 @@
   },
   {
     "id": 880,
-    "name": "Dracozolt Default",
+    "name": "Dracozolt",
     "region": "galar",
     "types": [
       "13",
@@ -7473,7 +7473,7 @@
   },
   {
     "id": 881,
-    "name": "Arctozolt Default",
+    "name": "Arctozolt",
     "region": "galar",
     "types": [
       "13",
@@ -7482,7 +7482,7 @@
   },
   {
     "id": 882,
-    "name": "Dracovish Default",
+    "name": "Dracovish",
     "region": "galar",
     "types": [
       "11",
@@ -7491,7 +7491,7 @@
   },
   {
     "id": 883,
-    "name": "Arctovish Default",
+    "name": "Arctovish",
     "region": "galar",
     "types": [
       "11",
@@ -7500,7 +7500,7 @@
   },
   {
     "id": 884,
-    "name": "Duraludon Default",
+    "name": "Duraludon",
     "region": "galar",
     "types": [
       "9",
@@ -7509,7 +7509,7 @@
   },
   {
     "id": 885,
-    "name": "Dreepy Default",
+    "name": "Dreepy",
     "region": "galar",
     "types": [
       "16",
@@ -7518,7 +7518,7 @@
   },
   {
     "id": 886,
-    "name": "Drakloak Default",
+    "name": "Drakloak",
     "region": "galar",
     "types": [
       "16",
@@ -7527,7 +7527,7 @@
   },
   {
     "id": 887,
-    "name": "Dragapult Default",
+    "name": "Dragapult",
     "region": "galar",
     "types": [
       "16",
@@ -7552,7 +7552,7 @@
   },
   {
     "id": 890,
-    "name": "Eternatus Default",
+    "name": "Eternatus",
     "region": "galar",
     "types": [
       "4",
@@ -7561,7 +7561,7 @@
   },
   {
     "id": 891,
-    "name": "Kubfu Default",
+    "name": "Kubfu",
     "region": "galar",
     "types": [
       "2"
@@ -7578,7 +7578,7 @@
   },
   {
     "id": 893,
-    "name": "Zarude Default",
+    "name": "Zarude",
     "region": "galar",
     "types": [
       "17",
@@ -7587,7 +7587,7 @@
   },
   {
     "id": 894,
-    "name": "Regieleki Default",
+    "name": "Regieleki",
     "region": "galar",
     "types": [
       "13"
@@ -7595,7 +7595,7 @@
   },
   {
     "id": 895,
-    "name": "Regidrago Default",
+    "name": "Regidrago",
     "region": "galar",
     "types": [
       "16"
@@ -7603,7 +7603,7 @@
   },
   {
     "id": 896,
-    "name": "Glastrier Default",
+    "name": "Glastrier",
     "region": "galar",
     "types": [
       "15"
@@ -7611,7 +7611,7 @@
   },
   {
     "id": 897,
-    "name": "Spectrier Default",
+    "name": "Spectrier",
     "region": "galar",
     "types": [
       "8"
@@ -7619,7 +7619,7 @@
   },
   {
     "id": 898,
-    "name": "Calyrex Default",
+    "name": "Calyrex",
     "region": "galar",
     "types": [
       "14",
@@ -7628,7 +7628,7 @@
   },
   {
     "id": 899,
-    "name": "Wyrdeer Default",
+    "name": "Wyrdeer",
     "region": "hisui",
     "types": [
       "1",
@@ -7637,7 +7637,7 @@
   },
   {
     "id": 900,
-    "name": "Kleavor Default",
+    "name": "Kleavor",
     "region": "hisui",
     "types": [
       "7",
@@ -7646,7 +7646,7 @@
   },
   {
     "id": 901,
-    "name": "Ursaluna Default",
+    "name": "Ursaluna",
     "region": "hisui",
     "types": [
       "5",
@@ -7664,7 +7664,7 @@
   },
   {
     "id": 903,
-    "name": "Sneasler Default",
+    "name": "Sneasler",
     "region": "hisui",
     "types": [
       "2",
@@ -7673,7 +7673,7 @@
   },
   {
     "id": 904,
-    "name": "Overqwil Default",
+    "name": "Overqwil",
     "region": "hisui",
     "types": [
       "17",
@@ -7691,7 +7691,7 @@
   },
   {
     "id": 906,
-    "name": "Sprigatito Default",
+    "name": "Sprigatito",
     "region": "paldea",
     "types": [
       "12"
@@ -7699,7 +7699,7 @@
   },
   {
     "id": 907,
-    "name": "Floragato Default",
+    "name": "Floragato",
     "region": "paldea",
     "types": [
       "12"
@@ -7707,7 +7707,7 @@
   },
   {
     "id": 908,
-    "name": "Meowscarada Default",
+    "name": "Meowscarada",
     "region": "paldea",
     "types": [
       "12",
@@ -7716,7 +7716,7 @@
   },
   {
     "id": 909,
-    "name": "Fuecoco Default",
+    "name": "Fuecoco",
     "region": "paldea",
     "types": [
       "10"
@@ -7724,7 +7724,7 @@
   },
   {
     "id": 910,
-    "name": "Crocalor Default",
+    "name": "Crocalor",
     "region": "paldea",
     "types": [
       "10"
@@ -7732,7 +7732,7 @@
   },
   {
     "id": 911,
-    "name": "Skeledirge Default",
+    "name": "Skeledirge",
     "region": "paldea",
     "types": [
       "10",
@@ -7741,7 +7741,7 @@
   },
   {
     "id": 912,
-    "name": "Quaxly Default",
+    "name": "Quaxly",
     "region": "paldea",
     "types": [
       "11"
@@ -7749,7 +7749,7 @@
   },
   {
     "id": 913,
-    "name": "Quaxwell Default",
+    "name": "Quaxwell",
     "region": "paldea",
     "types": [
       "11"
@@ -7757,7 +7757,7 @@
   },
   {
     "id": 914,
-    "name": "Quaquaval Default",
+    "name": "Quaquaval",
     "region": "paldea",
     "types": [
       "11",
@@ -7766,7 +7766,7 @@
   },
   {
     "id": 915,
-    "name": "Lechonk Default",
+    "name": "Lechonk",
     "region": "paldea",
     "types": [
       "1"
@@ -7782,7 +7782,7 @@
   },
   {
     "id": 917,
-    "name": "Tarountula Default",
+    "name": "Tarountula",
     "region": "paldea",
     "types": [
       "7"
@@ -7790,7 +7790,7 @@
   },
   {
     "id": 918,
-    "name": "Spidops Default",
+    "name": "Spidops",
     "region": "paldea",
     "types": [
       "7"
@@ -7798,7 +7798,7 @@
   },
   {
     "id": 919,
-    "name": "Nymble Default",
+    "name": "Nymble",
     "region": "paldea",
     "types": [
       "7"
@@ -7806,7 +7806,7 @@
   },
   {
     "id": 920,
-    "name": "Lokix Default",
+    "name": "Lokix",
     "region": "paldea",
     "types": [
       "7",
@@ -7815,7 +7815,7 @@
   },
   {
     "id": 921,
-    "name": "Pawmi Default",
+    "name": "Pawmi",
     "region": "paldea",
     "types": [
       "13"
@@ -7823,7 +7823,7 @@
   },
   {
     "id": 922,
-    "name": "Pawmo Default",
+    "name": "Pawmo",
     "region": "paldea",
     "types": [
       "13",
@@ -7832,7 +7832,7 @@
   },
   {
     "id": 923,
-    "name": "Pawmot Default",
+    "name": "Pawmot",
     "region": "paldea",
     "types": [
       "13",
@@ -7841,7 +7841,7 @@
   },
   {
     "id": 924,
-    "name": "Tandemaus Default",
+    "name": "Tandemaus",
     "region": "paldea",
     "types": [
       "1"
@@ -7857,7 +7857,7 @@
   },
   {
     "id": 926,
-    "name": "Fidough Default",
+    "name": "Fidough",
     "region": "paldea",
     "types": [
       "18"
@@ -7865,7 +7865,7 @@
   },
   {
     "id": 927,
-    "name": "Dachsbun Default",
+    "name": "Dachsbun",
     "region": "paldea",
     "types": [
       "18"
@@ -7873,7 +7873,7 @@
   },
   {
     "id": 928,
-    "name": "Smoliv Default",
+    "name": "Smoliv",
     "region": "paldea",
     "types": [
       "12",
@@ -7882,7 +7882,7 @@
   },
   {
     "id": 929,
-    "name": "Dolliv Default",
+    "name": "Dolliv",
     "region": "paldea",
     "types": [
       "12",
@@ -7891,7 +7891,7 @@
   },
   {
     "id": 930,
-    "name": "Arboliva Default",
+    "name": "Arboliva",
     "region": "paldea",
     "types": [
       "12",
@@ -7909,7 +7909,7 @@
   },
   {
     "id": 932,
-    "name": "Nacli Default",
+    "name": "Nacli",
     "region": "paldea",
     "types": [
       "6"
@@ -7917,7 +7917,7 @@
   },
   {
     "id": 933,
-    "name": "Naclstack Default",
+    "name": "Naclstack",
     "region": "paldea",
     "types": [
       "6"
@@ -7925,7 +7925,7 @@
   },
   {
     "id": 934,
-    "name": "Garganacl Default",
+    "name": "Garganacl",
     "region": "paldea",
     "types": [
       "6"
@@ -7933,7 +7933,7 @@
   },
   {
     "id": 935,
-    "name": "Charcadet Default",
+    "name": "Charcadet",
     "region": "paldea",
     "types": [
       "10"
@@ -7941,7 +7941,7 @@
   },
   {
     "id": 936,
-    "name": "Armarouge Default",
+    "name": "Armarouge",
     "region": "paldea",
     "types": [
       "10",
@@ -7950,7 +7950,7 @@
   },
   {
     "id": 937,
-    "name": "Ceruledge Default",
+    "name": "Ceruledge",
     "region": "paldea",
     "types": [
       "10",
@@ -7959,7 +7959,7 @@
   },
   {
     "id": 938,
-    "name": "Tadbulb Default",
+    "name": "Tadbulb",
     "region": "paldea",
     "types": [
       "13"
@@ -7967,7 +7967,7 @@
   },
   {
     "id": 939,
-    "name": "Bellibolt Default",
+    "name": "Bellibolt",
     "region": "paldea",
     "types": [
       "13"
@@ -7975,7 +7975,7 @@
   },
   {
     "id": 940,
-    "name": "Wattrel Default",
+    "name": "Wattrel",
     "region": "paldea",
     "types": [
       "13",
@@ -7984,7 +7984,7 @@
   },
   {
     "id": 941,
-    "name": "Kilowattrel Default",
+    "name": "Kilowattrel",
     "region": "paldea",
     "types": [
       "13",
@@ -7993,7 +7993,7 @@
   },
   {
     "id": 942,
-    "name": "Maschiff Default",
+    "name": "Maschiff",
     "region": "paldea",
     "types": [
       "17"
@@ -8001,7 +8001,7 @@
   },
   {
     "id": 943,
-    "name": "Mabosstiff Default",
+    "name": "Mabosstiff",
     "region": "paldea",
     "types": [
       "17"
@@ -8009,7 +8009,7 @@
   },
   {
     "id": 944,
-    "name": "Shroodle Default",
+    "name": "Shroodle",
     "region": "paldea",
     "types": [
       "4",
@@ -8018,7 +8018,7 @@
   },
   {
     "id": 945,
-    "name": "Grafaiai Default",
+    "name": "Grafaiai",
     "region": "paldea",
     "types": [
       "4",
@@ -8027,7 +8027,7 @@
   },
   {
     "id": 946,
-    "name": "Bramblin Default",
+    "name": "Bramblin",
     "region": "paldea",
     "types": [
       "12",
@@ -8036,7 +8036,7 @@
   },
   {
     "id": 947,
-    "name": "Brambleghast Default",
+    "name": "Brambleghast",
     "region": "paldea",
     "types": [
       "12",
@@ -8045,7 +8045,7 @@
   },
   {
     "id": 948,
-    "name": "Toedscool Default",
+    "name": "Toedscool",
     "region": "paldea",
     "types": [
       "5",
@@ -8054,7 +8054,7 @@
   },
   {
     "id": 949,
-    "name": "Toedscruel Default",
+    "name": "Toedscruel",
     "region": "paldea",
     "types": [
       "5",
@@ -8063,7 +8063,7 @@
   },
   {
     "id": 950,
-    "name": "Klawf Default",
+    "name": "Klawf",
     "region": "paldea",
     "types": [
       "6"
@@ -8071,7 +8071,7 @@
   },
   {
     "id": 951,
-    "name": "Capsakid Default",
+    "name": "Capsakid",
     "region": "paldea",
     "types": [
       "12"
@@ -8079,7 +8079,7 @@
   },
   {
     "id": 952,
-    "name": "Scovillain Default",
+    "name": "Scovillain",
     "region": "paldea",
     "types": [
       "12",
@@ -8088,7 +8088,7 @@
   },
   {
     "id": 953,
-    "name": "Rellor Default",
+    "name": "Rellor",
     "region": "paldea",
     "types": [
       "7"
@@ -8096,7 +8096,7 @@
   },
   {
     "id": 954,
-    "name": "Rabsca Default",
+    "name": "Rabsca",
     "region": "paldea",
     "types": [
       "7",
@@ -8105,7 +8105,7 @@
   },
   {
     "id": 955,
-    "name": "Flittle Default",
+    "name": "Flittle",
     "region": "paldea",
     "types": [
       "14"
@@ -8113,7 +8113,7 @@
   },
   {
     "id": 956,
-    "name": "Espathra Default",
+    "name": "Espathra",
     "region": "paldea",
     "types": [
       "14"
@@ -8121,7 +8121,7 @@
   },
   {
     "id": 957,
-    "name": "Tinkatink Default",
+    "name": "Tinkatink",
     "region": "paldea",
     "types": [
       "18",
@@ -8130,7 +8130,7 @@
   },
   {
     "id": 958,
-    "name": "Tinkatuff Default",
+    "name": "Tinkatuff",
     "region": "paldea",
     "types": [
       "18",
@@ -8139,7 +8139,7 @@
   },
   {
     "id": 959,
-    "name": "Tinkaton Default",
+    "name": "Tinkaton",
     "region": "paldea",
     "types": [
       "18",
@@ -8148,7 +8148,7 @@
   },
   {
     "id": 960,
-    "name": "Wiglett Default",
+    "name": "Wiglett",
     "region": "paldea",
     "types": [
       "11"
@@ -8156,7 +8156,7 @@
   },
   {
     "id": 961,
-    "name": "Wugtrio Default",
+    "name": "Wugtrio",
     "region": "paldea",
     "types": [
       "11"
@@ -8164,7 +8164,7 @@
   },
   {
     "id": 962,
-    "name": "Bombirdier Default",
+    "name": "Bombirdier",
     "region": "paldea",
     "types": [
       "3",
@@ -8173,7 +8173,7 @@
   },
   {
     "id": 963,
-    "name": "Finizen Default",
+    "name": "Finizen",
     "region": "paldea",
     "types": [
       "11"
@@ -8189,7 +8189,7 @@
   },
   {
     "id": 965,
-    "name": "Varoom Default",
+    "name": "Varoom",
     "region": "paldea",
     "types": [
       "9",
@@ -8198,7 +8198,7 @@
   },
   {
     "id": 966,
-    "name": "Revavroom Default",
+    "name": "Revavroom",
     "region": "paldea",
     "types": [
       "9",
@@ -8207,7 +8207,7 @@
   },
   {
     "id": 967,
-    "name": "Cyclizar Default",
+    "name": "Cyclizar",
     "region": "paldea",
     "types": [
       "16",
@@ -8216,7 +8216,7 @@
   },
   {
     "id": 968,
-    "name": "Orthworm Default",
+    "name": "Orthworm",
     "region": "paldea",
     "types": [
       "9"
@@ -8224,7 +8224,7 @@
   },
   {
     "id": 969,
-    "name": "Glimmet Default",
+    "name": "Glimmet",
     "region": "paldea",
     "types": [
       "6",
@@ -8233,7 +8233,7 @@
   },
   {
     "id": 970,
-    "name": "Glimmora Default",
+    "name": "Glimmora",
     "region": "paldea",
     "types": [
       "6",
@@ -8242,7 +8242,7 @@
   },
   {
     "id": 971,
-    "name": "Greavard Default",
+    "name": "Greavard",
     "region": "paldea",
     "types": [
       "8"
@@ -8250,7 +8250,7 @@
   },
   {
     "id": 972,
-    "name": "Houndstone Default",
+    "name": "Houndstone",
     "region": "paldea",
     "types": [
       "8"
@@ -8258,7 +8258,7 @@
   },
   {
     "id": 973,
-    "name": "Flamigo Default",
+    "name": "Flamigo",
     "region": "paldea",
     "types": [
       "3",
@@ -8267,7 +8267,7 @@
   },
   {
     "id": 974,
-    "name": "Cetoddle Default",
+    "name": "Cetoddle",
     "region": "paldea",
     "types": [
       "15"
@@ -8275,7 +8275,7 @@
   },
   {
     "id": 975,
-    "name": "Cetitan Default",
+    "name": "Cetitan",
     "region": "paldea",
     "types": [
       "15"
@@ -8283,7 +8283,7 @@
   },
   {
     "id": 976,
-    "name": "Veluza Default",
+    "name": "Veluza",
     "region": "paldea",
     "types": [
       "11",
@@ -8292,7 +8292,7 @@
   },
   {
     "id": 977,
-    "name": "Dondozo Default",
+    "name": "Dondozo",
     "region": "paldea",
     "types": [
       "11"
@@ -8309,7 +8309,7 @@
   },
   {
     "id": 979,
-    "name": "Annihilape Default",
+    "name": "Annihilape",
     "region": "paldea",
     "types": [
       "2",
@@ -8318,7 +8318,7 @@
   },
   {
     "id": 980,
-    "name": "Clodsire Default",
+    "name": "Clodsire",
     "region": "paldea",
     "types": [
       "4",
@@ -8327,7 +8327,7 @@
   },
   {
     "id": 981,
-    "name": "Farigiraf Default",
+    "name": "Farigiraf",
     "region": "paldea",
     "types": [
       "1",
@@ -8344,7 +8344,7 @@
   },
   {
     "id": 983,
-    "name": "Kingambit Default",
+    "name": "Kingambit",
     "region": "paldea",
     "types": [
       "17",
@@ -8353,7 +8353,7 @@
   },
   {
     "id": 984,
-    "name": "Great Tusk Default",
+    "name": "Great Tusk",
     "region": "paldea",
     "types": [
       "5",
@@ -8362,7 +8362,7 @@
   },
   {
     "id": 985,
-    "name": "Scream Tail Default",
+    "name": "Scream Tail",
     "region": "paldea",
     "types": [
       "18",
@@ -8371,7 +8371,7 @@
   },
   {
     "id": 986,
-    "name": "Brute Bonnet Default",
+    "name": "Brute Bonnet",
     "region": "paldea",
     "types": [
       "12",
@@ -8380,7 +8380,7 @@
   },
   {
     "id": 987,
-    "name": "Flutter Mane Default",
+    "name": "Flutter Mane",
     "region": "paldea",
     "types": [
       "8",
@@ -8389,7 +8389,7 @@
   },
   {
     "id": 988,
-    "name": "Slither Wing Default",
+    "name": "Slither Wing",
     "region": "paldea",
     "types": [
       "7",
@@ -8398,7 +8398,7 @@
   },
   {
     "id": 989,
-    "name": "Sandy Shocks Default",
+    "name": "Sandy Shocks",
     "region": "paldea",
     "types": [
       "13",
@@ -8407,7 +8407,7 @@
   },
   {
     "id": 990,
-    "name": "Iron Treads Default",
+    "name": "Iron Treads",
     "region": "paldea",
     "types": [
       "5",
@@ -8416,7 +8416,7 @@
   },
   {
     "id": 991,
-    "name": "Iron Bundle Default",
+    "name": "Iron Bundle",
     "region": "paldea",
     "types": [
       "15",
@@ -8425,7 +8425,7 @@
   },
   {
     "id": 992,
-    "name": "Iron Hands Default",
+    "name": "Iron Hands",
     "region": "paldea",
     "types": [
       "2",
@@ -8434,7 +8434,7 @@
   },
   {
     "id": 993,
-    "name": "Iron Jugulis Default",
+    "name": "Iron Jugulis",
     "region": "paldea",
     "types": [
       "17",
@@ -8443,7 +8443,7 @@
   },
   {
     "id": 994,
-    "name": "Iron Moth Default",
+    "name": "Iron Moth",
     "region": "paldea",
     "types": [
       "10",
@@ -8452,7 +8452,7 @@
   },
   {
     "id": 995,
-    "name": "Iron Thorns Default",
+    "name": "Iron Thorns",
     "region": "paldea",
     "types": [
       "6",
@@ -8461,7 +8461,7 @@
   },
   {
     "id": 996,
-    "name": "Frigibax Default",
+    "name": "Frigibax",
     "region": "paldea",
     "types": [
       "16",
@@ -8470,7 +8470,7 @@
   },
   {
     "id": 997,
-    "name": "Arctibax Default",
+    "name": "Arctibax",
     "region": "paldea",
     "types": [
       "16",
@@ -8479,7 +8479,7 @@
   },
   {
     "id": 998,
-    "name": "Baxcalibur Default",
+    "name": "Baxcalibur",
     "region": "paldea",
     "types": [
       "16",
@@ -8496,7 +8496,7 @@
   },
   {
     "id": 1000,
-    "name": "Gholdengo Default",
+    "name": "Gholdengo",
     "region": "paldea",
     "types": [
       "9",
@@ -8505,7 +8505,7 @@
   },
   {
     "id": 1001,
-    "name": "Wo Chien Default",
+    "name": "Wo Chien",
     "region": "paldea",
     "types": [
       "17",
@@ -8514,7 +8514,7 @@
   },
   {
     "id": 1002,
-    "name": "Chien Pao Default",
+    "name": "Chien Pao",
     "region": "paldea",
     "types": [
       "17",
@@ -8523,7 +8523,7 @@
   },
   {
     "id": 1003,
-    "name": "Ting Lu Default",
+    "name": "Ting Lu",
     "region": "paldea",
     "types": [
       "17",
@@ -8532,7 +8532,7 @@
   },
   {
     "id": 1004,
-    "name": "Chi Yu Default",
+    "name": "Chi Yu",
     "region": "paldea",
     "types": [
       "17",
@@ -8541,7 +8541,7 @@
   },
   {
     "id": 1005,
-    "name": "Roaring Moon Default",
+    "name": "Roaring Moon",
     "region": "paldea",
     "types": [
       "16",
@@ -8550,7 +8550,7 @@
   },
   {
     "id": 1006,
-    "name": "Iron Valiant Default",
+    "name": "Iron Valiant",
     "region": "paldea",
     "types": [
       "18",
@@ -8577,7 +8577,7 @@
   },
   {
     "id": 1009,
-    "name": "Walking Wake Default",
+    "name": "Walking Wake",
     "region": "paldea",
     "types": [
       "11",
@@ -8586,7 +8586,7 @@
   },
   {
     "id": 1010,
-    "name": "Iron Leaves Default",
+    "name": "Iron Leaves",
     "region": "paldea",
     "types": [
       "12",
@@ -8595,7 +8595,7 @@
   },
   {
     "id": 1011,
-    "name": "Dipplin Default",
+    "name": "Dipplin",
     "region": "paldea",
     "types": [
       "12",
@@ -8622,7 +8622,7 @@
   },
   {
     "id": 1014,
-    "name": "Okidogi Default",
+    "name": "Okidogi",
     "region": "paldea",
     "types": [
       "4",
@@ -8631,7 +8631,7 @@
   },
   {
     "id": 1015,
-    "name": "Munkidori Default",
+    "name": "Munkidori",
     "region": "paldea",
     "types": [
       "4",
@@ -8640,7 +8640,7 @@
   },
   {
     "id": 1016,
-    "name": "Fezandipiti Default",
+    "name": "Fezandipiti",
     "region": "paldea",
     "types": [
       "4",
@@ -8657,7 +8657,7 @@
   },
   {
     "id": 1018,
-    "name": "Archaludon Default",
+    "name": "Archaludon",
     "region": "paldea",
     "types": [
       "9",
@@ -8666,7 +8666,7 @@
   },
   {
     "id": 1019,
-    "name": "Hydrapple Default",
+    "name": "Hydrapple",
     "region": "paldea",
     "types": [
       "12",
@@ -8675,7 +8675,7 @@
   },
   {
     "id": 1020,
-    "name": "Gouging Fire Default",
+    "name": "Gouging Fire",
     "region": "paldea",
     "types": [
       "10",
@@ -8684,7 +8684,7 @@
   },
   {
     "id": 1021,
-    "name": "Raging Bolt Default",
+    "name": "Raging Bolt",
     "region": "paldea",
     "types": [
       "13",
@@ -8693,7 +8693,7 @@
   },
   {
     "id": 1022,
-    "name": "Iron Boulder Default",
+    "name": "Iron Boulder",
     "region": "paldea",
     "types": [
       "6",
@@ -8702,7 +8702,7 @@
   },
   {
     "id": 1023,
-    "name": "Iron Crown Default",
+    "name": "Iron Crown",
     "region": "paldea",
     "types": [
       "9",
@@ -8711,7 +8711,7 @@
   },
   {
     "id": 1024,
-    "name": "Terapagos Default",
+    "name": "Terapagos",
     "region": "paldea",
     "types": [
       "1"
@@ -8719,7 +8719,7 @@
   },
   {
     "id": 1025,
-    "name": "Pecharunt Default",
+    "name": "Pecharunt",
     "region": "paldea",
     "types": [
       "4",

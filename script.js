@@ -16,6 +16,53 @@ async function loadAllEncounters() {
   return encounterArrays.flat();
 }
 
+const GAME_ORDER = [
+  "Pokemon Red",
+  "Pokemon Blue",
+  "Pokemon Yellow",
+
+  "Pokemon Gold",
+  "Pokemon Silver",
+  "Pokemon Crystal",
+
+  "Pokemon Ruby",
+  "Pokemon Sapphire",
+  "Pokemon Emerald",
+  "Pokemon FireRed",
+  "Pokemon LeafGreen",
+
+  "Pokemon Diamond",
+  "Pokemon Pearl",
+  "Pokemon Platinum",
+  "Pokemon HeartGold",
+  "Pokemon SoulSilver",
+
+  "Pokemon Black",
+  "Pokemon White",
+  "Pokemon Black 2",
+  "Pokemon White 2",
+
+  "Pokemon X",
+  "Pokemon Y",
+  "Pokemon Omega Ruby",
+  "Pokemon Alpha Sapphire",
+
+  "Pokemon Sun",
+  "Pokemon Moon",
+  "Pokemon Ultra Sun",
+  "Pokemon Ultra Moon",
+
+  "Pokemon Sword",
+  "Pokemon Shield",
+
+  "Pokemon Scarlet",
+  "Pokemon Violet"
+];
+
+const GAME_ORDER_MAP = Object.fromEntries(
+  GAME_ORDER.map((game, index) => [game, index])
+);
+
 function normalizeGameName(name) {
   const map = {
     red: "Pokemon Red",
@@ -56,19 +103,51 @@ function normalizeConsoleName(name) {
 
 function buildEncounterMap(encounters) {
   const map = new Map();
+  const seen = new Set();
 
   for (const encounter of encounters) {
-    if (!map.has(encounter.pokemonId)) {
-      map.set(encounter.pokemonId, []);
-    }
+    const pokemonId = Number(encounter.pokemonId);
 
-    map.get(encounter.pokemonId).push({
+    const normalizedEntry = {
       name: normalizeGameName(encounter.game),
       console: normalizeConsoleName(encounter.console),
       location: encounter.location || "Unknown location",
       method: encounter.method || "catch"
-    });
+    };
+
+    const dedupeKey = [
+      pokemonId,
+      normalizedEntry.name,
+      normalizedEntry.console,
+      normalizedEntry.location,
+      normalizedEntry.method
+    ].join("|");
+
+    if (seen.has(dedupeKey)) {
+      continue;
+    }
+
+    seen.add(dedupeKey);
+
+    if (!map.has(pokemonId)) {
+      map.set(pokemonId, []);
+    }
+
+    map.get(pokemonId).push(normalizedEntry);
   }
+
+  for (const entries of map.values()) {
+  entries.sort((a, b) => {
+    const orderA = GAME_ORDER_MAP[a.name] ?? 9999;
+    const orderB = GAME_ORDER_MAP[b.name] ?? 9999;
+
+    if (orderA !== orderB) return orderA - orderB;
+
+    // fallback inside same game
+    if (a.location !== b.location) return a.location.localeCompare(b.location);
+    return a.method.localeCompare(b.method);
+  });
+}
 
   return map;
 }
@@ -98,13 +177,13 @@ async function init() {
       pokemonData = JSON.parse(savedData).map((p) => ({
         ...p,
         region: p.region ? p.region.toLowerCase() : "",
-        types: Array.isArray(p.types) ? p.types.map((type) => type.toLowerCase()) : []
+        types: normalizeTypes(p.types)
       }));
     } else {
       pokemonData = pokemon.map((p) => ({
         ...p,
         region: p.region ? p.region.toLowerCase() : "",
-        types: Array.isArray(p.types) ? p.types.map((type) => type.toLowerCase()) : [],
+        types: normalizeTypes(p.types),
         caught: false,
         shiny: false
       }));
@@ -165,6 +244,46 @@ function setupDOMReferences() {
 
   console.log("pokemonList =", pokemonList);
   console.log("unavailablePokemonList =", unavailablePokemonList);
+}
+
+const TYPE_MAP = {
+  1: "normal",
+  2: "fighting",
+  3: "flying",
+  4: "poison",
+  5: "ground",
+  6: "rock",
+  7: "bug",
+  8: "ghost",
+  9: "steel",
+  10: "fire",
+  11: "water",
+  12: "grass",
+  13: "electric",
+  14: "psychic",
+  15: "ice",
+  16: "dragon",
+  17: "dark",
+  18: "fairy"
+};
+
+function normalizeTypes(types) {
+  if (!Array.isArray(types)) return [];
+
+  return types.map((type) => {
+    const typeId = Number(type);
+
+    if (!Number.isNaN(typeId) && TYPE_MAP[typeId]) {
+      return TYPE_MAP[typeId];
+    }
+
+    return String(type).toLowerCase();
+  });
+}
+
+function formatType(type) {
+  const value = String(type);
+  return value.charAt(0).toUpperCase() + value.slice(1);
 }
 
 function savePokemonData() {
@@ -258,6 +377,11 @@ function renderPokemon(pokemonArray, container) {
 function renderPokemonDetails() {
   const detailsContainer = document.getElementById("pokemon-details");
 
+  function formatType(type) {
+    const value = String(type);
+    return value.charAt(0).toUpperCase() + value.slice(1);
+  }
+
   if (selectedPokemonId === null) {
     detailsContainer.innerHTML = `<p>Select a Pokemon's info button to see details.</p>`;
     return;
@@ -304,7 +428,10 @@ function renderPokemonDetails() {
 
     <div class="details-section">
       <p><strong>Region:</strong> ${pokemon.region}</p>
-      <p><strong>Types:</strong> ${pokemon.types.join(", ")}</p>
+      <p><strong>Types:</strong></p>
+      <div class="type-badges">
+        ${pokemon.types.map(type => `<span class="type-badge type-${type}">${formatType(type)}</span>`).join("")}
+      </div>
       <p><strong>Caught:</strong> ${pokemon.caught ? "Yes" : "No"}</p>
       <p><strong>Shiny:</strong> ${pokemon.shiny ? "Yes" : "No"}</p>
     </div>
