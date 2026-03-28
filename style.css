@@ -39,20 +39,25 @@ h1 {
 .pokemon-card {
   position: relative;
   min-height: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   background: white;
   border: 2px solid #ccc;
   border-radius: 12px;
   padding: 16px;
   cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   text-align: center;
   transition: background-color 0.2s, border-color 0.2s, transform 0.1s;
 }
 
 .pokemon-card:hover {
   transform: translateY(-2px);
+}
+
+.pokemon-card:hover img {
+  transform: scale(1.1);
 }
 
 .pokemon-card.caught {
@@ -86,4 +91,17 @@ h1 {
 .pokemon-name {
   font-size: 18px;
   font-weight: bold;
+}
+
+.sprite-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.sprite-container img {
+  width: 72px;
+  height: 72px;
+  image-rendering: pixelated;
 }

@@ -50,6 +50,9 @@ function renderPokemon(pokemonArray) {
       <button class="shiny-button ${pokemon.shiny ? "shiny-active" : ""}" data-id="${pokemon.id}">
         ${pokemon.shiny ? "✨" : "☆"}
       </button>
+      <div class="sprite-container">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png" alt="${pokemon.name}">
+      </div>
       <div class="pokemon-name">${pokemon.name}</div>
     `;
 
