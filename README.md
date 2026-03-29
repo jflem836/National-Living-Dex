@@ -6,9 +6,7 @@ Website to keep track of pokemon that you catch between all games. I came up wit
 
 https://interior-kala-jflem-1bb61d03.koyeb.app/
 
-```diff
-+ When clicking the link, it may take a while to load up since I am using a free trial deployment software so please do be patient and follow instructions on page.
-```
+> **When clicking the link, it may take a bit to load due to me using a free version of the deployment service, so please follow instructions on there and wait for about 10 seconds for the servers to load up.**
 
 Create a user and password to be able to use. 
 
