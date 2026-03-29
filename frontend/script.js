@@ -1,3 +1,5 @@
+console.log("SCRIPT LOADED");
+
 async function loadJSON(filename) {
   const response = await fetch(filename);
 
@@ -126,6 +128,9 @@ async function ensureBackendDefaultProfile() {
 }
 
 function setupProfileUI() {
+  if (profileListenersInitialized) return;
+  profileListenersInitialized = true;
+
   if (profileSelect) {
     profileSelect.addEventListener("change", async (event) => {
       setActiveProfileId(event.target.value);
@@ -348,6 +353,8 @@ function getSpriteUrl(pokemonId) {
   return `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemonId}.png`;
 }
 
+let staticListenersInitialized = false;
+let profileListenersInitialized = false;
 let pokemonData = [];
 let selectedPokemonId = null;
 let encounterMap = new Map();
@@ -562,13 +569,21 @@ async function saveOwnedSelections() {
   const profileId = getActiveProfileId();
   if (!profileId) return;
 
-  const ownedGames = Array.from(ownedGameCheckboxes)
-    .filter((cb) => cb.checked)
-    .map((cb) => cb.value);
+  const ownedGames = [
+    ...new Set(
+      Array.from(ownedGameCheckboxes)
+        .filter((cb) => cb.checked)
+        .map((cb) => cb.value)
+    )
+  ];
 
-  const ownedConsoles = Array.from(ownedConsoleCheckboxes)
-    .filter((cb) => cb.checked)
-    .map((cb) => cb.value);
+  const ownedConsoles = [
+    ...new Set(
+      Array.from(ownedConsoleCheckboxes)
+        .filter((cb) => cb.checked)
+        .map((cb) => cb.value)
+    )
+  ];
 
   const gamesResult = await saveOwnedGamesToBackend(profileId, ownedGames);
   if (gamesResult.error) {
@@ -617,7 +632,7 @@ function renderPokemon(pokemonArray, container) {
 
     card.innerHTML = `
       <div class="dex-number">#${pokemon.id}</div>
-      <button class="shiny-button ${pokemon.shiny ? "shiny-active" : ""}" data-id="${pokemon.id}">
+      <button type="button" class="shiny-button ${pokemon.shiny ? "shiny-active" : ""}" data-id="${pokemon.id}">
         ${pokemon.shiny ? "✨" : "☆"}
       </button>
       <div class="sprite-container">
@@ -625,7 +640,7 @@ function renderPokemon(pokemonArray, container) {
       </div>
       <div class="pokemon-name">${pokemon.name}</div>
       ${reasonsHTML}
-      <button class="info-button" data-id="${pokemon.id}">ℹ️</button>
+      <button type="button" class="info-button" data-id="${pokemon.id}">ℹ️</button>
     `;
 
     container.appendChild(card);
@@ -771,6 +786,16 @@ function addEventListeners() {
       }
     });
   });
+
+  infoButtons.forEach((button) => {
+  button.addEventListener("click", function (event) {
+    event.preventDefault();
+    event.stopPropagation();
+
+    selectedPokemonId = Number(this.dataset.id);
+    renderPokemonDetails();
+  });
+});
 }
 
 function updateCompletion() {
@@ -940,12 +965,15 @@ function getUnavailabilityReasons(pokemon, selectedGames, selectedConsoles) {
 }
 
 function setupStaticEventListeners() {
+  if (staticListenersInitialized) return;
+  staticListenersInitialized = true;
+
   clearFiltersBtn.addEventListener("click", () => {
     searchInput.value = "";
     filterSelect.value = "all";
 
-    regionCheckboxes.forEach(cb => cb.checked = false);
-    typeCheckboxes.forEach(cb => cb.checked = false);
+    regionCheckboxes.forEach((cb) => (cb.checked = false));
+    typeCheckboxes.forEach((cb) => (cb.checked = false));
 
     applyFilters();
   });
@@ -980,7 +1008,7 @@ function setupStaticEventListeners() {
 //############### Backend #################
 //#########################################
 
-const API_BASE = "http://127.0.0.1:3000";
+const API_BASE = "";
 
 function setAuthMessage(message, isError = false) {
   if (!authMessage) return;

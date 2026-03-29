@@ -98,9 +98,11 @@ async function saveOwnedConsolesToBackend(profileId, ownedConsoles) {
   return await response.json();
 }
 
+app.use(express.static(path.join(__dirname, "../frontend")));
+
 // test route
 app.get("/", (req, res) => {
-  res.send("Server running");
+  res.sendFile(path.join(__dirname, "../frontend/index.html"));
 });
 
 app.post("/api/register", (req, res) => {
@@ -415,7 +417,7 @@ app.put("/api/profiles/:id/owned-games", requireAuth, (req, res) => {
           }
 
           const stmt = db.prepare(
-            "INSERT INTO profile_owned_games (profile_id, game_name) VALUES (?, ?)"
+            "INSERT OR IGNORE INTO profile_owned_games (profile_id, game_name) VALUES (?, ?)"
           );
 
           for (const game of ownedGames) {
@@ -465,7 +467,7 @@ app.put("/api/profiles/:id/owned-consoles", requireAuth, (req, res) => {
           }
 
           const stmt = db.prepare(
-            "INSERT INTO profile_owned_consoles (profile_id, console_name) VALUES (?, ?)"
+            "INSERT OR IGNORE INTO profile_owned_consoles (profile_id, console_name) VALUES (?, ?)"
           );
 
           for (const consoleName of ownedConsoles) {
