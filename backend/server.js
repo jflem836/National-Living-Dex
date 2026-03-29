@@ -4,7 +4,6 @@ const fs = require("fs");
 const path = require("path");
 const bcrypt = require("bcrypt");
 const session = require("express-session");
-const cors = require("cors");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -48,52 +47,6 @@ function requireAuth(req, res, next) {
     return res.status(401).json({ error: "Not authenticated" });
   }
   next();
-}
-
-async function fetchProfileData(profileId) {
-  const response = await fetch(`${API_BASE}/api/profiles/${profileId}/data`, {
-    credentials: "include"
-  });
-  return await response.json();
-}
-
-async function savePokemonStatus(profileId, pokemonId, caught, shiny) {
-  const response = await fetch(`${API_BASE}/api/profiles/${profileId}/pokemon/${pokemonId}`, {
-    method: "PUT",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    credentials: "include",
-    body: JSON.stringify({ caught, shiny })
-  });
-
-  return await response.json();
-}
-
-async function saveOwnedGamesToBackend(profileId, ownedGames) {
-  const response = await fetch(`${API_BASE}/api/profiles/${profileId}/owned-games`, {
-    method: "PUT",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    credentials: "include",
-    body: JSON.stringify({ ownedGames })
-  });
-
-  return await response.json();
-}
-
-async function saveOwnedConsolesToBackend(profileId, ownedConsoles) {
-  const response = await fetch(`${API_BASE}/api/profiles/${profileId}/owned-consoles`, {
-    method: "PUT",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    credentials: "include",
-    body: JSON.stringify({ ownedConsoles })
-  });
-
-  return await response.json();
 }
 
 app.use(express.static(path.join(__dirname, "../frontend")));
@@ -484,9 +437,5 @@ app.put("/api/profiles/:id/owned-consoles", requireAuth, (req, res) => {
       });
     }
   );
-});
-
-app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
 });
 
