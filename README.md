@@ -2,9 +2,11 @@
 
 Website to keep track of pokemon that you catch between all games
 
-Todo:
+###Link
 
-- change names from Pokémon to Pokemon in jsons from diamond down
-- fix types to actually show something in details rather than just numbers
-- add all possibilities for filters on html and js
+https://interior-kala-jflem-1bb61d03.koyeb.app/
+
+Create a user and password to be able to use. The current code in the main is for a local user, but the branch is for multiple users.
+
+Todo:
 - change UI to look more like a pokedex somehow
