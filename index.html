@@ -7,155 +7,196 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="container">
-      <h1>Pokemon National Living Dex Tracker</h1>
-      <p id="completion">Caught: 0/0 | Shiny: 0/0</p>
-      <div class="profile-controls">
-        <label for="profileSelect">Profile:</label>
-        <select id="profileSelect"></select>
-        <button id="newProfileBtn" type="button">New Profile</button>
-        <button id="renameProfileBtn" type="button">Rename</button>
-        <button id="deleteProfileBtn" type="button">Delete</button>
-      </div>
-      <div class="progress-section">
-        <div class="progress-header">
-          <span>Living Dex Progress</span>
-          <span id="progress-text">0 / 0</span>
-        </div>
-        <div class="progress-bar">
-          <div id="progress-fill" class="progress-fill"></div>
-        </div>
-      </div>
-      <input type="text" id="search" placeholder="Search Pokemon..." />
-      <div class="app-container">
-        <div class="filters-panel">
-          <div class="region-filter">
-            <h2>Filters</h2>
+    <div id="auth-section">
+      <h2>Account</h2>
 
-            <button id="clear-filters">Clear Filters</button> <br />
-            <br />
-            <label for="filter">Filter:</label>
-            <select id="filter">
-              <option value="all">All</option>
-              <option value="caught">Caught</option>
-              <option value="not-caught">Not Caught</option>
-              <option value="shiny">Shiny</option>
-            </select>
+      <div class="auth-block">
+        <h3>Register</h3>
+        <input id="registerUsername" type="text" placeholder="Username" />
+        <input id="registerPassword" type="password" placeholder="Password" />
+        <button id="registerBtn" type="button">Register</button>
+      </div>
 
-            <p>Region</p>
-            <label class="filter-option"
-              ><input type="checkbox" class="region-checkbox" value="kanto" />
-              Kanto</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="region-checkbox" value="johto" />
-              Johto</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="region-checkbox" value="hoenn" />
-              Hoenn</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="region-checkbox" value="sinnoh" />
-              Sinnoh</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="region-checkbox" value="unova" />
-              Unova</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="region-checkbox" value="kalos" />
-              Kalos</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="region-checkbox" value="alola" />
-              Alola</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="region-checkbox" value="galar" />
-              Galar</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="region-checkbox" value="paldea" />
-              Paldea</label
-            >
+      <div class="auth-block">
+        <h3>Login</h3>
+        <input id="loginUsername" type="text" placeholder="Username" />
+        <input id="loginPassword" type="password" placeholder="Password" />
+        <button id="loginBtn" type="button">Login</button>
+      </div>
+
+      <div id="loggedInSection" style="display: none">
+        <p>Logged in as <span id="currentUsername"></span></p>
+        <button id="logoutBtn" type="button">Logout</button>
+      </div>
+
+      <p id="authMessage"></p>
+    </div>
+    <div id="app-section" style="display: none">
+      <div class="container">
+        <h1>Pokemon National Living Dex Tracker</h1>
+        <p id="completion">Caught: 0/0 | Shiny: 0/0</p>
+        <div class="profile-controls">
+          <label for="profileSelect">Profile:</label>
+          <select id="profileSelect"></select>
+          <button id="newProfileBtn" type="button">New Profile</button>
+          <button id="renameProfileBtn" type="button">Rename</button>
+          <button id="deleteProfileBtn" type="button">Delete</button>
+        </div>
+        <div class="progress-section">
+          <div class="progress-header">
+            <span>Living Dex Progress</span>
+            <span id="progress-text">0 / 0</span>
           </div>
-          <div class="type-filter">
-            <p>Type</p>
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="normal" />
-              Normal</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="fighting" />
-              Fighting</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="flying" />
-              Flying</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="poison" />
-              Poison</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="ground" />
-              Ground</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="rock" />
-              Rock</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="bug" />
-              Bug</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="ghost" />
-              Ghost</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="steel" />
-              Steel</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="fire" />
-              Fire</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="water" />
-              Water</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="grass" />
-              Grass</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="electric" />
-              Electric</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="psychic" />
-              Pyschic</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="ice" />
-              Ice</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="dragon" />
-              Dragon</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="dark" />
-              Dark</label
-            >
-            <label class="filter-option"
-              ><input type="checkbox" class="type-checkbox" value="fairy" />
-              Fairy</label
-            >
+          <div class="progress-bar">
+            <div id="progress-fill" class="progress-fill"></div>
           </div>
-          <!--
+        </div>
+        <input type="text" id="search" placeholder="Search Pokemon..." />
+        <div class="app-container">
+          <div class="filters-panel">
+            <div class="region-filter">
+              <h2>Filters</h2>
+
+              <button id="clear-filters">Clear Filters</button> <br />
+              <br />
+              <label for="filter">Filter:</label>
+              <select id="filter">
+                <option value="all">All</option>
+                <option value="caught">Caught</option>
+                <option value="not-caught">Not Caught</option>
+                <option value="shiny">Shiny</option>
+              </select>
+
+              <p>Region</p>
+              <label class="filter-option"
+                ><input type="checkbox" class="region-checkbox" value="kanto" />
+                Kanto</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="region-checkbox" value="johto" />
+                Johto</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="region-checkbox" value="hoenn" />
+                Hoenn</label
+              >
+              <label class="filter-option"
+                ><input
+                  type="checkbox"
+                  class="region-checkbox"
+                  value="sinnoh"
+                />
+                Sinnoh</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="region-checkbox" value="unova" />
+                Unova</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="region-checkbox" value="kalos" />
+                Kalos</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="region-checkbox" value="alola" />
+                Alola</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="region-checkbox" value="galar" />
+                Galar</label
+              >
+              <label class="filter-option"
+                ><input
+                  type="checkbox"
+                  class="region-checkbox"
+                  value="paldea"
+                />
+                Paldea</label
+              >
+            </div>
+            <div class="type-filter">
+              <p>Type</p>
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="normal" />
+                Normal</label
+              >
+              <label class="filter-option"
+                ><input
+                  type="checkbox"
+                  class="type-checkbox"
+                  value="fighting"
+                />
+                Fighting</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="flying" />
+                Flying</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="poison" />
+                Poison</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="ground" />
+                Ground</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="rock" />
+                Rock</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="bug" />
+                Bug</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="ghost" />
+                Ghost</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="steel" />
+                Steel</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="fire" />
+                Fire</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="water" />
+                Water</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="grass" />
+                Grass</label
+              >
+              <label class="filter-option"
+                ><input
+                  type="checkbox"
+                  class="type-checkbox"
+                  value="electric"
+                />
+                Electric</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="psychic" />
+                Pyschic</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="ice" />
+                Ice</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="dragon" />
+                Dragon</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="dark" />
+                Dark</label
+              >
+              <label class="filter-option"
+                ><input type="checkbox" class="type-checkbox" value="fairy" />
+                Fairy</label
+              >
+            </div>
+            <!--
           <div class="filter-group">
             <p>Games</p>
             <label class="filter-option"
@@ -233,335 +274,372 @@
           </div>
           -->
 
-          <h2>Owned</h2>
+            <h2>Owned</h2>
 
-          <div class="filter-group">
-            <p>Consoles</p>
+            <div class="filter-group">
+              <p>Consoles</p>
 
-            <label class="filter-option">
-              <input type="checkbox" class="owned-console" value="Game Boy" />
-              Game Boy (Color)
-            </label>
+              <label class="filter-option">
+                <input type="checkbox" class="owned-console" value="Game Boy" />
+                Game Boy (Color)
+              </label>
 
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-console"
-                value="Game Boy Advance"
-              />
-              Game Boy Advance
-            </label>
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-console"
+                  value="Game Boy Advance"
+                />
+                Game Boy Advance
+              </label>
 
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-console"
-                value="Nintendo DS"
-              />
-              Nintendo DS
-            </label>
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-console"
+                  value="Nintendo DS"
+                />
+                Nintendo DS
+              </label>
 
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-console"
-                value="Nintendo 3DS"
-              />
-              Nintendo 3DS
-            </label>
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-console"
+                  value="Nintendo 3DS"
+                />
+                Nintendo 3DS
+              </label>
 
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-console"
-                value="Nintendo Switch"
-              />
-              Nintendo Switch
-            </label>
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-console"
+                  value="Nintendo Switch"
+                />
+                Nintendo Switch
+              </label>
+            </div>
+
+            <div class="filter-group">
+              <p>Games</p>
+
+              <label class="filter-option">
+                <input type="checkbox" class="owned-game" value="Pokemon Red" />
+                Pokemon Red
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Blue"
+                />
+                Pokemon Blue
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Yellow"
+                />
+                Pokemon Yellow
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Gold"
+                />
+                Pokemon Gold
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Silver"
+                />
+                Pokemon Silver
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Crystal"
+                />
+                Pokemon Crystal
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Ruby"
+                />
+                Pokemon Ruby
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Sapphire"
+                />
+                Pokemon Sapphire
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Emerald"
+                />
+                Pokemon Emerald
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon FireRed"
+                />
+                Pokemon FireRed
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon LeafGreen"
+                />
+                Pokemon LeafGreen
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Diamond"
+                />
+                Pokemon Diamond
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Pearl"
+                />
+                Pokemon Pearl
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Platinum"
+                />
+                Pokemon Platinum
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon HeartGold"
+                />
+                Pokemon HeartGold
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon SoulSilver"
+                />
+                Pokemon SoulSilver
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Black"
+                />
+                Pokemon Black
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon White"
+                />
+                Pokemon White
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Black"
+                />
+                Pokemon Black 2
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon White 2"
+                />
+                Pokemon White 2
+              </label>
+
+              <label class="filter-option">
+                <input type="checkbox" class="owned-game" value="Pokemon X" />
+                Pokemon X
+              </label>
+
+              <label class="filter-option">
+                <input type="checkbox" class="owned-game" value="Pokemon Y" />
+                Pokemon Y
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Omega Ruby"
+                />
+                Pokemon Omega Ruby
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Alpha Sapphire"
+                />
+                Pokemon Alpha Sapphire
+              </label>
+
+              <label class="filter-option">
+                <input type="checkbox" class="owned-game" value="Pokemon Sun" />
+                Pokemon Sun
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Moon"
+                />
+                Pokemon Moon
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Ultra Sun"
+                />
+                Pokemon Ultra Sun
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Ultra Moon"
+                />
+                Pokemon Ultra Moon
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Sword"
+                />
+                Pokemon Sword
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Shield"
+                />
+                Pokemon Shield
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Scarlet"
+                />
+                Pokemon Scarlet
+              </label>
+
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  class="owned-game"
+                  value="Pokemon Violet"
+                />
+                Pokemon Violet
+              </label>
+            </div>
           </div>
 
-          <div class="filter-group">
-            <p>Games</p>
+          <div class="main-content">
+            <div id="availability-summary" class="availability-summary">
+              <div class="summary-card">
+                <span class="summary-label">Obtainable</span>
+                <span id="shown-count" class="summary-value">0</span>
+              </div>
 
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon Red" />
-              Pokemon Red
-            </label>
+              <div class="summary-card">
+                <span class="summary-label">Unavailable</span>
+                <span id="hidden-count" class="summary-value">0</span>
+              </div>
 
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon Blue" />
-              Pokemon Blue
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Yellow"
-              />
-              Pokemon Yellow
-            </label>
-
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon Gold" />
-              Pokemon Gold
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Silver"
-              />
-              Pokemon Silver
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Crystal"
-              />
-              Pokemon Crystal
-            </label>
-
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon Ruby" />
-              Pokemon Ruby
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Sapphire"
-              />
-              Pokemon Sapphire
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Emerald"
-              />
-              Pokemon Emerald
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon FireRed"
-              />
-              Pokemon FireRed
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon LeafGreen"
-              />
-              Pokemon LeafGreen
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Diamond"
-              />
-              Pokemon Diamond
-            </label>
-
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon Pearl" />
-              Pokemon Pearl
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Platinum"
-              />
-              Pokemon Platinum
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon HeartGold"
-              />
-              Pokemon HeartGold
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon SoulSilver"
-              />
-              Pokemon SoulSilver
-            </label>
-
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon Black" />
-              Pokemon Black
-            </label>
-
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon White" />
-              Pokemon White
-            </label>
-
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon Black" />
-              Pokemon Black 2
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon White 2"
-              />
-              Pokemon White 2
-            </label>
-
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon X" />
-              Pokemon X
-            </label>
-
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon Y" />
-              Pokemon Y
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Omega Ruby"
-              />
-              Pokemon Omega Ruby
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Alpha Sapphire"
-              />
-              Pokemon Alpha Sapphire
-            </label>
-
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon Sun" />
-              Pokemon Sun
-            </label>
-
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon Moon" />
-              Pokemon Moon
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Ultra Sun"
-              />
-              Pokemon Ultra Sun
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Ultra Moon"
-              />
-              Pokemon Ultra Moon
-            </label>
-
-            <label class="filter-option">
-              <input type="checkbox" class="owned-game" value="Pokemon Sword" />
-              Pokemon Sword
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Shield"
-              />
-              Pokemon Shield
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Scarlet"
-              />
-              Pokemon Scarlet
-            </label>
-
-            <label class="filter-option">
-              <input
-                type="checkbox"
-                class="owned-game"
-                value="Pokemon Violet"
-              />
-              Pokemon Violet
-            </label>
-          </div>
-        </div>
-
-        <div class="main-content">
-          <div id="availability-summary" class="availability-summary">
-            <div class="summary-card">
-              <span class="summary-label">Obtainable</span>
-              <span id="shown-count" class="summary-value">0</span>
+              <div class="summary-card">
+                <span class="summary-label">Total</span>
+                <span id="total-count" class="summary-value">0</span>
+              </div>
             </div>
 
-            <div class="summary-card">
-              <span class="summary-label">Unavailable</span>
-              <span id="hidden-count" class="summary-value">0</span>
+            <div class="progress-section obtainable-progress-section">
+              <div class="progress-header">
+                <span>Obtainable Progress</span>
+                <span id="obtainable-progress-text">0 / 0</span>
+              </div>
+              <div class="progress-bar">
+                <div id="obtainable-progress-fill" class="progress-fill"></div>
+              </div>
             </div>
 
-            <div class="summary-card">
-              <span class="summary-label">Total</span>
-              <span id="total-count" class="summary-value">0</span>
-            </div>
+            <section class="pokemon-section">
+              <h2>Obtainable</h2>
+              <div id="pokemon-list"></div>
+            </section>
+
+            <section class="pokemon-section">
+              <h2>Unavailable</h2>
+              <div id="unavailable-pokemon-list"></div>
+            </section>
           </div>
 
-          <div class="progress-section obtainable-progress-section">
-            <div class="progress-header">
-              <span>Obtainable Progress</span>
-              <span id="obtainable-progress-text">0 / 0</span>
-            </div>
-            <div class="progress-bar">
-              <div id="obtainable-progress-fill" class="progress-fill"></div>
-            </div>
+          <div id="pokemon-details" class="details-panel">
+            <p>Select a Pokemon's info button to see details.</p>
           </div>
-
-          <section class="pokemon-section">
-            <h2>Obtainable</h2>
-            <div id="pokemon-list"></div>
-          </section>
-
-          <section class="pokemon-section">
-            <h2>Unavailable</h2>
-            <div id="unavailable-pokemon-list"></div>
-          </section>
-        </div>
-
-        <div id="pokemon-details" class="details-panel">
-          <p>Select a Pokemon's info button to see details.</p>
         </div>
       </div>
     </div>

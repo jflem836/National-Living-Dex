@@ -16,221 +16,192 @@ async function loadAllEncounters() {
   return encounterArrays.flat();
 }
 
-const PROFILES_KEY = "ldex_profiles";
-const ACTIVE_USER_KEY = "ldex_active_user";
+const ACTIVE_PROFILE_KEY = "ldex_active_profile_id";
 
-function loadProfiles() {
-  const raw = localStorage.getItem(PROFILES_KEY);
-  if (!raw) {
-    return { users: {} };
-  }
-  return JSON.parse(raw);
+function getActiveProfileId() {
+  return localStorage.getItem(ACTIVE_PROFILE_KEY);
 }
 
-function saveProfiles(profiles) {
-  localStorage.setItem(PROFILES_KEY, JSON.stringify(profiles));
+function setActiveProfileId(profileId) {
+  localStorage.setItem(ACTIVE_PROFILE_KEY, String(profileId));
 }
 
-function getActiveUserId() {
-  return localStorage.getItem(ACTIVE_USER_KEY);
+async function fetchProfiles() {
+  const response = await fetch(`${API_BASE}/api/profiles`, {
+    credentials: "include"
+  });
+
+  const data = await response.json();
+  console.log("fetchProfiles response:", response.status, data);
+  return data;
 }
 
-function setActiveUserId(userId) {
-  localStorage.setItem(ACTIVE_USER_KEY, userId);
+async function createProfile(name) {
+  const response = await fetch(`${API_BASE}/api/profiles`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    credentials: "include",
+    body: JSON.stringify({ name })
+  });
+  return await response.json();
 }
 
-function getActiveUser() {
-  const profiles = loadProfiles();
-  const activeUserId = getActiveUserId();
-
-  if (!activeUserId || !profiles.users[activeUserId]) {
-    return null;
-  }
-
-  return profiles.users[activeUserId];
+async function renameProfile(profileId, name) {
+  const response = await fetch(`${API_BASE}/api/profiles/${profileId}`, {
+    method: "PATCH",
+    headers: { "Content-Type": "application/json" },
+    credentials: "include",
+    body: JSON.stringify({ name })
+  });
+  return await response.json();
 }
 
-function createUser(name) {
-  const profiles = loadProfiles();
-  const id = crypto.randomUUID();
-
-  profiles.users[id] = {
-    id,
-    name,
-    createdAt: new Date().toISOString(),
-    updatedAt: new Date().toISOString(),
-    caughtPokemon: {},
-    shinyPokemon: {},
-    ownedGames: [],
-    ownedConsoles: []
-  };
-
-  saveProfiles(profiles);
-  setActiveUserId(id);
-
-  return profiles.users[id];
+async function removeProfile(profileId) {
+  const response = await fetch(`${API_BASE}/api/profiles/${profileId}`, {
+    method: "DELETE",
+    credentials: "include"
+  });
+  return await response.json();
 }
 
-function ensureDefaultProfile() {
-  const profiles = loadProfiles();
-  const activeUserId = getActiveUserId();
+let profilesCache = [];
 
-  if (Object.keys(profiles.users).length === 0) {
-    return createUser("Player 1");
-  }
-
-  if (!activeUserId || !profiles.users[activeUserId]) {
-    const firstUserId = Object.keys(profiles.users)[0];
-    setActiveUserId(firstUserId);
-  }
-
-  return getActiveUser();
-}
-
-function updateActiveUser(updater) {
-  const profiles = loadProfiles();
-  const activeUserId = getActiveUserId();
-
-  if (!activeUserId || !profiles.users[activeUserId]) return;
-
-  updater(profiles.users[activeUserId]);
-  profiles.users[activeUserId].updatedAt = new Date().toISOString();
-
-  saveProfiles(profiles);
-}
-
-function getAllProfiles() {
-  const profiles = loadProfiles();
-  return Object.values(profiles.users);
-}
-
-function populateProfileSelect() {
+async function populateProfileSelect() {
   if (!profileSelect) return;
 
-  const profiles = getAllProfiles();
-  const activeUserId = getActiveUserId();
+  const profiles = await fetchProfiles();
+
+  if (!Array.isArray(profiles)) {
+    console.error("populateProfileSelect expected array, got:", profiles);
+    profileSelect.innerHTML = "";
+    return;
+  }
+
+  profilesCache = profiles;
+
+  let activeProfileId = getActiveProfileId();
+
+  if (!activeProfileId && profiles.length > 0) {
+    activeProfileId = String(profiles[0].id);
+    setActiveProfileId(activeProfileId);
+  }
 
   profileSelect.innerHTML = "";
 
-  profiles.forEach((user) => {
+  profiles.forEach((profile) => {
     const option = document.createElement("option");
-    option.value = user.id;
-    option.textContent = user.name;
-    option.selected = user.id === activeUserId;
+    option.value = profile.id;
+    option.textContent = profile.name;
+    option.selected = String(profile.id) === String(activeProfileId);
     profileSelect.appendChild(option);
   });
 }
 
-function switchProfile(userId) {
-  setActiveUserId(userId);
-  selectedPokemonId = null;
-  init();
+async function ensureBackendDefaultProfile() {
+  const profiles = await fetchProfiles();
+
+  if (!Array.isArray(profiles) || profiles.length === 0) {
+    const created = await createProfile("Profile 1");
+
+    if (created.error) {
+      alert(created.error);
+      return null;
+    }
+
+    setActiveProfileId(created.id);
+    return created;
+  }
+
+  let activeProfileId = getActiveProfileId();
+  const matchingProfile = profiles.find(
+    (profile) => String(profile.id) === String(activeProfileId)
+  );
+
+  if (!matchingProfile) {
+    setActiveProfileId(profiles[0].id);
+    return profiles[0];
+  }
+
+  return matchingProfile;
 }
 
 function setupProfileUI() {
   if (profileSelect) {
-    profileSelect.addEventListener("change", (event) => {
-      switchProfile(event.target.value);
+    profileSelect.addEventListener("change", async (event) => {
+      setActiveProfileId(event.target.value);
+      selectedPokemonId = null;
+      await init();
     });
   }
 
   if (newProfileBtn) {
-    newProfileBtn.addEventListener("click", () => {
+    newProfileBtn.addEventListener("click", async () => {
       const name = prompt("Enter a name for the new profile:");
       if (!name || !name.trim()) return;
 
-      createUser(name.trim());
-      populateProfileSelect();
+      const result = await createProfile(name.trim());
+      if (result.error) {
+        alert(result.error);
+        return;
+      }
+
+      setActiveProfileId(result.id);
       selectedPokemonId = null;
-      init();
+      await populateProfileSelect();
+      await init();
     });
   }
 
   if (renameProfileBtn) {
-    renameProfileBtn.addEventListener("click", () => {
-      const activeUser = getActiveUser();
-      if (!activeUser) return;
+    renameProfileBtn.addEventListener("click", async () => {
+      const profileId = getActiveProfileId();
+      const current = profilesCache.find(
+        (p) => String(p.id) === String(profileId)
+      );
+      if (!current) return;
 
-      const newName = prompt("Enter a new profile name:", activeUser.name);
+      const newName = prompt("Enter a new profile name:", current.name);
       if (!newName || !newName.trim()) return;
 
-      renameActiveProfile(newName.trim());
-      populateProfileSelect();
+      const result = await renameProfile(profileId, newName.trim());
+      if (result.error) {
+        alert(result.error);
+        return;
+      }
+
+      await populateProfileSelect();
     });
   }
 
   if (deleteProfileBtn) {
-    deleteProfileBtn.addEventListener("click", () => {
-      const activeUser = getActiveUser();
-      if (!activeUser) return;
+    deleteProfileBtn.addEventListener("click", async () => {
+      const profileId = getActiveProfileId();
+      const current = profilesCache.find(
+        (p) => String(p.id) === String(profileId)
+      );
+      if (!current) return;
 
-      const confirmed = confirm(`Delete profile "${activeUser.name}"?`);
-      if (!confirmed) return;
+      if (!confirm(`Delete profile "${current.name}"?`)) return;
 
-      const deleted = deleteProfile(activeUser.id);
-      if (deleted) {
-        selectedPokemonId = null;
-        populateProfileSelect();
-        init();
+      const result = await removeProfile(profileId);
+      if (result.error) {
+        alert(result.error);
+        return;
       }
+
+      const remaining = await fetchProfiles();
+
+      if (remaining.length > 0) {
+        setActiveProfileId(remaining[0].id);
+      } else {
+        localStorage.removeItem(ACTIVE_PROFILE_KEY);
+      }
+
+      await populateProfileSelect();
+      selectedPokemonId = null;
+      await init();
     });
   }
-
-  populateProfileSelect();
-}
-
-function applyUserDataToPokemon(basePokemonData, user) {
-  return basePokemonData.map((pokemon) => ({
-    ...pokemon,
-    caught: !!user?.caughtPokemon?.[pokemon.id],
-    shiny: !!user?.shinyPokemon?.[pokemon.id]
-  }));
-}
-
-function getOwnedGames() {
-  const user = getActiveUser();
-  return user?.ownedGames || [];
-}
-
-function getOwnedConsoles() {
-  const user = getActiveUser();
-  return user?.ownedConsoles || [];
-}
-
-function saveOwnedGames(games) {
-  updateActiveUser((user) => {
-    user.ownedGames = games;
-  });
-}
-
-function saveOwnedConsoles(consoles) {
-  updateActiveUser((user) => {
-    user.ownedConsoles = consoles;
-  });
-}
-
-function renameActiveProfile(newName) {
-  updateActiveUser((user) => {
-    user.name = newName;
-  });
-}
-
-function deleteProfile(userId) {
-  const profiles = loadProfiles();
-  const userIds = Object.keys(profiles.users);
-
-  if (userIds.length <= 1) {
-    alert("You must keep at least one profile.");
-    return false;
-  }
-
-  delete profiles.users[userId];
-  saveProfiles(profiles);
-
-  const remainingIds = Object.keys(profiles.users);
-  setActiveUserId(remainingIds[0]);
-
-  return true;
 }
 
 const GAME_ORDER = [
@@ -387,8 +358,6 @@ async function init() {
 
   encounterMap = buildEncounterMap(allEncounters);
 
-  const activeUser = ensureDefaultProfile();
-
   const basePokemonData = pokemon.map((p) => ({
     ...p,
     types: normalizeTypes(p.types),
@@ -397,10 +366,52 @@ async function init() {
     games: getPokemonGames(p.id)
   }));
 
-  pokemonData = applyUserDataToPokemon(basePokemonData, activeUser);
+  const activeProfile = await ensureBackendDefaultProfile();
+  await populateProfileSelect();
 
-  loadOwnedSelections();
-  populateProfileSelect();
+  if (!activeProfile) {
+    pokemonData = basePokemonData;
+    loadOwnedSelections([], []);
+    applyFilters();
+    renderPokemonDetails();
+    return;
+  }
+
+  const profileData = await fetchProfileData(activeProfile.id);
+
+  if (profileData.error) {
+    console.error("Failed to load profile data:", profileData.error);
+    pokemonData = basePokemonData;
+    loadOwnedSelections([], []);
+    applyFilters();
+    renderPokemonDetails();
+    return;
+  }
+
+  const pokemonMap = new Map(
+    (profileData.pokemon || []).map((row) => [
+      Number(row.pokemon_id),
+      {
+        caught: !!row.caught,
+        shiny: !!row.shiny
+      }
+    ])
+  );
+
+  pokemonData = basePokemonData.map((pokemon) => {
+    const saved = pokemonMap.get(Number(pokemon.id));
+    return {
+      ...pokemon,
+      caught: saved ? saved.caught : false,
+      shiny: saved ? saved.shiny : false
+    };
+  });
+
+  loadOwnedSelections(
+    profileData.ownedGames || [],
+    profileData.ownedConsoles || []
+  );
+
   applyFilters();
   renderPokemonDetails();
 }
@@ -409,6 +420,18 @@ async function init() {
 //localStorage.removeItem("ownedGames");
 //localStorage.removeItem("ownedConsoles");
 
+let authSection;
+let appSection;
+let registerUsername;
+let registerPassword;
+let registerBtn;
+let loginUsername;
+let loginPassword;
+let loginBtn;
+let logoutBtn;
+let currentUsername;
+let authMessage;
+let loggedInSection;
 
 let pokemonList;
 let completionText;
@@ -435,6 +458,19 @@ let renameProfileBtn;
 let deleteProfileBtn;
 
 function setupDOMReferences() {
+  authSection = document.getElementById("auth-section");
+  appSection = document.getElementById("app-section");
+  registerUsername = document.getElementById("registerUsername");
+  registerPassword = document.getElementById("registerPassword");
+  registerBtn = document.getElementById("registerBtn");
+  loginUsername = document.getElementById("loginUsername");
+  loginPassword = document.getElementById("loginPassword");
+  loginBtn = document.getElementById("loginBtn");
+  logoutBtn = document.getElementById("logoutBtn");
+  currentUsername = document.getElementById("currentUsername");
+  authMessage = document.getElementById("authMessage");
+  loggedInSection = document.getElementById("loggedInSection");
+
   pokemonList = document.getElementById("pokemon-list");
   completionText = document.getElementById("completion");
   progressText = document.getElementById("progress-text");
@@ -522,23 +558,32 @@ function updateObtainableProgress(obtainablePokemon) {
   obtainableProgressFill.style.width = `${percent}%`;
 }
 
-function saveOwnedSelections() {
+async function saveOwnedSelections() {
+  const profileId = getActiveProfileId();
+  if (!profileId) return;
+
   const ownedGames = Array.from(ownedGameCheckboxes)
-    .filter(cb => cb.checked)
-    .map(cb => cb.value);
+    .filter((cb) => cb.checked)
+    .map((cb) => cb.value);
 
   const ownedConsoles = Array.from(ownedConsoleCheckboxes)
-    .filter(cb => cb.checked)
-    .map(cb => cb.value);
+    .filter((cb) => cb.checked)
+    .map((cb) => cb.value);
 
-  saveOwnedGames(ownedGames);
-  saveOwnedConsoles(ownedConsoles);
+  const gamesResult = await saveOwnedGamesToBackend(profileId, ownedGames);
+  if (gamesResult.error) {
+    alert(gamesResult.error);
+    return;
+  }
+
+  const consolesResult = await saveOwnedConsolesToBackend(profileId, ownedConsoles);
+  if (consolesResult.error) {
+    alert(consolesResult.error);
+    return;
+  }
 }
 
-function loadOwnedSelections() {
-  const ownedGames = getOwnedGames();
-  const ownedConsoles = getOwnedConsoles();
-
+function loadOwnedSelections(ownedGames = [], ownedConsoles = []) {
   ownedGameCheckboxes.forEach((checkbox) => {
     checkbox.checked = ownedGames.includes(checkbox.value);
   });
@@ -664,47 +709,66 @@ function addEventListeners() {
   const infoButtons = document.querySelectorAll(".info-button");
 
   pokemonCards.forEach((card) => {
-    card.addEventListener("click", function () {
+    card.addEventListener("click", async function () {
       const pokemonID = Number(this.dataset.id);
       const pokemon = pokemonData.find((p) => p.id === pokemonID);
       if (!pokemon) return;
 
+      const oldCaught = pokemon.caught;
       pokemon.caught = !pokemon.caught;
-
-      updateActiveUser((user) => {
-        user.caughtPokemon[pokemonID] = pokemon.caught;
-      });
 
       applyFilters();
       renderPokemonDetails();
+
+      const profileId = getActiveProfileId();
+      if (!profileId) return;
+
+      const result = await savePokemonStatus(
+        profileId,
+        pokemonID,
+        pokemon.caught,
+        pokemon.shiny
+      );
+
+      if (result.error) {
+        pokemon.caught = oldCaught;
+        applyFilters();
+        renderPokemonDetails();
+        alert(result.error);
+      }
     });
   });
 
   shinyButtons.forEach((button) => {
-    button.addEventListener("click", function (event) {
+    button.addEventListener("click", async function (event) {
       event.stopPropagation();
 
       const pokemonID = Number(this.dataset.id);
       const pokemon = pokemonData.find((p) => p.id === pokemonID);
       if (!pokemon) return;
 
+      const oldShiny = pokemon.shiny;
       pokemon.shiny = !pokemon.shiny;
 
-      updateActiveUser((user) => {
-        user.shinyPokemon[pokemonID] = pokemon.shiny;
-      });
-
       applyFilters();
       renderPokemonDetails();
-    });
-  });
 
-  infoButtons.forEach((button) => {
-    button.addEventListener("click", function (event) {
-      event.stopPropagation();
-      selectedPokemonId = Number(this.dataset.id);
-      applyFilters();
-      renderPokemonDetails();
+      const profileId = getActiveProfileId();
+      if (!profileId) return;
+
+      const result = await savePokemonStatus(
+        profileId,
+        pokemonID,
+        pokemon.caught,
+        pokemon.shiny
+      );
+
+      if (result.error) {
+        pokemon.shiny = oldShiny;
+        applyFilters();
+        renderPokemonDetails();
+        alert(result.error);
+      }
     });
   });
 }
@@ -898,24 +962,241 @@ function setupStaticEventListeners() {
   });
 
   ownedConsoleCheckboxes.forEach((checkbox) => {
-    checkbox.addEventListener("change", () => {
-      saveOwnedSelections();
+    checkbox.addEventListener("change", async () => {
       applyFilters();
+      await saveOwnedSelections();
     });
   });
 
   ownedGameCheckboxes.forEach((checkbox) => {
-    checkbox.addEventListener("change", () => {
-      saveOwnedSelections();
+    checkbox.addEventListener("change", async () => {
       applyFilters();
+      await saveOwnedSelections();
     });
   });
 }
 
-window.addEventListener("DOMContentLoaded", () => {
+//#########################################
+//############### Backend #################
+//#########################################
+
+const API_BASE = "http://127.0.0.1:3000";
+
+function setAuthMessage(message, isError = false) {
+  if (!authMessage) return;
+  authMessage.textContent = message;
+  authMessage.style.color = isError ? "red" : "green";
+}
+
+function showLoggedOutUI() {
+  if (appSection) appSection.style.display = "none";
+  if (loggedInSection) loggedInSection.style.display = "none";
+}
+
+function showLoggedInUI(username) {
+  if (appSection) appSection.style.display = "block";
+  if (loggedInSection) loggedInSection.style.display = "block";
+  if (currentUsername) currentUsername.textContent = username;
+}
+
+async function registerAccount(username, password) {
+  const response = await fetch(`${API_BASE}/api/register`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    credentials: "include",
+    body: JSON.stringify({ username, password })
+  });
+
+  return await response.json();
+}
+
+async function loginAccount(username, password) {
+  const response = await fetch(`${API_BASE}/api/login`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    credentials: "include",
+    body: JSON.stringify({ username, password })
+  });
+
+  return await response.json();
+}
+
+async function logoutAccount() {
+  const response = await fetch(`${API_BASE}/api/logout`, {
+    method: "POST",
+    credentials: "include"
+  });
+
+  return await response.json();
+}
+
+async function fetchCurrentUser() {
+  const response = await fetch(`${API_BASE}/api/me`, {
+    credentials: "include"
+  });
+
+  if (!response.ok) {
+    return null;
+  }
+
+  const data = await response.json();
+  return data.user;
+}
+
+async function fetchProfileData(profileId) {
+  const response = await fetch(`${API_BASE}/api/profiles/${profileId}/data`, {
+    credentials: "include"
+  });
+
+  const data = await response.json();
+  console.log("fetchProfileData response:", response.status, data);
+  return data;
+}
+
+async function savePokemonStatus(profileId, pokemonId, caught, shiny) {
+  const response = await fetch(`${API_BASE}/api/profiles/${profileId}/pokemon/${pokemonId}`, {
+    method: "PUT",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    credentials: "include",
+    body: JSON.stringify({ caught, shiny })
+  });
+
+  return await response.json();
+}
+
+async function saveOwnedGamesToBackend(profileId, ownedGames) {
+  const response = await fetch(`${API_BASE}/api/profiles/${profileId}/owned-games`, {
+    method: "PUT",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    credentials: "include",
+    body: JSON.stringify({ ownedGames })
+  });
+
+  return await response.json();
+}
+
+async function saveOwnedConsolesToBackend(profileId, ownedConsoles) {
+  const response = await fetch(`${API_BASE}/api/profiles/${profileId}/owned-consoles`, {
+    method: "PUT",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    credentials: "include",
+    body: JSON.stringify({ ownedConsoles })
+  });
+
+  return await response.json();
+}
+
+function setupAuthEventListeners() {
+  if (registerBtn) {
+    registerBtn.addEventListener("click", async () => {
+      const username = registerUsername.value.trim();
+      const password = registerPassword.value.trim();
+
+      if (!username || !password) {
+        setAuthMessage("Enter a username and password.", true);
+        return;
+      }
+
+      const result = await registerAccount(username, password);
+
+      if (result.error) {
+        setAuthMessage(result.error, true);
+        return;
+      }
+
+      setAuthMessage("Registered and logged in.");
+
+      const me = await fetchCurrentUser();
+      if (!me) {
+        setAuthMessage("Registered, but session was not available.", true);
+        return;
+      }
+
+      showLoggedInUI(me.username);
+
+      await populateProfileSelect();
+      setupProfileUI();
+      setupStaticEventListeners();
+      await init();
+    });
+  }
+
+  if (loginBtn) {
+    loginBtn.addEventListener("click", async () => {
+      const username = loginUsername.value.trim();
+      const password = loginPassword.value.trim();
+
+      if (!username || !password) {
+        setAuthMessage("Enter a username and password.", true);
+        return;
+      }
+
+      const result = await loginAccount(username, password);
+
+      if (result.error) {
+        setAuthMessage(result.error, true);
+        return;
+      }
+
+      setAuthMessage("Logged in.");
+
+      const me = await fetchCurrentUser();
+      if (!me) {
+        setAuthMessage("Login worked, but session was not available.", true);
+        return;
+      }
+
+      showLoggedInUI(me.username);
+
+      await populateProfileSelect();
+      setupProfileUI();
+      setupStaticEventListeners();
+      await init();
+    });
+  }
+
+  if (logoutBtn) {
+    logoutBtn.addEventListener("click", async () => {
+      const result = await logoutAccount();
+
+      if (result.error) {
+        setAuthMessage(result.error, true);
+        return;
+      }
+
+      setAuthMessage("Logged out.");
+      showLoggedOutUI();
+    });
+  }
+}
+
+
+window.addEventListener("DOMContentLoaded", async () => {
   setupDOMReferences();
-  ensureDefaultProfile();
+  setupAuthEventListeners();
+
+  const currentUser = await fetchCurrentUser();
+
+  if (!currentUser) {
+    showLoggedOutUI();
+    return;
+  }
+
+  showLoggedInUI(currentUser.username);
+
+  await ensureBackendDefaultProfile();
+  await populateProfileSelect();
   setupProfileUI();
   setupStaticEventListeners();
-  init();
+  await init();
 });
